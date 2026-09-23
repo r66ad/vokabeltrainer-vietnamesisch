@@ -2,6 +2,52 @@
   "schema_version": 1,
   "repo_id": "local/vokabeltrainer",
   "device_id": null,
-  "updated_at": null,
-  "items": {}
+  "updated_at": "2026-09-23T16:02:31.404Z",
+  "items": {
+    "vi-day01-vocab-01": {
+      "state": "learned",
+      "step": 1,
+      "review_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_reviewed_at": "2026-09-23T16:02:08.857Z",
+      "next_review_at": "2026-09-24T16:02:08.857Z"
+    },
+    "vi-day01-vocab-02": {
+      "state": "learned",
+      "step": 1,
+      "review_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_reviewed_at": "2026-09-23T16:02:10.592Z",
+      "next_review_at": "2026-09-24T16:02:10.592Z"
+    },
+    "vi-day01-vocab-03": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-09-23T16:02:16.249Z",
+      "next_review_at": "2026-09-23T16:12:16.249Z"
+    },
+    "vi-day01-vocab-04": {
+      "state": "learned",
+      "step": 1,
+      "review_count": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
+      "last_reviewed_at": "2026-09-23T16:02:23.970Z",
+      "next_review_at": "2026-09-24T16:02:23.970Z"
+    },
+    "vi-day01-vocab-05": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-09-23T16:02:31.404Z",
+      "next_review_at": "2026-09-23T16:12:31.404Z"
+    }
+  }
 }
