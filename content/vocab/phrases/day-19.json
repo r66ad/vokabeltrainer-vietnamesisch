@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vi-day19-sentences-01",
+    "front": "Tôi đang chờ bạn.",
+    "back": "Ich warte gerade auf dich.",
+    "kind": "sentence",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "note": "`đang` markiert die laufende Handlung: gerade warten.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-day19-sentences-02",
+    "front": "Hẹn gặp lại.",
+    "back": "Bis bald / Auf Wiedersehen.",
+    "kind": "sentence",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "note": "Wörtlich etwa: verabredet, sich wieder zu treffen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6b1c12574fe91bb9c730c1a0.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  }
+]

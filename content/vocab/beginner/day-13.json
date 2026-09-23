@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day13-vocab-01",
+    "front": "thích",
+    "back": "mögen; gernhaben",
+    "kind": "vocabulary",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "pronunciation": "thich steigend",
+    "example": "Tôi thích món này. = Ich mag dieses Gericht.",
+    "note": "Aussprache: thich steigend · Tôi thích món này. = Ich mag dieses Gericht."
+  },
+  {
+    "id": "vi-day13-vocab-02",
+    "front": "món",
+    "back": "Gericht; Speise",
+    "kind": "vocabulary",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "pronunciation": "mon steigend",
+    "example": "Món này ngon. = Dieses Gericht ist lecker.",
+    "note": "Aussprache: mon steigend · Món này ngon. = Dieses Gericht ist lecker."
+  },
+  {
+    "id": "vi-day13-vocab-03",
+    "front": "ngon",
+    "back": "lecker; gut schmeckend",
+    "kind": "vocabulary",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "pronunciation": "ngon",
+    "example": "Phở ngon. = Pho ist lecker.",
+    "note": "Aussprache: ngon · Phở ngon. = Pho ist lecker."
+  },
+  {
+    "id": "vi-day13-vocab-04",
+    "front": "quá",
+    "back": "sehr; zu",
+    "kind": "vocabulary",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "pronunciation": "qua steigend",
+    "example": "Ngon quá. = Sehr lecker.",
+    "note": "Aussprache: qua steigend · Ngon quá. = Sehr lecker."
+  },
+  {
+    "id": "vi-day13-vocab-05",
+    "front": "nhưng",
+    "back": "aber",
+    "kind": "vocabulary",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "pronunciation": "njung",
+    "example": "Tôi thích phở, nhưng không ăn hôm nay. = Ich mag Pho, aber esse heute keine.",
+    "note": "Aussprache: njung · Tôi thích phở, nhưng không ăn hôm nay. = Ich mag Pho, aber esse heute keine."
+  }
+]

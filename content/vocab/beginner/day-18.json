@@ -1,0 +1,87 @@
+[
+  {
+    "id": "vi-day18-vocab-01",
+    "front": "vào",
+    "back": "hineingehen; in",
+    "kind": "vocabulary",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "pronunciation": "vao fallend",
+    "example": "Tôi vào nhà. = Ich gehe ins Haus.",
+    "note": "Aussprache: vao fallend · Tôi vào nhà. = Ich gehe ins Haus.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c46468ff5ae153fdea948cc3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-day18-vocab-02",
+    "front": "ra",
+    "back": "hinausgehen; heraus",
+    "kind": "vocabulary",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "pronunciation": "ra",
+    "example": "Tôi ra ngoài. = Ich gehe nach draußen.",
+    "note": "Aussprache: ra · Tôi ra ngoài. = Ich gehe nach draußen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5f2367f311e1dcb2c982e13e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-day18-vocab-03",
+    "front": "lên",
+    "back": "hinaufgehen; hoch",
+    "kind": "vocabulary",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "pronunciation": "len steigend",
+    "example": "Tôi lên xe. = Ich steige ins Fahrzeug.",
+    "note": "Aussprache: len steigend · Tôi lên xe. = Ich steige ins Fahrzeug.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/91a891c9e413c8d6577fcd7d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-day18-vocab-04",
+    "front": "xuống",
+    "back": "hinuntergehen; runter",
+    "kind": "vocabulary",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "pronunciation": "xuong steigend",
+    "example": "Bạn xuống xe. = Du steigst aus dem Fahrzeug aus.",
+    "note": "Aussprache: xuong steigend · Bạn xuống xe. = Du steigst aus dem Fahrzeug aus.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6c085334d8c0dab854b980f8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-day18-vocab-05",
+    "front": "về",
+    "back": "zurückgehen; nach Hause gehen",
+    "kind": "vocabulary",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "pronunciation": "ve fallend",
+    "example": "Tôi về nhà bây giờ. = Ich gehe jetzt nach Hause.",
+    "note": "Aussprache: ve fallend · Tôi về nhà bây giờ. = Ich gehe jetzt nach Hause.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7f6da36441a27b14aa74d44b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day05-vocab-01",
+    "front": "biết",
+    "back": "wissen; kennen",
+    "kind": "vocabulary",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "pronunciation": "biet steigend",
+    "example": "Tôi biết. = Ich weiß.",
+    "note": "Aussprache: biet steigend · Tôi biết. = Ich weiß."
+  },
+  {
+    "id": "vi-day05-vocab-02",
+    "front": "muốn",
+    "back": "wollen; möchten",
+    "kind": "vocabulary",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "pronunciation": "muon steigend",
+    "example": "Tôi muốn học. = Ich möchte lernen.",
+    "note": "Aussprache: muon steigend · Tôi muốn học. = Ich möchte lernen."
+  },
+  {
+    "id": "vi-day05-vocab-03",
+    "front": "nói",
+    "back": "sprechen; sagen",
+    "kind": "vocabulary",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "pronunciation": "noi steigend",
+    "example": "Tôi nói tiếng Đức. = Ich spreche Deutsch.",
+    "note": "Aussprache: noi steigend · Tôi nói tiếng Đức. = Ich spreche Deutsch."
+  },
+  {
+    "id": "vi-day05-vocab-04",
+    "front": "tiếng",
+    "back": "Sprache; Klang",
+    "kind": "vocabulary",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "pronunciation": "tieng steigend",
+    "example": "Tiếng Việt = Vietnamesisch",
+    "note": "Aussprache: tieng steigend · Tiếng Việt = Vietnamesisch"
+  },
+  {
+    "id": "vi-day05-vocab-05",
+    "front": "Việt Nam",
+    "back": "Vietnam; vietnamesisch",
+    "kind": "vocabulary",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "pronunciation": "viet nam",
+    "example": "Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
+    "note": "Aussprache: viet nam · Tôi học tiếng Việt. = Ich lerne Vietnamesisch."
+  }
+]

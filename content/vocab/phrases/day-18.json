@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vi-day18-sentences-01",
+    "front": "Tôi về nhà bây giờ.",
+    "back": "Ich gehe jetzt nach Hause.",
+    "kind": "sentence",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "note": "`về` heißt zurückgehen, oft mit Ziel: `về nhà` = nach Hause gehen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b2f690a58a1d02f29101338d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-day18-sentences-02",
+    "front": "Bạn muốn vào không?",
+    "back": "Möchtest du reinkommen?",
+    "kind": "sentence",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "note": "Richtungsverben wie `vào`, `ra`, `lên`, `xuống`, `về` können allein stehen oder nach einem Bewegungsverb die Richtung zeigen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b541ad087c80e8ec2cad0e51.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  }
+]

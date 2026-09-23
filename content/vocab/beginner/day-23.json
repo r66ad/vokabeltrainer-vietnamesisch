@@ -1,0 +1,91 @@
+[
+  {
+    "id": "vi-day23-vocab-01",
+    "front": "cho",
+    "back": "für; geben an",
+    "kind": "vocabulary",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "pronunciation": "cho",
+    "example": "Tôi mua cà phê cho bạn. = Ich kaufe Kaffee für dich.",
+    "note": "Aussprache: cho · Tôi mua cà phê cho bạn. = Ich kaufe Kaffee für dich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8f0e20277e455c29a6ca248a.mp3",
+      "de": "content/vocab/audio/clips/7f0f763e2abf8fa88fe32464.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day23-vocab-02",
+    "front": "lấy",
+    "back": "nehmen; holen",
+    "kind": "vocabulary",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "pronunciation": "lay steigend",
+    "example": "Tôi lấy cái này. = Ich nehme das hier.",
+    "note": "Aussprache: lay steigend · Tôi lấy cái này. = Ich nehme das hier.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4ab34c9049c1cc0d628496c6.mp3",
+      "de": "content/vocab/audio/clips/cb1140e1bf2386c3c322ef6b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day23-vocab-03",
+    "front": "mang",
+    "back": "bringen; tragen; mitbringen",
+    "kind": "vocabulary",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "pronunciation": "mang",
+    "example": "Bạn mang nước được không? = Kannst du Wasser mitbringen?",
+    "note": "Aussprache: mang · Bạn mang nước được không? = Kannst du Wasser mitbringen?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day23-vocab-04",
+    "front": "để",
+    "back": "um zu; damit; lassen oder legen",
+    "kind": "vocabulary",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "pronunciation": "de fragend",
+    "example": "Tôi học để nói tiếng Việt. = Ich lerne, um Vietnamesisch zu sprechen.",
+    "note": "Aussprache: de fragend · Tôi học để nói tiếng Việt. = Ich lerne, um Vietnamesisch zu sprechen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b40dd8a41ec8edfba569c1fc.mp3",
+      "de": "content/vocab/audio/clips/ed9b2666c0b650ecf7272549.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day23-vocab-05",
+    "front": "nhận",
+    "back": "erhalten; bekommen",
+    "kind": "vocabulary",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "pronunciation": "nhan schwer",
+    "example": "Tôi nhận được tin nhắn. = Ich bekomme eine Nachricht.",
+    "note": "Aussprache: nhan schwer · Tôi nhận được tin nhắn. = Ich bekomme eine Nachricht.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/61f62ff6f16fb862a890c35f.mp3",
+      "de": "content/vocab/audio/clips/c4b2ea9050dbcd1dd26bbd57.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  }
+]

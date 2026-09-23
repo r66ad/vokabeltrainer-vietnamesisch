@@ -1,0 +1,64 @@
+[
+  {
+    "id": "vi-day07-vocab-01",
+    "front": "ai",
+    "back": "wer",
+    "kind": "vocabulary",
+    "introduced_day": 7,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "ai",
+    "example": "Ai đó? = Wer ist das?",
+    "note": "Aussprache: ai · Ai đó? = Wer ist das?"
+  },
+  {
+    "id": "vi-day07-vocab-02",
+    "front": "khi nào",
+    "back": "wann",
+    "kind": "vocabulary",
+    "introduced_day": 7,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "khi nao",
+    "example": "Khi nào bạn đi? = Wann gehst du?",
+    "note": "Aussprache: khi nao · Khi nào bạn đi? = Wann gehst du?"
+  },
+  {
+    "id": "vi-day07-vocab-03",
+    "front": "vì sao",
+    "back": "warum",
+    "kind": "vocabulary",
+    "introduced_day": 7,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "vi sao",
+    "example": "Vì sao? = Warum?",
+    "note": "Aussprache: vi sao · Vì sao? = Warum?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1a855236d9595a850e22335a.mp3",
+      "de": "content/vocab/audio/clips/bb333b1d7599bd933e7ead3f.mp3"
+    }
+  },
+  {
+    "id": "vi-day07-vocab-04",
+    "front": "được",
+    "back": "können; dürfen; bekommen",
+    "kind": "vocabulary",
+    "introduced_day": 7,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "duoc",
+    "example": "Được. = Okay / geht.",
+    "note": "Aussprache: duoc · Được. = Okay / geht.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4bb6a3d3434fe24c7f79bacd.mp3"
+    }
+  },
+  {
+    "id": "vi-day07-vocab-05",
+    "front": "phải",
+    "back": "müssen; richtig",
+    "kind": "vocabulary",
+    "introduced_day": 7,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "phai fragend",
+    "example": "Tôi phải học. = Ich muss lernen.",
+    "note": "Aussprache: phai fragend · Tôi phải học. = Ich muss lernen."
+  }
+]

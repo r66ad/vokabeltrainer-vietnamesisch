@@ -1,0 +1,890 @@
+{
+  "schema_version": 1,
+  "source": "vietnamese-review.md",
+  "source_sha256": "38c58a51e8e1f0558bbe5b9543c04306b90650c5613196ca8aa607070333b6a0",
+  "start_date": "2026-09-02",
+  "last_introduced_day": 24,
+  "last_introduced_on": "2026-09-23",
+  "status_in_source": "Gelernte Karten",
+  "srs_import_note": "Die Quelle dokumentiert eingeführte/gelernte Karten und einzelne Korrekturen, aber keine vollständigen Bewertungszähler oder Fälligkeiten. Diese wurden nicht erfunden; progress.json enthält weiterhin nur echte App-Bewertungen.",
+  "introduced_cards": [
+    {
+      "id": "vi-day01-vocab-01",
+      "day": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day01-vocab-02",
+      "day": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day01-vocab-03",
+      "day": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day01-vocab-04",
+      "day": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day01-vocab-05",
+      "day": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day02-vocab-01",
+      "day": 2,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day02-vocab-02",
+      "day": 2,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day02-vocab-03",
+      "day": 2,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day02-vocab-04",
+      "day": 2,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day02-vocab-05",
+      "day": 2,
+      "date": "2026-09-02"
+    },
+    {
+      "id": "vi-day03-vocab-01",
+      "day": 3,
+      "date": "2026-09-03"
+    },
+    {
+      "id": "vi-day03-vocab-02",
+      "day": 3,
+      "date": "2026-09-03"
+    },
+    {
+      "id": "vi-day03-vocab-03",
+      "day": 3,
+      "date": "2026-09-03"
+    },
+    {
+      "id": "vi-day03-vocab-04",
+      "day": 3,
+      "date": "2026-09-03"
+    },
+    {
+      "id": "vi-day03-vocab-05",
+      "day": 3,
+      "date": "2026-09-03"
+    },
+    {
+      "id": "vi-day04-vocab-01",
+      "day": 4,
+      "date": "2026-09-04"
+    },
+    {
+      "id": "vi-day04-vocab-02",
+      "day": 4,
+      "date": "2026-09-04"
+    },
+    {
+      "id": "vi-day04-vocab-03",
+      "day": 4,
+      "date": "2026-09-04"
+    },
+    {
+      "id": "vi-day04-vocab-04",
+      "day": 4,
+      "date": "2026-09-04"
+    },
+    {
+      "id": "vi-day04-vocab-05",
+      "day": 4,
+      "date": "2026-09-04"
+    },
+    {
+      "id": "vi-day05-vocab-01",
+      "day": 5,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "vi-day05-vocab-02",
+      "day": 5,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "vi-day05-vocab-03",
+      "day": 5,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "vi-day05-vocab-04",
+      "day": 5,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "vi-day05-vocab-05",
+      "day": 5,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "vi-day06-vocab-01",
+      "day": 6,
+      "date": "2026-09-06"
+    },
+    {
+      "id": "vi-day06-vocab-02",
+      "day": 6,
+      "date": "2026-09-06"
+    },
+    {
+      "id": "vi-day06-vocab-03",
+      "day": 6,
+      "date": "2026-09-06"
+    },
+    {
+      "id": "vi-day06-vocab-04",
+      "day": 6,
+      "date": "2026-09-06"
+    },
+    {
+      "id": "vi-day06-vocab-05",
+      "day": 6,
+      "date": "2026-09-06"
+    },
+    {
+      "id": "vi-day07-vocab-01",
+      "day": 7,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day07-vocab-02",
+      "day": 7,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day07-vocab-03",
+      "day": 7,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day07-vocab-04",
+      "day": 7,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day07-vocab-05",
+      "day": 7,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-vocab-01",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-vocab-02",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-vocab-03",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-vocab-04",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-vocab-05",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-sentences-01",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day08-sentences-02",
+      "day": 8,
+      "date": "2026-09-07"
+    },
+    {
+      "id": "vi-day09-vocab-01",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-vocab-02",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-vocab-03",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-vocab-04",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-vocab-05",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-sentences-01",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day09-sentences-02",
+      "day": 9,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "vi-day10-vocab-01",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-vocab-02",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-vocab-03",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-vocab-04",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-vocab-05",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-sentences-01",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day10-sentences-02",
+      "day": 10,
+      "date": "2026-09-09"
+    },
+    {
+      "id": "vi-day11-vocab-01",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-vocab-02",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-vocab-03",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-vocab-04",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-vocab-05",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-sentences-01",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day11-sentences-02",
+      "day": 11,
+      "date": "2026-09-10"
+    },
+    {
+      "id": "vi-day12-vocab-01",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-vocab-02",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-vocab-03",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-vocab-04",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-vocab-05",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-sentences-01",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day12-sentences-02",
+      "day": 12,
+      "date": "2026-09-11"
+    },
+    {
+      "id": "vi-day13-vocab-01",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-vocab-02",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-vocab-03",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-vocab-04",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-vocab-05",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-sentences-01",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day13-sentences-02",
+      "day": 13,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "vi-day14-vocab-01",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-vocab-02",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-vocab-03",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-vocab-04",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-vocab-05",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-sentences-01",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day14-sentences-02",
+      "day": 14,
+      "date": "2026-09-13"
+    },
+    {
+      "id": "vi-day15-vocab-01",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-vocab-02",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-vocab-03",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-vocab-04",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-vocab-05",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-sentences-01",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day15-sentences-02",
+      "day": 15,
+      "date": "2026-09-14"
+    },
+    {
+      "id": "vi-day16-vocab-01",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-vocab-02",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-vocab-03",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-vocab-04",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-vocab-05",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-sentences-01",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day16-sentences-02",
+      "day": 16,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "vi-day17-vocab-01",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-vocab-02",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-vocab-03",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-vocab-04",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-vocab-05",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-sentences-01",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day17-sentences-02",
+      "day": 17,
+      "date": "2026-09-16"
+    },
+    {
+      "id": "vi-day18-vocab-01",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-vocab-02",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-vocab-03",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-vocab-04",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-vocab-05",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-sentences-01",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day18-sentences-02",
+      "day": 18,
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vi-day19-vocab-01",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-vocab-02",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-vocab-03",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-vocab-04",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-vocab-05",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-sentences-01",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day19-sentences-02",
+      "day": 19,
+      "date": "2026-09-18"
+    },
+    {
+      "id": "vi-day20-vocab-01",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-vocab-02",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-vocab-03",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-vocab-04",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-vocab-05",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-sentences-01",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day20-sentences-02",
+      "day": 20,
+      "date": "2026-09-19"
+    },
+    {
+      "id": "vi-day21-vocab-01",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-vocab-02",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-vocab-03",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-vocab-04",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-vocab-05",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-sentences-01",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day21-sentences-02",
+      "day": 21,
+      "date": "2026-09-20"
+    },
+    {
+      "id": "vi-day22-vocab-01",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-vocab-02",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-vocab-03",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-vocab-04",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-vocab-05",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-sentences-01",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day22-sentences-02",
+      "day": 22,
+      "date": "2026-09-21"
+    },
+    {
+      "id": "vi-day23-vocab-01",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-vocab-02",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-vocab-03",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-vocab-04",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-vocab-05",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-sentences-01",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day23-sentences-02",
+      "day": 23,
+      "date": "2026-09-22"
+    },
+    {
+      "id": "vi-day24-vocab-01",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-vocab-02",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-vocab-03",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-vocab-04",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-vocab-05",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-sentences-01",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-day24-sentences-02",
+      "day": 24,
+      "date": "2026-09-23"
+    },
+    {
+      "id": "vi-chat-01",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-02",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-03",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-04",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-05",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-06",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-07",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-08",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-09",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-10",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-11",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-12",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-13",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-14",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-15",
+      "day": null,
+      "date": null
+    },
+    {
+      "id": "vi-chat-16",
+      "day": null,
+      "date": null
+    }
+  ],
+  "corrections": [
+    "Korrigiert: `Cho tôi nước.` ist für \"Gib mir Wasser\" nicht die passende Lernform. Besser: `Đưa tôi nước.` = Gib mir Wasser. `cho` später separat als \"für\" oder \"geben an\" lernen.",
+    "2026-09-07 Abfrage: `khỏe` nicht mit `đi` verwechseln. `khỏe` = gesund; es geht gut. `đi` = gehen.",
+    "2026-09-07 Abfrage: `được` wiederholen. Bedeutungen: können; dürfen; bekommen; allein auch \"okay/geht\". `tốt` = gut.",
+    "2026-09-07 Abfrage: Bei `tiếng Việt` das `V` in `Việt` groß schreiben.",
+    "2026-09-07 Abfrage: `tiếng Việt` nicht mit `tiền Việt` verwechseln. `tiếng` = Sprache/Klang, `tiền` = Geld.",
+    "2026-09-07 Abfrage: `Khi nào bạn đi?` wiederholen. Bedeutung: Wann gehst du? `khi nào` = wann, nicht \"wie geht es dir\".",
+    "2026-09-07 Abfrage: `tiếng Việt` allein = Vietnamesisch. `học tiếng Việt` = Vietnamesisch lernen.",
+    "2026-09-07 Abfrage: `Bạn ở đâu?` mit `Bạn uống gì?` verwechselt. `ở đâu` = wo, `uống gì` = was trinken.",
+    "2026-09-08 Abfrage: `khi nào` = wann, ohne Akzent auf `khi`; nicht `khí nào`.",
+    "2026-09-08 Abfrage: `Tôi uống nước.` = Ich trinke Wasser. `tôi` = ich, nicht du.",
+    "2026-09-08 Abfrage: `ăn` = essen. Nicht mit `gì` verwechseln; `gì` = was.",
+    "2026-09-08 Chat: `bánh mì` richtig schreiben; nicht `báhn mì`. Sauerteigbrot heißt natürlicher: `bánh mì men chua`.",
+    "2026-09-08 Abfrage: `bánh mì men chua` = Sauerteigbrot. Ohne `ăn` heißt es nicht \"ich esse\".",
+    "2026-09-10 Abfrage: Für \"Ich wohne in Deutschland\" `sống` nutzen: `Tôi sống ở Đức.` / mit `anh`: `Anh sống ở Đức.` `tới` oder `đến` heißt kommen.",
+    "2026-09-11 Abfrage: Für \"Ich komme aus Deutschland\" `Tôi đến từ Đức.` nutzen. `Tôi ở Đức.` heißt eher \"Ich bin/wohne in Deutschland\".",
+    "2026-09-20 Abfrage: `Tôi đến từ Đức.` wieder mit \"Ich lebe in Deutschland\" verwechselt. Korrekt: \"Ich komme aus Deutschland\"; \"Ich lebe in Deutschland\" = `Tôi sống ở Đức.`",
+    "2026-09-22 Abfrage: Für \"Ich nehme das hier\" `Tôi lấy cái này.` nutzen. Nicht mit `lại` verwechseln; `lại` = wieder/noch einmal.",
+    "2026-09-12 Abfrage: `Ich muốn mua món này` mischt Deutsch und Vietnamesisch. Sauber: `Tôi muốn mua món này.` / mit `anh`: `Anh muốn mua món này.`",
+    "2026-09-20 Abfrage: Für \"Ich möchte Kaffee trinken\" nicht `Bạn muốn đi Café` nutzen. Korrekt: `Tôi muốn uống cà phê.` `tôi` = ich, `uống` = trinken, `cà phê` = Kaffee.",
+    "2026-09-20 Abfrage: `Bạn làm nghề gì?` heißt \"Was machst du beruflich?\" Für die allgemeine Frage \"Was machst du?\" lautet die Lernform `Bạn làm gì?`",
+    "2026-09-11 Abfrage: `thành phố lớn` = große Stadt wiederholen. Nicht mit `sáng` (hell/Morgen) verwechseln.",
+    "2026-09-11 Abfrage: `Cái này bao nhiêu tiền?` = Wie viel kostet das? Nicht mit `Tôi muốn mua cái này.` = Ich möchte das hier kaufen verwechseln.",
+    "2026-09-11 Abfrage: Für \"Was verkaufst du?\" `Em bán gì?` / `Bạn bán gì?` nutzen; `Em có đẹp không?` ist eine andere Frage.",
+    "2026-09-20 Abfrage: `Bạn đang bán gì vậy?` ist eine natürliche Variante von \"Was verkaufst du gerade / denn?\". Kurzform: `Bạn bán gì?`",
+    "2026-09-20 Abfrage: `Tôi hiện đang học tiếng Việt.` ist korrekt und betont \"derzeit/aktuell\"; die einfache Lernform ist `Tôi đang học tiếng Việt.`",
+    "2026-09-20 Abfrage: `Bạn có thể nói chậm lại được không?` ist natürlich für \"Kannst du langsamer sprechen / langsamer werden?\". Einfache Lernform: `Bạn nói chậm được không?`"
+  ]
+}

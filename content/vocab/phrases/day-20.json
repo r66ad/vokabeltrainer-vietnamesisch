@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vi-day20-sentences-01",
+    "front": "Hôm nay trời nóng.",
+    "back": "Heute ist es heiß.",
+    "kind": "sentence",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "note": "Für Wetter nutzt man oft `trời` als Subjekt: trời nóng = es ist heiß.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-day20-sentences-02",
+    "front": "Tôi hơi mệt.",
+    "back": "Ich bin ein bisschen müde.",
+    "kind": "sentence",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "note": "`hơi` steht vor einem Adjektiv und schwächt es ab: etwas/ein bisschen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  }
+]

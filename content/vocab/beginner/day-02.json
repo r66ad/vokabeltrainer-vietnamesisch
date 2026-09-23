@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day02-vocab-01",
+    "front": "người",
+    "back": "Mensch; Person",
+    "kind": "vocabulary",
+    "introduced_day": 2,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "ngoei",
+    "example": "Người Việt Nam = Vietnamese/Vietnamesin",
+    "note": "Aussprache: ngoei · Người Việt Nam = Vietnamese/Vietnamesin"
+  },
+  {
+    "id": "vi-day02-vocab-02",
+    "front": "này",
+    "back": "dies; dieser",
+    "kind": "vocabulary",
+    "introduced_day": 2,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "nai fallend",
+    "example": "Cái này là gì? = Was ist das?",
+    "note": "Aussprache: nai fallend · Cái này là gì? = Was ist das?"
+  },
+  {
+    "id": "vi-day02-vocab-03",
+    "front": "đó",
+    "back": "das; dort",
+    "kind": "vocabulary",
+    "introduced_day": 2,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "do steigend",
+    "example": "Người đó = diese Person",
+    "note": "Aussprache: do steigend · Người đó = diese Person"
+  },
+  {
+    "id": "vi-day02-vocab-04",
+    "front": "ở",
+    "back": "in; bei; wohnen",
+    "kind": "vocabulary",
+    "introduced_day": 2,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "oe fragend",
+    "example": "Tôi ở Đức. = Ich wohne in Deutschland.",
+    "note": "Aussprache: oe fragend · Tôi ở Đức. = Ich wohne in Deutschland."
+  },
+  {
+    "id": "vi-day02-vocab-05",
+    "front": "đi",
+    "back": "gehen",
+    "kind": "vocabulary",
+    "introduced_day": 2,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "di",
+    "example": "Tôi đi. = Ich gehe.",
+    "note": "Aussprache: di · Tôi đi. = Ich gehe."
+  }
+]

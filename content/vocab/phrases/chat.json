@@ -1,0 +1,178 @@
+[
+  {
+    "id": "vi-chat-01",
+    "front": "Em muốn ăn gì?",
+    "back": "Was möchtest du essen?",
+    "note": "Natürlich, wenn `em` die angesprochene jüngere/nähere Person ist.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f79a997b22e25f79ed30bb85.mp3",
+      "de": "content/vocab/audio/clips/473020f380b53d53cb87403a.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-02",
+    "front": "Anh muốn uống cà phê.",
+    "back": "Ich möchte Kaffee trinken. / Du möchtest Kaffee trinken.",
+    "note": "`anh` hängt von der Rolle ab: als Sprecher \"ich\" (älterer Mann), als angesprochene Person \"du\".",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5cc27803a9fc55933f77aec9.mp3",
+      "de": "content/vocab/audio/clips/f326de9118745f380c11bd01.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-03",
+    "front": "Anh muốn uống nước.",
+    "back": "Ich möchte Wasser trinken.",
+    "note": "Natürlich, wenn `anh` die Sprecherrolle ist; neutral wäre `Tôi muốn uống nước.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/971b531ca68de3ce472cc38b.mp3",
+      "de": "content/vocab/audio/clips/59d13620d0f0059db3899f2c.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-04",
+    "front": "bánh mì men chua",
+    "back": "Sauerteigbrot",
+    "note": "Natürlicher als `bánh mì chua`; wörtlich Brot mit Sauerteig-Starter.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/948515946268c657b310fa9c.mp3",
+      "de": "content/vocab/audio/clips/195321c6ec5342e691006878.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-05",
+    "front": "Anh ăn bánh mì.",
+    "back": "Ich esse Brot / Bánh mì.",
+    "note": "Natürlich, wenn `anh` die Sprecherrolle ist; neutral wäre `Tôi ăn bánh mì.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6eacb8f9d6a5155744a65033.mp3",
+      "de": "content/vocab/audio/clips/f763b1de8c728cf35ab23b6b.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-06",
+    "front": "Anh không hiểu.",
+    "back": "Ich verstehe nicht.",
+    "note": "Natürlich, wenn `anh` die Sprecherrolle ist; neutral wäre `Tôi không hiểu.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9f0f69903a338fac1e308cf2.mp3",
+      "de": "content/vocab/audio/clips/400892101dfd5392e5429757.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-07",
+    "front": "Em yêu, anh nhớ em.",
+    "back": "Liebling, ich vermisse dich.",
+    "note": "Natürlich, wenn `anh` der Sprecher ist und `em` die angesprochene Person.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2a4393cfeb4ccc8ee638ac0f.mp3",
+      "de": "content/vocab/audio/clips/627474565b642e3a68031406.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-08",
+    "front": "Anh đến từ Slovakia và sống ở Đức.",
+    "back": "Ich komme aus der Slowakei und wohne in Deutschland.",
+    "note": "Mit `anh` als Sprecherrolle; neutral wäre `Tôi đến từ Slovakia và sống ở Đức.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/09789994ec0918ab7132be6d.mp3",
+      "de": "content/vocab/audio/clips/55b027aac4e3b49a11048945.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-09",
+    "front": "Em có đẹp không?",
+    "back": "Bin ich schön? / Bist du schön?",
+    "note": "`em` hängt von der Rolle ab; `có ... không?` bildet eine Ja/Nein-Frage.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/95a984ccd8e308d35a4d3a4e.mp3",
+      "de": "content/vocab/audio/clips/1988094029702b76e9f49fe6.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-10",
+    "front": "Anh yêu có nhớ em không?",
+    "back": "Liebling, vermisst du mich?",
+    "note": "`anh yêu` = Liebling/Schatz; `nhớ em` = mich vermissen, wenn `em` die Sprecherrolle ist.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d8b1d4cda1707399f93568fc.mp3",
+      "de": "content/vocab/audio/clips/552efa593f4345f7a49311d0.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-11",
+    "front": "Món này rất ngon.",
+    "back": "Dieses Gericht ist sehr lecker.",
+    "note": "`rất` steht vor dem Adjektiv: `rất ngon` = sehr lecker.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/28bc1bd9ad062838c179eaf9.mp3",
+      "de": "content/vocab/audio/clips/235d0fdc0be9fcc4e427b76d.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-12",
+    "front": "Tôi học mỗi ngày.",
+    "back": "Ich lerne jeden Tag.",
+    "note": "Korrekt. Auch natürlich: `Mỗi ngày tôi học.` mit stärkerem Fokus auf \"jeden Tag\".",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/044f8425ae286a1719ed3c10.mp3",
+      "de": "content/vocab/audio/clips/bde5d0998db53e8088b32337.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-13",
+    "front": "Anh đang học tiếng Việt.",
+    "back": "Ich lerne gerade Vietnamesisch.",
+    "note": "Natürlich, wenn `anh` die Sprecherrolle ist; neutral wäre `Tôi đang học tiếng Việt.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/38ff1a77b72e05f6d5805c1c.mp3",
+      "de": "content/vocab/audio/clips/682c9b28e7eadef4e842a359.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-14",
+    "front": "Bạn sẽ đi khi nào? / Em sẽ đi khi nào?",
+    "back": "Wann wirst du gehen? / Wann gehst du?",
+    "note": "`sẽ` markiert Zukunft; ohne `sẽ` ist `Khi nào bạn đi?` die knappe Lernform.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/a121604d242f391c49527cac.mp3",
+      "de": "content/vocab/audio/clips/2ac295fb030a8c96a04f205a.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-15",
+    "front": "Mỗi ngày anh học năm từ mới.",
+    "back": "Jeden Tag lerne ich fünf neue Wörter.",
+    "note": "Natürlich mit `anh` als Sprecherrolle; wichtig: `từ` = Wort, aber `tù` = Gefängnis/Gefangener.",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c96d1406bdb7ed5dc155ca9e.mp3",
+      "de": "content/vocab/audio/clips/5399d1edde024b8b94d7a9e2.mp3"
+    }
+  },
+  {
+    "id": "vi-chat-16",
+    "front": "Tôi muốn mua món này.",
+    "back": "Ich möchte dieses Gericht kaufen.",
+    "note": "Nicht Deutsch und Vietnamesisch mischen: `Ich` wird hier zu `Tôi`; mit Sprecherrolle auch `Anh muốn mua món này.`",
+    "kind": "chat-card",
+    "audio": {
+      "vi": "content/vocab/audio/clips/307624d0d323a6a03a696d9d.mp3",
+      "de": "content/vocab/audio/clips/a82ebde231149487d7972e89.mp3"
+    }
+  }
+]

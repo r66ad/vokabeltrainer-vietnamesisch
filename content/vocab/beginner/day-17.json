@@ -1,0 +1,90 @@
+[
+  {
+    "id": "vi-day17-vocab-01",
+    "front": "ngày",
+    "back": "Tag",
+    "kind": "vocabulary",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "pronunciation": "ngai",
+    "example": "Một ngày. = Ein Tag.",
+    "note": "Aussprache: ngai · Một ngày. = Ein Tag.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b11829167d099889cef1e018.mp3",
+      "de": "content/vocab/audio/clips/e11cb0bfedd8f178815bc937.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-day17-vocab-02",
+    "front": "đêm",
+    "back": "Nacht",
+    "kind": "vocabulary",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "pronunciation": "dem",
+    "example": "Đêm nay tôi ở nhà. = Heute Nacht bin ich zu Hause.",
+    "note": "Aussprache: dem · Đêm nay tôi ở nhà. = Heute Nacht bin ich zu Hause.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c8268b64f4aaa60552b68a83.mp3",
+      "de": "content/vocab/audio/clips/76ea3664c51b142c9db3542d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-day17-vocab-03",
+    "front": "sáng",
+    "back": "Morgen; Vormittag",
+    "kind": "vocabulary",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "pronunciation": "sang steigend",
+    "example": "Sáng nay tôi học. = Heute Morgen lerne ich.",
+    "note": "Aussprache: sang steigend · Sáng nay tôi học. = Heute Morgen lerne ich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c01fb5b4c821c791f2e2d8d1.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-day17-vocab-04",
+    "front": "chiều",
+    "back": "Nachmittag",
+    "kind": "vocabulary",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "pronunciation": "tschieu fallend",
+    "example": "Chiều nay tôi uống cà phê. = Heute Nachmittag trinke ich Kaffee.",
+    "note": "Aussprache: tschieu fallend · Chiều nay tôi uống cà phê. = Heute Nachmittag trinke ich Kaffee.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/555d09cc0410ee724258b18d.mp3",
+      "de": "content/vocab/audio/clips/f8060e87fc4a82ecbf4cc70b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-day17-vocab-05",
+    "front": "tối",
+    "back": "Abend; dunkel",
+    "kind": "vocabulary",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "pronunciation": "toi steigend",
+    "example": "Tối nay bạn làm gì? = Was machst du heute Abend?",
+    "note": "Aussprache: toi steigend · Tối nay bạn làm gì? = Was machst du heute Abend?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d5ee29a9c4402a655e9f4ecb.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  }
+]

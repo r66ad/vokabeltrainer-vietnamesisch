@@ -1,0 +1,88 @@
+[
+  {
+    "id": "vi-day21-vocab-01",
+    "front": "gia đình",
+    "back": "Familie",
+    "kind": "vocabulary",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "pronunciation": "za dinh fallend",
+    "example": "Gia đình tôi ở Đức. = Meine Familie ist in Deutschland.",
+    "note": "Aussprache: za dinh fallend · Gia đình tôi ở Đức. = Meine Familie ist in Deutschland.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/aa78f64501e56fa3d29484f3.mp3",
+      "de": "content/vocab/audio/clips/dd79e0387b0353917d44969f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day21-vocab-02",
+    "front": "bố",
+    "back": "Vater; Papa",
+    "kind": "vocabulary",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "pronunciation": "bo steigend",
+    "example": "Bố tôi uống cà phê. = Mein Vater trinkt Kaffee.",
+    "note": "Aussprache: bo steigend · Bố tôi uống cà phê. = Mein Vater trinkt Kaffee.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1535d36797a430918f5a189e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day21-vocab-03",
+    "front": "mẹ",
+    "back": "Mutter; Mama",
+    "kind": "vocabulary",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "pronunciation": "me schwer",
+    "example": "Mẹ tôi nấu ăn. = Meine Mutter kocht.",
+    "note": "Aussprache: me schwer · Mẹ tôi nấu ăn. = Meine Mutter kocht.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/fcc12bf03eac0723774e04f6.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day21-vocab-04",
+    "front": "anh",
+    "back": "älterer Bruder; ich/du je nach Rolle",
+    "kind": "vocabulary",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "pronunciation": "anh",
+    "example": "Anh tôi học tiếng Việt. = Mein älterer Bruder lernt Vietnamesisch.",
+    "note": "Aussprache: anh · Anh tôi học tiếng Việt. = Mein älterer Bruder lernt Vietnamesisch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/91630726886cb62cd0d23687.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day21-vocab-05",
+    "front": "chị",
+    "back": "ältere Schwester; ich/du je nach Rolle",
+    "kind": "vocabulary",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "pronunciation": "chi schwer",
+    "example": "Chị tôi sống ở thành phố. = Meine ältere Schwester wohnt in der Stadt.",
+    "note": "Aussprache: chi schwer · Chị tôi sống ở thành phố. = Meine ältere Schwester wohnt in der Stadt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1f1515df0f74ef4e9bd7792e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  }
+]

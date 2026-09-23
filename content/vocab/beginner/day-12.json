@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day12-vocab-01",
+    "front": "cái",
+    "back": "Ding; Stück; Zähleinheit für Gegenstände",
+    "kind": "vocabulary",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "pronunciation": "kai steigend",
+    "example": "Cái này là gì? = Was ist das hier?",
+    "note": "Aussprache: kai steigend · Cái này là gì? = Was ist das hier?"
+  },
+  {
+    "id": "vi-day12-vocab-02",
+    "front": "bao nhiêu",
+    "back": "wie viel; wie viele",
+    "kind": "vocabulary",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "pronunciation": "bao njieu",
+    "example": "Bao nhiêu tiền? = Wie viel Geld?",
+    "note": "Aussprache: bao njieu · Bao nhiêu tiền? = Wie viel Geld?"
+  },
+  {
+    "id": "vi-day12-vocab-03",
+    "front": "tiền",
+    "back": "Geld; Preis",
+    "kind": "vocabulary",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "pronunciation": "tien fallend",
+    "example": "Cái này bao nhiêu tiền? = Wie viel kostet das?",
+    "note": "Aussprache: tien fallend · Cái này bao nhiêu tiền? = Wie viel kostet das?"
+  },
+  {
+    "id": "vi-day12-vocab-04",
+    "front": "mua",
+    "back": "kaufen",
+    "kind": "vocabulary",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "pronunciation": "mua",
+    "example": "Tôi muốn mua cái này. = Ich möchte das hier kaufen.",
+    "note": "Aussprache: mua · Tôi muốn mua cái này. = Ich möchte das hier kaufen."
+  },
+  {
+    "id": "vi-day12-vocab-05",
+    "front": "bán",
+    "back": "verkaufen",
+    "kind": "vocabulary",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "pronunciation": "ban steigend",
+    "example": "Bạn bán gì? = Was verkaufst du?",
+    "note": "Aussprache: ban steigend · Bạn bán gì? = Was verkaufst du?"
+  }
+]

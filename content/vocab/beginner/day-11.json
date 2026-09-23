@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day11-vocab-01",
+    "front": "đến",
+    "back": "kommen; ankommen",
+    "kind": "vocabulary",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "pronunciation": "den steigend",
+    "example": "Tôi đến. = Ich komme.",
+    "note": "Aussprache: den steigend · Tôi đến. = Ich komme."
+  },
+  {
+    "id": "vi-day11-vocab-02",
+    "front": "từ",
+    "back": "von; aus",
+    "kind": "vocabulary",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "pronunciation": "tu fallend",
+    "example": "Tôi đến từ Đức. = Ich komme aus Deutschland.",
+    "note": "Aussprache: tu fallend · Tôi đến từ Đức. = Ich komme aus Deutschland."
+  },
+  {
+    "id": "vi-day11-vocab-03",
+    "front": "Đức",
+    "back": "Deutschland",
+    "kind": "vocabulary",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "pronunciation": "duk steigend",
+    "example": "Tôi ở Đức. = Ich wohne in Deutschland.",
+    "note": "Aussprache: duk steigend · Tôi ở Đức. = Ich wohne in Deutschland."
+  },
+  {
+    "id": "vi-day11-vocab-04",
+    "front": "sống",
+    "back": "leben; wohnen",
+    "kind": "vocabulary",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "pronunciation": "song steigend",
+    "example": "Bạn sống ở đâu? = Wo wohnst du?",
+    "note": "Aussprache: song steigend · Bạn sống ở đâu? = Wo wohnst du?"
+  },
+  {
+    "id": "vi-day11-vocab-05",
+    "front": "thành phố",
+    "back": "Stadt",
+    "kind": "vocabulary",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "pronunciation": "thanh fallend, fo steigend",
+    "example": "Thành phố lớn. = Eine große Stadt.",
+    "note": "Aussprache: thanh fallend, fo steigend · Thành phố lớn. = Eine große Stadt."
+  }
+]

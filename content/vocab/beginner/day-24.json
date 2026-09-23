@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day24-vocab-01",
+    "front": "đường",
+    "back": "Straße; Weg",
+    "kind": "vocabulary",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "pronunciation": "duong fallend",
+    "example": "Đường này ở đâu? = Wo ist diese Straße?",
+    "note": "Aussprache: duong fallend · Đường này ở đâu? = Wo ist diese Straße?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1e573f553e3ec413ad5d6450.mp3",
+      "de": "content/vocab/audio/clips/6bf1a08d8f53f00640b47db2.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day24-vocab-02",
+    "front": "xe",
+    "back": "Fahrzeug; Wagen",
+    "kind": "vocabulary",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "pronunciation": "se",
+    "example": "Tôi lên xe. = Ich steige ins Fahrzeug.",
+    "note": "Aussprache: se · Tôi lên xe. = Ich steige ins Fahrzeug.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7fdbac5fba6693837c133283.mp3",
+      "de": "content/vocab/audio/clips/1d8b7a157f64021f323e783b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day24-vocab-03",
+    "front": "trạm",
+    "back": "Haltestelle; Station",
+    "kind": "vocabulary",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "pronunciation": "tram schwer",
+    "example": "Trạm này gần không? = Ist diese Haltestelle nah?",
+    "note": "Aussprache: tram schwer · Trạm này gần không? = Ist diese Haltestelle nah?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8dd1dde0a18633d94709c5de.mp3",
+      "de": "content/vocab/audio/clips/f3268d8222f363ad0e187397.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day24-vocab-04",
+    "front": "vé",
+    "back": "Ticket; Eintrittskarte",
+    "kind": "vocabulary",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "pronunciation": "we steigend",
+    "example": "Tôi mua vé. = Ich kaufe ein Ticket.",
+    "note": "Aussprache: we steigend · Tôi mua vé. = Ich kaufe ein Ticket.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8853f238098e15388adaf2ad.mp3",
+      "de": "content/vocab/audio/clips/ba3ccaf59d31fb1f4ac6b28a.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day24-vocab-05",
+    "front": "gần",
+    "back": "nah; in der Nähe",
+    "kind": "vocabulary",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "pronunciation": "gan fallend",
+    "example": "Nhà tôi gần đây. = Mein Haus ist hier in der Nähe.",
+    "note": "Aussprache: gan fallend · Nhà tôi gần đây. = Mein Haus ist hier in der Nähe.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9d5bf92556d7f677ecc145f2.mp3",
+      "de": "content/vocab/audio/clips/63a69f5ea81ddf0bd61530e2.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  }
+]

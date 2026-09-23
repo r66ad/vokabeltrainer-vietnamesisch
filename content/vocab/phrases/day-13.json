@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vi-day13-sentences-01",
+    "front": "Tôi thích món này.",
+    "back": "Ich mag dieses Gericht.",
+    "kind": "sentence",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "note": "`thích` = mögen, direkt vor dem Objekt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/62b4c9801d6648f84a180cca.mp3",
+      "de": "content/vocab/audio/clips/a8eedce2aa73d80c685ae8d9.mp3"
+    }
+  },
+  {
+    "id": "vi-day13-sentences-02",
+    "front": "Món này ngon quá.",
+    "back": "Dieses Gericht ist sehr lecker.",
+    "kind": "sentence",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "note": "`quá` verstärkt am Satzende: sehr/zu.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/a1a7a33d725cf4b7f9f94ad8.mp3",
+      "de": "content/vocab/audio/clips/235d0fdc0be9fcc4e427b76d.mp3"
+    }
+  }
+]

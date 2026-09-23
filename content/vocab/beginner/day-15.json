@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day15-vocab-01",
+    "front": "bây giờ",
+    "back": "jetzt",
+    "kind": "vocabulary",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "pronunciation": "bai zo",
+    "example": "Bây giờ tôi học. = Jetzt lerne ich.",
+    "note": "Aussprache: bai zo · Bây giờ tôi học. = Jetzt lerne ich.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day15-vocab-02",
+    "front": "sau",
+    "back": "nach; später; hinten",
+    "kind": "vocabulary",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "pronunciation": "sau",
+    "example": "Hẹn gặp lại sau. = Bis später.",
+    "note": "Aussprache: sau · Hẹn gặp lại sau. = Bis später.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day15-vocab-03",
+    "front": "trước",
+    "back": "vor; vorher; vorne",
+    "kind": "vocabulary",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "pronunciation": "tsuoc steigend",
+    "example": "Trước nhà. = Vor dem Haus.",
+    "note": "Aussprache: tsuoc steigend · Trước nhà. = Vor dem Haus.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day15-vocab-04",
+    "front": "cần",
+    "back": "brauchen; müssen",
+    "kind": "vocabulary",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "pronunciation": "kan fallend",
+    "example": "Tôi cần nước. = Ich brauche Wasser.",
+    "note": "Aussprache: kan fallend · Tôi cần nước. = Ich brauche Wasser.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day15-vocab-05",
+    "front": "giúp",
+    "back": "helfen",
+    "kind": "vocabulary",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "pronunciation": "zup steigend",
+    "example": "Bạn giúp tôi được không? = Kannst du mir helfen?",
+    "note": "Aussprache: zup steigend · Bạn giúp tôi được không? = Kannst du mir helfen?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  }
+]

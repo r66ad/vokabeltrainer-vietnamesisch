@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day17-sentences-01",
+    "front": "Chào buổi sáng.",
+    "back": "Guten Morgen.",
+    "kind": "sentence",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "note": "`buổi` markiert einen Tagesabschnitt: `buổi sáng` = der Morgen/Vormittag.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8cf5df74e40c3a6b9ea61801.mp3",
+      "de": "content/vocab/audio/clips/85a03c28a5cb943d5e2b4674.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-day17-sentences-02",
+    "front": "Tối nay bạn làm gì?",
+    "back": "Was machst du heute Abend?",
+    "kind": "sentence",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "note": "`nay` macht aus Tageszeiten \"heute ...\": `tối nay` = heute Abend.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/98a48735eb2cfae650ef1352.mp3",
+      "de": "content/vocab/audio/clips/76d3ebdb57303d10d4839c8c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  }
+]

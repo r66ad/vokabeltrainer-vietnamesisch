@@ -1,0 +1,89 @@
+[
+  {
+    "id": "vi-day20-vocab-01",
+    "front": "lớn",
+    "back": "groß; erwachsen",
+    "kind": "vocabulary",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "pronunciation": "lon steigend",
+    "example": "Thành phố này lớn. = Diese Stadt ist groß.",
+    "note": "Aussprache: lon steigend · Thành phố này lớn. = Diese Stadt ist groß.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/294fa8d3a339959a4aa7af4c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-day20-vocab-02",
+    "front": "nhỏ",
+    "back": "klein",
+    "kind": "vocabulary",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "pronunciation": "njo fragend",
+    "example": "Nhà tôi nhỏ. = Mein Haus ist klein.",
+    "note": "Aussprache: njo fragend · Nhà tôi nhỏ. = Mein Haus ist klein.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/61f2979ea181c31f73553a28.mp3",
+      "de": "content/vocab/audio/clips/8d2bee8a472a705b3ad53515.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-day20-vocab-03",
+    "front": "nóng",
+    "back": "heiß; warm",
+    "kind": "vocabulary",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "pronunciation": "nong steigend",
+    "example": "Hôm nay trời nóng. = Heute ist es heiß.",
+    "note": "Aussprache: nong steigend · Hôm nay trời nóng. = Heute ist es heiß.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f81b24bf4ef8ec3ffa58a601.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-day20-vocab-04",
+    "front": "lạnh",
+    "back": "kalt",
+    "kind": "vocabulary",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "pronunciation": "lanh schwer",
+    "example": "Nước lạnh. = Kaltes Wasser.",
+    "note": "Aussprache: lanh schwer · Nước lạnh. = Kaltes Wasser.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/fe85561e3fd108d966c07f35.mp3",
+      "de": "content/vocab/audio/clips/6049cae6c4d5ba5e6cebcf3b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-day20-vocab-05",
+    "front": "mệt",
+    "back": "müde; erschöpft",
+    "kind": "vocabulary",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "pronunciation": "met schwer",
+    "example": "Tôi hơi mệt. = Ich bin ein bisschen müde.",
+    "note": "Aussprache: met schwer · Tôi hơi mệt. = Ich bin ein bisschen müde.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/723260acac9420437730c2d5.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  }
+]

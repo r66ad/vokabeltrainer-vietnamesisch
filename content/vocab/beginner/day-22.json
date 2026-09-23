@@ -1,0 +1,91 @@
+[
+  {
+    "id": "vi-day22-vocab-01",
+    "front": "em",
+    "back": "jüngeres Geschwister; ich/du je nach Rolle",
+    "kind": "vocabulary",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "pronunciation": "em",
+    "example": "Em tôi học tiếng Việt. = Mein jüngeres Geschwister lernt Vietnamesisch.",
+    "note": "Aussprache: em · Em tôi học tiếng Việt. = Mein jüngeres Geschwister lernt Vietnamesisch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2ac0c256389f7fae259f8e70.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-day22-vocab-02",
+    "front": "con",
+    "back": "Kind",
+    "kind": "vocabulary",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "pronunciation": "kon",
+    "example": "Con tôi ở nhà. = Mein Kind ist zu Hause.",
+    "note": "Aussprache: kon · Con tôi ở nhà. = Mein Kind ist zu Hause.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6d68aa29852aa5eca51ee81b.mp3",
+      "de": "content/vocab/audio/clips/c868b3678f126bcfcfe5582b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-day22-vocab-03",
+    "front": "chồng",
+    "back": "Ehemann",
+    "kind": "vocabulary",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "pronunciation": "chong fallend",
+    "example": "Chồng tôi nấu ăn. = Mein Mann kocht.",
+    "note": "Aussprache: chong fallend · Chồng tôi nấu ăn. = Mein Mann kocht.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d142e619d1e5f5fa9479c8e8.mp3",
+      "de": "content/vocab/audio/clips/ef303ddb0a7c7429ce7cbdde.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-day22-vocab-04",
+    "front": "vợ",
+    "back": "Ehefrau",
+    "kind": "vocabulary",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "pronunciation": "wo schwer",
+    "example": "Vợ tôi uống cà phê. = Meine Frau trinkt Kaffee.",
+    "note": "Aussprache: wo schwer · Vợ tôi uống cà phê. = Meine Frau trinkt Kaffee.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/432d423835315084dc6aec6d.mp3",
+      "de": "content/vocab/audio/clips/c2e28ad5d31f49850f30ac28.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-day22-vocab-05",
+    "front": "bạn bè",
+    "back": "Freunde",
+    "kind": "vocabulary",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "pronunciation": "ban schwer be fallend",
+    "example": "Bạn bè tôi ở thành phố. = Meine Freunde sind in der Stadt.",
+    "note": "Aussprache: ban schwer be fallend · Bạn bè tôi ở thành phố. = Meine Freunde sind in der Stadt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/437ab180fc76ca020b66b889.mp3",
+      "de": "content/vocab/audio/clips/830316029023f276c36a3a05.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  }
+]

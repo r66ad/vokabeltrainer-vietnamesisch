@@ -1,0 +1,60 @@
+[
+  {
+    "id": "vi-day10-vocab-01",
+    "front": "hiểu",
+    "back": "verstehen",
+    "kind": "vocabulary",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "pronunciation": "hieu fragend",
+    "example": "Tôi hiểu. = Ich verstehe.",
+    "note": "Aussprache: hieu fragend · Tôi hiểu. = Ich verstehe."
+  },
+  {
+    "id": "vi-day10-vocab-02",
+    "front": "chậm",
+    "back": "langsam",
+    "kind": "vocabulary",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "pronunciation": "tscham schwer",
+    "example": "Nói chậm. = Sprich langsam.",
+    "note": "Aussprache: tscham schwer · Nói chậm. = Sprich langsam."
+  },
+  {
+    "id": "vi-day10-vocab-03",
+    "front": "nhanh",
+    "back": "schnell",
+    "kind": "vocabulary",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "pronunciation": "njanh",
+    "example": "Bạn nói nhanh. = Du sprichst schnell.",
+    "note": "Aussprache: njanh · Bạn nói nhanh. = Du sprichst schnell."
+  },
+  {
+    "id": "vi-day10-vocab-04",
+    "front": "lại",
+    "back": "wieder; noch einmal",
+    "kind": "vocabulary",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "pronunciation": "lai schwer",
+    "example": "Nói lại. = Sag es noch einmal.",
+    "note": "Aussprache: lai schwer · Nói lại. = Sag es noch einmal."
+  },
+  {
+    "id": "vi-day10-vocab-05",
+    "front": "xin lỗi",
+    "back": "Entschuldigung; sich entschuldigen",
+    "kind": "vocabulary",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "pronunciation": "sin loi steigend",
+    "example": "Xin lỗi. = Entschuldigung.",
+    "note": "Aussprache: sin loi steigend · Xin lỗi. = Entschuldigung.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/db73fd477533e93c8b640d6c.mp3"
+    }
+  }
+]

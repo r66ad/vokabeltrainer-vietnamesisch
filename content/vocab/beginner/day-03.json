@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day03-vocab-01",
+    "front": "làm",
+    "back": "machen; arbeiten",
+    "kind": "vocabulary",
+    "introduced_day": 3,
+    "introduced_on": "2026-09-03",
+    "pronunciation": "lam fallend",
+    "example": "Bạn làm gì? = Was machst du?",
+    "note": "Aussprache: lam fallend · Bạn làm gì? = Was machst du?"
+  },
+  {
+    "id": "vi-day03-vocab-02",
+    "front": "gì",
+    "back": "was",
+    "kind": "vocabulary",
+    "introduced_day": 3,
+    "introduced_on": "2026-09-03",
+    "pronunciation": "ji fallend",
+    "example": "Đây là gì? = Was ist das?",
+    "note": "Aussprache: ji fallend · Đây là gì? = Was ist das?"
+  },
+  {
+    "id": "vi-day03-vocab-03",
+    "front": "ăn",
+    "back": "essen",
+    "kind": "vocabulary",
+    "introduced_day": 3,
+    "introduced_on": "2026-09-03",
+    "pronunciation": "an",
+    "example": "Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit.",
+    "note": "Aussprache: an · Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit."
+  },
+  {
+    "id": "vi-day03-vocab-04",
+    "front": "uống",
+    "back": "trinken",
+    "kind": "vocabulary",
+    "introduced_day": 3,
+    "introduced_on": "2026-09-03",
+    "pronunciation": "uong steigend",
+    "example": "Bạn uống gì? = Was trinkst du?",
+    "note": "Aussprache: uong steigend · Bạn uống gì? = Was trinkst du?"
+  },
+  {
+    "id": "vi-day03-vocab-05",
+    "front": "rất",
+    "back": "sehr",
+    "kind": "vocabulary",
+    "introduced_day": 3,
+    "introduced_on": "2026-09-03",
+    "pronunciation": "zat mit schwerem Ton",
+    "example": "Rất tốt. = Sehr gut.",
+    "note": "Aussprache: zat mit schwerem Ton · Rất tốt. = Sehr gut."
+  }
+]

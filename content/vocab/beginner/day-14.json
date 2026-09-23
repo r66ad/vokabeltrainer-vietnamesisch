@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day14-vocab-01",
+    "front": "đang",
+    "back": "gerade; dabei sein zu",
+    "kind": "vocabulary",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "pronunciation": "dang",
+    "example": "Tôi đang học. = Ich lerne gerade.",
+    "note": "Aussprache: dang · Tôi đang học. = Ich lerne gerade."
+  },
+  {
+    "id": "vi-day14-vocab-02",
+    "front": "mỗi",
+    "back": "jede/r/s; pro",
+    "kind": "vocabulary",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "pronunciation": "moi mit schwerem Ton",
+    "example": "Mỗi ngày tôi học. = Jeden Tag lerne ich.",
+    "note": "Aussprache: moi mit schwerem Ton · Mỗi ngày tôi học. = Jeden Tag lerne ich."
+  },
+  {
+    "id": "vi-day14-vocab-03",
+    "front": "năm",
+    "back": "fünf; Jahr",
+    "kind": "vocabulary",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "pronunciation": "nam",
+    "example": "Năm từ mới. = Fünf neue Wörter.",
+    "note": "Aussprache: nam · Năm từ mới. = Fünf neue Wörter."
+  },
+  {
+    "id": "vi-day14-vocab-04",
+    "front": "từ",
+    "back": "Wort; von; aus",
+    "kind": "vocabulary",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "pronunciation": "tu fallend",
+    "example": "Tôi học năm từ. = Ich lerne fünf Wörter.",
+    "note": "Aussprache: tu fallend · Tôi học năm từ. = Ich lerne fünf Wörter."
+  },
+  {
+    "id": "vi-day14-vocab-05",
+    "front": "mới",
+    "back": "neu",
+    "kind": "vocabulary",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "pronunciation": "moi steigend",
+    "example": "Từ mới. = Neues Wort.",
+    "note": "Aussprache: moi steigend · Từ mới. = Neues Wort."
+  }
+]

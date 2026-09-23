@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vi-day09-sentences-01",
+    "front": "Tôi muốn uống cà phê.",
+    "back": "Ich möchte Kaffee trinken.",
+    "kind": "sentence",
+    "introduced_day": 9,
+    "introduced_on": "2026-09-08",
+    "note": "`muốn` steht vor dem Verb: wollen + trinken.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/643bc6f3d0a499a846f1a17c.mp3",
+      "de": "content/vocab/audio/clips/c5313e7812c54cb5936b9e5f.mp3"
+    }
+  },
+  {
+    "id": "vi-day09-sentences-02",
+    "front": "Bạn muốn ăn gì?",
+    "back": "Was möchtest du essen?",
+    "kind": "sentence",
+    "introduced_day": 9,
+    "introduced_on": "2026-09-08",
+    "note": "Fragewort `gì` steht dort, wo die Antwort stehen würde.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/abc9d98eaa9c083b9fc2be76.mp3",
+      "de": "content/vocab/audio/clips/473020f380b53d53cb87403a.mp3"
+    }
+  }
+]

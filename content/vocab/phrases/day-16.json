@@ -1,0 +1,36 @@
+[
+  {
+    "id": "vi-day16-sentences-01",
+    "front": "Bây giờ là mấy giờ?",
+    "back": "Wie spät ist es jetzt?",
+    "kind": "sentence",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "note": "`mấy` fragt nach einer kleinen Zahl; bei Uhrzeit heißt `mấy giờ` \"wie viel Uhr\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e8ec30bff2f483e560245ac0.mp3",
+      "de": "content/vocab/audio/clips/b4c2db020fb68c66d5f014ab.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-day16-sentences-02",
+    "front": "Hôm qua tôi học tiếng Việt.",
+    "back": "Gestern habe ich Vietnamesisch gelernt.",
+    "kind": "sentence",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "note": "Zeitangaben wie `hôm qua` stehen oft am Satzanfang; Verben werden nicht konjugiert.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e8217b69508057d327507450.mp3",
+      "de": "content/vocab/audio/clips/042145f8e42778873aa2dc29.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  }
+]

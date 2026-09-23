@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vi-day08-sentences-01",
+    "front": "Xin chào, bạn khỏe không?",
+    "back": "Hallo, wie geht es dir?",
+    "kind": "sentence",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "note": "`không` am Satzende macht aus einer Aussage eine Ja/Nein-Frage.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/82a25e8f140b9b5757aa5f5b.mp3",
+      "de": "content/vocab/audio/clips/7c73a5f5ebcb8568e795aedd.mp3"
+    }
+  },
+  {
+    "id": "vi-day08-sentences-02",
+    "front": "Tôi khỏe, cảm ơn.",
+    "back": "Mir geht es gut, danke.",
+    "kind": "sentence",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "note": "Subjekt + Adjektiv reicht oft ohne Verb `sein`.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/cdf18694c2c14c1d3fd32311.mp3",
+      "de": "content/vocab/audio/clips/e6061d96d3d50213b8d088a0.mp3"
+    }
+  }
+]

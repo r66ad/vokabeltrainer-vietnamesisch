@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day01-vocab-01",
+    "front": "tôi",
+    "back": "ich",
+    "kind": "vocabulary",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "toy",
+    "example": "Tôi học. = Ich lerne. Alternative: Em học. / Anh học.",
+    "note": "Aussprache: toy · Tôi học. = Ich lerne. Alternative: Em học. / Anh học."
+  },
+  {
+    "id": "vi-day01-vocab-02",
+    "front": "bạn",
+    "back": "du; Freund/in",
+    "kind": "vocabulary",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "ban mit tiefem Punkt-Ton",
+    "example": "Bạn khỏe không? = Geht es dir gut? Alternative: Em khỏe không? / Anh khỏe không?",
+    "note": "Aussprache: ban mit tiefem Punkt-Ton · Bạn khỏe không? = Geht es dir gut? Alternative: Em khỏe không? / Anh khỏe không?"
+  },
+  {
+    "id": "vi-day01-vocab-03",
+    "front": "là",
+    "back": "sein; ist",
+    "kind": "vocabulary",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "la fallend",
+    "example": "Tôi là Richi. = Ich bin Richi.",
+    "note": "Aussprache: la fallend · Tôi là Richi. = Ich bin Richi."
+  },
+  {
+    "id": "vi-day01-vocab-04",
+    "front": "không",
+    "back": "nicht; nein; Fragepartikel",
+    "kind": "vocabulary",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "khom",
+    "example": "Bạn hiểu không? = Verstehst du?",
+    "note": "Aussprache: khom · Bạn hiểu không? = Verstehst du?"
+  },
+  {
+    "id": "vi-day01-vocab-05",
+    "front": "có",
+    "back": "haben; ja; es gibt",
+    "kind": "vocabulary",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "pronunciation": "ko steigend",
+    "example": "Tôi có thời gian. = Ich habe Zeit.",
+    "note": "Aussprache: ko steigend · Tôi có thời gian. = Ich habe Zeit."
+  }
+]

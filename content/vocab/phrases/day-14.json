@@ -1,0 +1,28 @@
+[
+  {
+    "id": "vi-day14-sentences-01",
+    "front": "Tôi đang học tiếng Việt.",
+    "back": "Ich lerne gerade Vietnamesisch.",
+    "kind": "sentence",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "note": "`đang` markiert eine laufende Handlung.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3db934fcb91b4326d2ba494a.mp3",
+      "de": "content/vocab/audio/clips/682c9b28e7eadef4e842a359.mp3"
+    }
+  },
+  {
+    "id": "vi-day14-sentences-02",
+    "front": "Mỗi ngày tôi học năm từ mới.",
+    "back": "Jeden Tag lerne ich fünf neue Wörter.",
+    "kind": "sentence",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "note": "Zeitangaben stehen oft am Satzanfang.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e92a4086118d36c054682551.mp3",
+      "de": "content/vocab/audio/clips/5399d1edde024b8b94d7a9e2.mp3"
+    }
+  }
+]

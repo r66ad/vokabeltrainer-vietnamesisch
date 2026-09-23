@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day22-sentences-01",
+    "front": "Đây là em tôi.",
+    "back": "Das ist mein jüngeres Geschwister.",
+    "kind": "sentence",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "note": "`Đây là ...` heißt \"Das ist ...\"; Besitz steht direkt dahinter: `em tôi` = mein jüngeres Geschwister.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9a31b1a5de60b91df24409bb.mp3",
+      "de": "content/vocab/audio/clips/fc0d69919ecdceee545fbf12.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-day22-sentences-02",
+    "front": "Tôi sống với gia đình tôi.",
+    "back": "Ich lebe mit meiner Familie.",
+    "kind": "sentence",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "note": "`với` heißt \"mit\"; im Alltag auch natürlich: `Tôi sống với gia đình.`",
+    "audio": {
+      "vi": "content/vocab/audio/clips/ac140f060cbd8834bce37b94.mp3",
+      "de": "content/vocab/audio/clips/38d26f9f638df64879909966.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  }
+]

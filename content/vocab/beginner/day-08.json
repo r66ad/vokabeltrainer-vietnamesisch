@@ -1,0 +1,63 @@
+[
+  {
+    "id": "vi-day08-vocab-01",
+    "front": "xin chào",
+    "back": "hallo; guten Tag",
+    "kind": "vocabulary",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "sin tschau",
+    "example": "Xin chào! = Hallo!",
+    "note": "Aussprache: sin tschau · Xin chào! = Hallo!",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5d9734a9a2c1c089a748326e.mp3"
+    }
+  },
+  {
+    "id": "vi-day08-vocab-02",
+    "front": "khỏe",
+    "back": "gesund; gut gehen",
+    "kind": "vocabulary",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "khoe fragend",
+    "example": "Bạn khỏe không? = Geht es dir gut?",
+    "note": "Aussprache: khoe fragend · Bạn khỏe không? = Geht es dir gut?"
+  },
+  {
+    "id": "vi-day08-vocab-03",
+    "front": "cảm ơn",
+    "back": "danken; danke",
+    "kind": "vocabulary",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "kam on, beide fragend",
+    "example": "Cảm ơn. = Danke.",
+    "note": "Aussprache: kam on, beide fragend · Cảm ơn. = Danke.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8119a3b1844de05b5ad8de74.mp3"
+    }
+  },
+  {
+    "id": "vi-day08-vocab-04",
+    "front": "lắm",
+    "back": "sehr; wirklich",
+    "kind": "vocabulary",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "lam schwer",
+    "example": "Tốt lắm. = Sehr gut.",
+    "note": "Aussprache: lam schwer · Tốt lắm. = Sehr gut."
+  },
+  {
+    "id": "vi-day08-vocab-05",
+    "front": "cũng",
+    "back": "auch",
+    "kind": "vocabulary",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "pronunciation": "kung mit gebrochenem Ton",
+    "example": "Tôi cũng học. = Ich lerne auch.",
+    "note": "Aussprache: kung mit gebrochenem Ton · Tôi cũng học. = Ich lerne auch."
+  }
+]

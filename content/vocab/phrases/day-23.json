@@ -1,0 +1,33 @@
+[
+  {
+    "id": "vi-day23-sentences-01",
+    "front": "Tôi mua cà phê cho bạn.",
+    "back": "Ich kaufe Kaffee für dich.",
+    "kind": "sentence",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "note": "`cho` steht vor der Person, für die etwas ist: `cho bạn` = für dich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3",
+      "de": "content/vocab/audio/clips/addcb31f8b6ec3c74011521f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-day23-sentences-02",
+    "front": "Bạn lấy cái này được không?",
+    "back": "Kannst du das hier nehmen/holen?",
+    "kind": "sentence",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "note": "`được không?` macht daraus eine höfliche Bitte.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/771d3f01b2d6d125c661fd54.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  }
+]

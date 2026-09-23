@@ -1,0 +1,2538 @@
+[
+  {
+    "file": "content/vocab/audio/lessons/2026-09-22-tag-23.mp3",
+    "sha256": "c4d43576ed4dcd32f8e9d71c9d3c967e1118247f678a984372e0998adc5bb52b",
+    "day": 23,
+    "transcript": "Tag 23 - Audio-Wiederholung\n\nDeutsch: Tag dreiundzwanzig. Neue Wörter.\nVietnamesisch: Ngày hai mươi ba. Từ mới.\n\nDeutsch: für; geben an\nVietnamesisch: cho\nDeutsch: Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\n\nDeutsch: nehmen; holen\nVietnamesisch: lấy\nDeutsch: Ich nehme das hier.\nVietnamesisch: Tôi lấy cái này.\n\nDeutsch: bringen; tragen\nVietnamesisch: mang\nDeutsch: Kannst du Wasser mitbringen?\nVietnamesisch: Bạn mang nước được không?\n\nDeutsch: um zu; damit; lassen oder legen\nVietnamesisch: để\nDeutsch: Ich lerne, um Vietnamesisch zu sprechen.\nVietnamesisch: Tôi học để nói tiếng Việt.\n\nDeutsch: erhalten; bekommen\nVietnamesisch: nhận\nDeutsch: Ich bekomme eine Nachricht.\nVietnamesisch: Tôi nhận được tin nhắn.\n\nDeutsch: Alltagssatz eins. Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\nDeutsch: Grammatik: cho steht vor der Person, für die etwas ist.\nVietnamesisch: cho bạn\n\nDeutsch: Alltagssatz zwei. Kannst du das hier nehmen oder holen?\nVietnamesisch: Bạn lấy cái này được không?\nDeutsch: Grammatik: được không macht daraus eine höfliche Bitte.\nVietnamesisch: được không?\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag dreiundzwanzig. Neue Wörter.",
+        "file": "content/vocab/audio/clips/83f1a20579b3d6b3ca2f3b68.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày hai mươi ba. Từ mới.",
+        "file": "content/vocab/audio/clips/5a3056851930c4f76380467c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "für; geben an",
+        "file": "content/vocab/audio/clips/7f0f763e2abf8fa88fe32464.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cho",
+        "file": "content/vocab/audio/clips/8f0e20277e455c29a6ca248a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich kaufe Kaffee für dich.",
+        "file": "content/vocab/audio/clips/addcb31f8b6ec3c74011521f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi mua cà phê cho bạn.",
+        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "nehmen; holen",
+        "file": "content/vocab/audio/clips/cb1140e1bf2386c3c322ef6b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lấy",
+        "file": "content/vocab/audio/clips/4ab34c9049c1cc0d628496c6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich nehme das hier.",
+        "file": "content/vocab/audio/clips/b98ad1abe78d6c83b5f9fdb6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi lấy cái này.",
+        "file": "content/vocab/audio/clips/2d2c78a65ac46f9d865fa64e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "bringen; tragen",
+        "file": "content/vocab/audio/clips/28d70b74fe211cf3b2435ad6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mang",
+        "file": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kannst du Wasser mitbringen?",
+        "file": "content/vocab/audio/clips/dd22ce7c91b91b707022e5c4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn mang nước được không?",
+        "file": "content/vocab/audio/clips/4b43df90750f872b911bc1b8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "um zu; damit; lassen oder legen",
+        "file": "content/vocab/audio/clips/ed9b2666c0b650ecf7272549.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "để",
+        "file": "content/vocab/audio/clips/b40dd8a41ec8edfba569c1fc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne, um Vietnamesisch zu sprechen.",
+        "file": "content/vocab/audio/clips/4165a0c5b64e1703a3413b83.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học để nói tiếng Việt.",
+        "file": "content/vocab/audio/clips/86d2d3c664cd8d24789ae394.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "erhalten; bekommen",
+        "file": "content/vocab/audio/clips/c4b2ea9050dbcd1dd26bbd57.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhận",
+        "file": "content/vocab/audio/clips/61f62ff6f16fb862a890c35f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich bekomme eine Nachricht.",
+        "file": "content/vocab/audio/clips/b5e4001c400df685ad6d0b3c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi nhận được tin nhắn.",
+        "file": "content/vocab/audio/clips/e5e7d797f0629aed92152e88.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz eins. Ich kaufe Kaffee für dich.",
+        "file": "content/vocab/audio/clips/23ac530777878abb029f4549.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi mua cà phê cho bạn.",
+        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: cho steht vor der Person, für die etwas ist.",
+        "file": "content/vocab/audio/clips/30b94496a4d4fcd672aea839.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cho bạn",
+        "file": "content/vocab/audio/clips/bdd74174c49c687e37523a40.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz zwei. Kannst du das hier nehmen oder holen?",
+        "file": "content/vocab/audio/clips/bc0a5d2b1e72ef7b21d64f09.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn lấy cái này được không?",
+        "file": "content/vocab/audio/clips/771d3f01b2d6d125c661fd54.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: được không macht daraus eine höfliche Bitte.",
+        "file": "content/vocab/audio/clips/ce591788f1c5ddbaea14f578.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "được không?",
+        "file": "content/vocab/audio/clips/8d7fd7fecebfa135c52ced9b.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3",
+    "sha256": "d07b0246137ae82d347f1bff6688eef917f3679f7e8d6e9a4dd574f1d9f87d20",
+    "day": 15,
+    "transcript": "Tag 15 Audio - Deutsch zuerst, dann Vietnamesisch, 0,5 Sekunden Pause\n\n1. jetzt — bây giờ\n2. nach — sau\n3. vor — trước\n4. brauchen — cần\n5. helfen — giúp\n6. Jetzt brauche ich Wasser. — Bây giờ tôi cần nước.\n7. Kannst du mir helfen? — Bạn giúp tôi được không?\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+    "sha256": "7556cdf3025f03d961756edbea040f012780b6540fb9a8042be4cea9a8069c5e",
+    "day": 16,
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 16.",
+        "file": "content/vocab/audio/clips/2792e53b3df71ba504c31190.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Stunde oder Uhrzeit.",
+        "file": "content/vocab/audio/clips/9faeb5ac1454664b1f6281cf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "giờ.",
+        "file": "content/vocab/audio/clips/d3b21b66487e4f93dd27c8ac.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Wie spät ist es jetzt?",
+        "file": "content/vocab/audio/clips/5d32cfe473ca21dd94d912f2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bây giờ là mấy giờ?",
+        "file": "content/vocab/audio/clips/e8ec30bff2f483e560245ac0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Minute.",
+        "file": "content/vocab/audio/clips/938fef0560fa5d826c13cfd9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "phút.",
+        "file": "content/vocab/audio/clips/cff8b197798b296f46b38870.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Fünf Minuten.",
+        "file": "content/vocab/audio/clips/cb8bcbefff418f414f844cff.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Năm phút.",
+        "file": "content/vocab/audio/clips/2528b5ab511de500303acaf0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gestern.",
+        "file": "content/vocab/audio/clips/06ef414a37046599d09db4c0.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "hôm qua.",
+        "file": "content/vocab/audio/clips/3520cd05a92bfdb67f043327.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Gestern habe ich gelernt.",
+        "file": "content/vocab/audio/clips/33524c18cbf66784c63dd231.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm qua tôi học.",
+        "file": "content/vocab/audio/clips/b2b9ba62eb13cdbdf760c120.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Woche.",
+        "file": "content/vocab/audio/clips/28a5e89e123062d62376f29e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tuần.",
+        "file": "content/vocab/audio/clips/7e12d89b9408100e98117879.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Eine Woche.",
+        "file": "content/vocab/audio/clips/82a0f9116d8c008a4d0717d7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một tuần.",
+        "file": "content/vocab/audio/clips/f6274e12eeb88f5745b63395.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Monat.",
+        "file": "content/vocab/audio/clips/2b6c122ec83e1fb8b2a0f4ae.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tháng.",
+        "file": "content/vocab/audio/clips/9708fcc2c6a1412f39fd1f55.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Dieser Monat.",
+        "file": "content/vocab/audio/clips/2b3ed045c791a01861f234e4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tháng này.",
+        "file": "content/vocab/audio/clips/e4e399a5f7f85f59a69c494b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Wie spät ist es jetzt?",
+        "file": "content/vocab/audio/clips/e2a36c52ae51ef5603cdf4bf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bây giờ là mấy giờ?",
+        "file": "content/vocab/audio/clips/e4aa1de663ed69d0faaad9cb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Gestern habe ich Vietnamesisch gelernt.",
+        "file": "content/vocab/audio/clips/845ae059681e939db402753a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm qua tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/e8217b69508057d327507450.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3",
+    "sha256": "033dffef03dc69a4e6e6ebbc7d2d9d6716aa3ef279dea8d1bd7d5380394d8b69",
+    "day": 16,
+    "transcript": "Stunde, Uhrzeit\ngiờ\nMinute\nphút\ngestern\nhôm qua\nWoche\ntuần\nMonat\ntháng\nWie spät ist es jetzt?\nBây giờ là mấy giờ?\nGestern habe ich Vietnamesisch gelernt.\nHôm qua tôi học tiếng Việt.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3",
+    "sha256": "453625f76be314bd9503b21dca3536a8d3ac00dac4970aa25279f7636933a2e3",
+    "day": 17,
+    "transcript": "Tag\nngày\nEin Tag.\nMột ngày.\nNacht\nđêm\nHeute Nacht bin ich zu Hause.\nĐêm nay tôi ở nhà.\nMorgen oder Vormittag\nsáng\nHeute Morgen lerne ich.\nSáng nay tôi học.\nNachmittag\nchiều\nHeute Nachmittag trinke ich Kaffee.\nChiều nay tôi uống cà phê.\nAbend oder dunkel\ntối\nWas machst du heute Abend?\nTối nay bạn làm gì?\nGuten Morgen.\nChào buổi sáng.\nWas machst du heute Abend?\nTối nay bạn làm gì?\n",
+    "metadata": {
+      "date": "2026-09-16",
+      "day": 17,
+      "provider": "openclaw:microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 17.",
+        "file": "content/vocab/audio/clips/e8a812cad78badc95aea5d32.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Tag.",
+        "file": "content/vocab/audio/clips/e11cb0bfedd8f178815bc937.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ngày.",
+        "file": "content/vocab/audio/clips/b11829167d099889cef1e018.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ein Tag.",
+        "file": "content/vocab/audio/clips/a8d647749d52c2a93c2607ad.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một ngày.",
+        "file": "content/vocab/audio/clips/c6f0ed59069dd73bd535c24e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Nacht.",
+        "file": "content/vocab/audio/clips/76ea3664c51b142c9db3542d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đêm.",
+        "file": "content/vocab/audio/clips/c8268b64f4aaa60552b68a83.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Heute Nacht bin ich zu Hause.",
+        "file": "content/vocab/audio/clips/c0350732d7ade462ab5e1fbf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đêm nay tôi ở nhà.",
+        "file": "content/vocab/audio/clips/58a82e002bdbe3340583175f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Morgen oder Vormittag.",
+        "file": "content/vocab/audio/clips/535eabf75acaacb5f7387761.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "sáng.",
+        "file": "content/vocab/audio/clips/c01fb5b4c821c791f2e2d8d1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Heute Morgen lerne ich.",
+        "file": "content/vocab/audio/clips/a7561dddf3e57796af01a592.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Sáng nay tôi học.",
+        "file": "content/vocab/audio/clips/daf8859c6a7ed0ba17dbb605.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Nachmittag.",
+        "file": "content/vocab/audio/clips/f8060e87fc4a82ecbf4cc70b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "chiều.",
+        "file": "content/vocab/audio/clips/555d09cc0410ee724258b18d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Heute Nachmittag trinke ich Kaffee.",
+        "file": "content/vocab/audio/clips/e4531cabcf49c6e621987b52.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chiều nay tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/44d71afd2678373426491967.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Abend oder dunkel.",
+        "file": "content/vocab/audio/clips/42e7a110a643843bb220b57c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tối.",
+        "file": "content/vocab/audio/clips/d5ee29a9c4402a655e9f4ecb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Was machst du heute Abend?",
+        "file": "content/vocab/audio/clips/7da5e6736bc06994896390dd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tối nay bạn làm gì?",
+        "file": "content/vocab/audio/clips/98a48735eb2cfae650ef1352.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Guten Morgen.",
+        "file": "content/vocab/audio/clips/a883b894254eed4f5113d5b5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chào buổi sáng.",
+        "file": "content/vocab/audio/clips/8cf5df74e40c3a6b9ea61801.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Was machst du heute Abend?",
+        "file": "content/vocab/audio/clips/60bac6bd58b4001e496ec78c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tối nay bạn làm gì?",
+        "file": "content/vocab/audio/clips/b17e5ae3227f71f45483f2a8.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3",
+    "sha256": "723999b4c8149d50c5a46c857dbdb5280c48f0e492346da6f4d2e45c110ec185",
+    "day": 18,
+    "transcript": "Tag 18 Audio-Wiederholung\n\n1. hineingehen oder in -> vào\n   Beispiel: Ich gehe ins Haus. -> Tôi vào nhà.\n2. hinausgehen oder heraus -> ra\n   Beispiel: Ich gehe nach draußen. -> Tôi ra ngoài.\n3. hinaufgehen oder hoch -> lên\n   Beispiel: Ich steige ins Fahrzeug. -> Tôi lên xe.\n4. hinuntergehen oder runter -> xuống\n   Beispiel: Du steigst aus dem Fahrzeug aus. -> Bạn xuống xe.\n5. zurückgehen oder nach Hause gehen -> về\n   Beispiel: Ich gehe jetzt nach Hause. -> Tôi về nhà bây giờ.\n\nAlltagssätze:\n- Ich gehe jetzt nach Hause. -> Tôi về nhà bây giờ.\n- Möchtest du reinkommen? -> Bạn muốn vào không?\n",
+    "metadata": {
+      "date": "2026-09-17",
+      "day": 18,
+      "provider": "openclaw:microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 18.",
+        "file": "content/vocab/audio/clips/adb23d84c0d80303230c1803.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "hineingehen oder in.",
+        "file": "content/vocab/audio/clips/22a663e0d9ef1c0bcee3b882.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "vào.",
+        "file": "content/vocab/audio/clips/c46468ff5ae153fdea948cc3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich gehe ins Haus.",
+        "file": "content/vocab/audio/clips/72dfb6d46bcf7a605306a09d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi vào nhà.",
+        "file": "content/vocab/audio/clips/02a2ccdd5f55f9440a1b4ecd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "hinausgehen oder heraus.",
+        "file": "content/vocab/audio/clips/b9771d733c2be209effbdc31.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ra.",
+        "file": "content/vocab/audio/clips/5f2367f311e1dcb2c982e13e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich gehe nach draußen.",
+        "file": "content/vocab/audio/clips/a0de972b08e0144cc37db63e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ra ngoài.",
+        "file": "content/vocab/audio/clips/3af6c9cdad7bf175e9a5db08.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "hinaufgehen oder hoch.",
+        "file": "content/vocab/audio/clips/fb61fa026a73c7974711d21d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lên.",
+        "file": "content/vocab/audio/clips/91a891c9e413c8d6577fcd7d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich steige ins Fahrzeug.",
+        "file": "content/vocab/audio/clips/7660eb057accab32c207b0d2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi lên xe.",
+        "file": "content/vocab/audio/clips/d36d6793d66c18af2316e194.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "hinuntergehen oder runter.",
+        "file": "content/vocab/audio/clips/359cb7fb7b743a95c37f510a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "xuống.",
+        "file": "content/vocab/audio/clips/6c085334d8c0dab854b980f8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Du steigst aus dem Fahrzeug aus.",
+        "file": "content/vocab/audio/clips/c0d3aeba6b3c469cae09bb3f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn xuống xe.",
+        "file": "content/vocab/audio/clips/fb6bdc441bddc8201dd704d6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "zurückgehen oder nach Hause gehen.",
+        "file": "content/vocab/audio/clips/64f118612290ee582af33af0.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "về.",
+        "file": "content/vocab/audio/clips/7f6da36441a27b14aa74d44b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich gehe jetzt nach Hause.",
+        "file": "content/vocab/audio/clips/3f1a2f6110759fefea0cf058.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi về nhà bây giờ.",
+        "file": "content/vocab/audio/clips/b2f690a58a1d02f29101338d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Ich gehe jetzt nach Hause.",
+        "file": "content/vocab/audio/clips/7d3ac7060c25bb01ecd51f31.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi về nhà bây giờ.",
+        "file": "content/vocab/audio/clips/b2f690a58a1d02f29101338d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Möchtest du reinkommen?",
+        "file": "content/vocab/audio/clips/82bf922c77193c22d04cbc26.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn muốn vào không?",
+        "file": "content/vocab/audio/clips/b541ad087c80e8ec2cad0e51.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3",
+    "sha256": "6528116fa78aac846dab9b4cd5211917734f1dffae38d78ea8d91ed01240df78",
+    "day": 19,
+    "transcript": "Tag 19 Audio-Wiederholung\n\n1. sitzen oder sich setzen -> ngồi\n   Beispiel: Ich sitze hier. -> Tôi ngồi ở đây.\n2. stehen oder aufstehen -> đứng\n   Beispiel: Du stehst dort. -> Bạn đứng ở đó.\n3. warten -> chờ\n   Beispiel: Ich warte gerade auf dich. -> Tôi đang chờ bạn.\n4. treffen oder begegnen -> gặp\n   Beispiel: Ich treffe dich heute. -> Tôi gặp bạn hôm nay.\n5. verabreden oder Termin -> hẹn\n   Beispiel: Bis bald. -> Hẹn gặp lại.\n\nAlltagssätze:\n- Ich warte gerade auf dich. -> Tôi đang chờ bạn.\n- Bis bald oder auf Wiedersehen. -> Hẹn gặp lại.\n",
+    "metadata": {
+      "date": "2026-09-18",
+      "day": 19,
+      "provider": "openclaw:microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 19.",
+        "file": "content/vocab/audio/clips/0f2c54a258d8690b0c8dbe96.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "sitzen oder sich setzen.",
+        "file": "content/vocab/audio/clips/3260b13c3bbcbe4d8a109dda.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ngồi.",
+        "file": "content/vocab/audio/clips/3b3d1ac5d2c24a07518dc405.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich sitze hier.",
+        "file": "content/vocab/audio/clips/4ba1d9a867358f58b8245a3e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ngồi ở đây.",
+        "file": "content/vocab/audio/clips/8ff9db1c27f32f9ac28f4c0e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "stehen oder aufstehen.",
+        "file": "content/vocab/audio/clips/07df568c415b1d527c388f13.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đứng.",
+        "file": "content/vocab/audio/clips/27b601b390bfe6ab13c15870.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Du stehst dort.",
+        "file": "content/vocab/audio/clips/fc6e9a531691a396b1c3791f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn đứng ở đó.",
+        "file": "content/vocab/audio/clips/0cb57561f2b8078c06248808.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "warten.",
+        "file": "content/vocab/audio/clips/a5c7fe3b6df47698fbbdddeb.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "chờ.",
+        "file": "content/vocab/audio/clips/05f974b7adfe275b0f539dfa.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich warte gerade auf dich.",
+        "file": "content/vocab/audio/clips/a31f092fa3a7b4cf57255c59.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang chờ bạn.",
+        "file": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "treffen oder begegnen.",
+        "file": "content/vocab/audio/clips/d3373aefc7eb8fd8c8491592.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "gặp.",
+        "file": "content/vocab/audio/clips/3de8d10018348fe5e75512dd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich treffe dich heute.",
+        "file": "content/vocab/audio/clips/240036dbd05ff048f6d727af.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi gặp bạn hôm nay.",
+        "file": "content/vocab/audio/clips/6c70c0a4aac617858e13a129.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "verabreden oder Termin.",
+        "file": "content/vocab/audio/clips/55d67debe3c78372aa85131d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "hẹn.",
+        "file": "content/vocab/audio/clips/7945ed51b177024e7781ad9d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Bis bald.",
+        "file": "content/vocab/audio/clips/bafa31f54d5d8606614c32f6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hẹn gặp lại.",
+        "file": "content/vocab/audio/clips/6b1c12574fe91bb9c730c1a0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Ich warte gerade auf dich.",
+        "file": "content/vocab/audio/clips/8c30a61e4775d16dbb6a1d84.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang chờ bạn.",
+        "file": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Bis bald oder auf Wiedersehen.",
+        "file": "content/vocab/audio/clips/dbcce5913bd75665ed48014e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hẹn gặp lại.",
+        "file": "content/vocab/audio/clips/7bfed0a93e3193ad6721171e.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3",
+    "sha256": "d4cae897f69547d1a0bed570808b899ccc53dd2bf46d2933dbb9102537f646bb",
+    "day": 20,
+    "transcript": "Tag 20 Audio-Wiederholung\n\nDeutsch zuerst, dann Vietnamesisch; 0,5 Sekunden Pause zwischen den Segmenten.\n\n1. groß oder erwachsen. / lớn.\n   Beispiel: Diese Stadt ist groß. / Thành phố này lớn.\n2. klein. / nhỏ.\n   Beispiel: Mein Haus ist klein. / Nhà tôi nhỏ.\n3. heiß oder warm. / nóng.\n   Beispiel: Heute ist es heiß. / Hôm nay trời nóng.\n4. kalt. / lạnh.\n   Beispiel: Kaltes Wasser. / Nước lạnh.\n5. müde oder erschöpft. / mệt.\n   Beispiel: Ich bin ein bisschen müde. / Tôi hơi mệt.\n\nAlltagssätze:\n- Heute ist es heiß. / Hôm nay trời nóng.\n- Ich bin ein bisschen müde. / Tôi hơi mệt.\n",
+    "metadata": {
+      "date": "2026-09-19",
+      "day": 20,
+      "provider": "openclaw:microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 20.",
+        "file": "content/vocab/audio/clips/1e4a761dbd2003cfea3bf2c6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "groß oder erwachsen.",
+        "file": "content/vocab/audio/clips/cffe3bb5c0ada88ba0532ab5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lớn.",
+        "file": "content/vocab/audio/clips/294fa8d3a339959a4aa7af4c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Diese Stadt ist groß.",
+        "file": "content/vocab/audio/clips/39998b785d8e32e864d2d7ee.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Thành phố này lớn.",
+        "file": "content/vocab/audio/clips/4cca8e7722dfb0796280edd5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "klein.",
+        "file": "content/vocab/audio/clips/8d2bee8a472a705b3ad53515.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhỏ.",
+        "file": "content/vocab/audio/clips/61f2979ea181c31f73553a28.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Mein Haus ist klein.",
+        "file": "content/vocab/audio/clips/7549f155a687b83e59fe82b3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nhà tôi nhỏ.",
+        "file": "content/vocab/audio/clips/d1549f77336015bce957f633.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "heiß oder warm.",
+        "file": "content/vocab/audio/clips/6cd8e6cdaf4bc4576a0c7185.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nóng.",
+        "file": "content/vocab/audio/clips/f81b24bf4ef8ec3ffa58a601.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Heute ist es heiß.",
+        "file": "content/vocab/audio/clips/0da7cd34babd4482064c3f94.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm nay trời nóng.",
+        "file": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "kalt.",
+        "file": "content/vocab/audio/clips/6049cae6c4d5ba5e6cebcf3b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lạnh.",
+        "file": "content/vocab/audio/clips/fe85561e3fd108d966c07f35.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Kaltes Wasser.",
+        "file": "content/vocab/audio/clips/37c6fa855e9a5754958dfbf3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nước lạnh.",
+        "file": "content/vocab/audio/clips/e26a2fc5ad3dca9e46660c06.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "müde oder erschöpft.",
+        "file": "content/vocab/audio/clips/46f909c4aa1642a5f1c0b640.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mệt.",
+        "file": "content/vocab/audio/clips/723260acac9420437730c2d5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Beispiel: Ich bin ein bisschen müde.",
+        "file": "content/vocab/audio/clips/6fcfba5ed6928dc56cce5fd3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi hơi mệt.",
+        "file": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Heute ist es heiß.",
+        "file": "content/vocab/audio/clips/ad6dfd77615132003dd33513.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm nay trời nóng.",
+        "file": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz: Ich bin ein bisschen müde.",
+        "file": "content/vocab/audio/clips/a57c6446d0da407bc2405bc9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi hơi mệt.",
+        "file": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3",
+    "sha256": "f0719900ef7cb9eed762df6286f531d2bd32cde210476da1941c1f261ef26572",
+    "day": 21,
+    "transcript": "Tag 21 Audio-Wiederholung - 2026-09-20\n\nSegmentierte Reihenfolge: Deutsch zuerst, dann Vietnamesisch. Zwischen allen Segmenten liegen 0,5 Sekunden Stille.\n\n1. Deutsch: Familie\n2. Vietnamesisch: gia đình\n3. Deutsch: Meine Familie ist in Deutschland.\n4. Vietnamesisch: Gia đình tôi ở Đức.\n5. Deutsch: Vater, Papa\n6. Vietnamesisch: bố\n7. Deutsch: Mein Vater trinkt Kaffee.\n8. Vietnamesisch: Bố tôi uống cà phê.\n9. Deutsch: Mutter, Mama\n10. Vietnamesisch: mẹ\n11. Deutsch: Meine Mutter kocht.\n12. Vietnamesisch: Mẹ tôi nấu ăn.\n13. Deutsch: älterer Bruder\n14. Vietnamesisch: anh\n15. Deutsch: Mein älterer Bruder lernt Vietnamesisch.\n16. Vietnamesisch: Anh tôi học tiếng Việt.\n17. Deutsch: ältere Schwester\n18. Vietnamesisch: chị\n19. Deutsch: Meine ältere Schwester wohnt in der Stadt.\n20. Vietnamesisch: Chị tôi sống ở thành phố.\n21. Deutsch: Meine Familie ist in Deutschland.\n22. Vietnamesisch: Gia đình tôi ở Đức.\n23. Deutsch: Mein älterer Bruder lernt Vietnamesisch.\n24. Vietnamesisch: Anh tôi học tiếng Việt.\n",
+    "metadata": {
+      "date": "2026-09-20",
+      "tag": 21,
+      "provider": "microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Familie",
+        "file": "content/vocab/audio/clips/dd79e0387b0353917d44969f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "gia đình",
+        "file": "content/vocab/audio/clips/aa78f64501e56fa3d29484f3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine Familie ist in Deutschland.",
+        "file": "content/vocab/audio/clips/ec404ca038584d2e94ce98e8.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Gia đình tôi ở Đức.",
+        "file": "content/vocab/audio/clips/cfce17daaddee2be6e5ed7f0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vater, Papa",
+        "file": "content/vocab/audio/clips/429229c0dae1e255781f5a7d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bố",
+        "file": "content/vocab/audio/clips/1535d36797a430918f5a189e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein Vater trinkt Kaffee.",
+        "file": "content/vocab/audio/clips/f47b8430fc90e249b4420213.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bố tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/36415e7931dbabbf44306af1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mutter, Mama",
+        "file": "content/vocab/audio/clips/be5c74405d9182902d968217.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mẹ",
+        "file": "content/vocab/audio/clips/fcc12bf03eac0723774e04f6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine Mutter kocht.",
+        "file": "content/vocab/audio/clips/5ef4b0b185ad4b85ac36a45f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mẹ tôi nấu ăn.",
+        "file": "content/vocab/audio/clips/613e44a7e35244e713d621d5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "älterer Bruder",
+        "file": "content/vocab/audio/clips/d20c66e85850e7cdd4cd3f4a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "anh",
+        "file": "content/vocab/audio/clips/91630726886cb62cd0d23687.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein älterer Bruder lernt Vietnamesisch.",
+        "file": "content/vocab/audio/clips/0b68ce07bec35f704525eb8f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/71fae8296a7e0eccaf677fb6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "ältere Schwester",
+        "file": "content/vocab/audio/clips/91e383410c2e2fbfc5156a2d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "chị",
+        "file": "content/vocab/audio/clips/1f1515df0f74ef4e9bd7792e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine ältere Schwester wohnt in der Stadt.",
+        "file": "content/vocab/audio/clips/b87c5029ada2bdf1cb7d1e7f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chị tôi sống ở thành phố.",
+        "file": "content/vocab/audio/clips/ac9b0d299ba40efd3dae3384.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine Familie ist in Deutschland.",
+        "file": "content/vocab/audio/clips/ec404ca038584d2e94ce98e8.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Gia đình tôi ở Đức.",
+        "file": "content/vocab/audio/clips/cfce17daaddee2be6e5ed7f0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein älterer Bruder lernt Vietnamesisch.",
+        "file": "content/vocab/audio/clips/0b68ce07bec35f704525eb8f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/71fae8296a7e0eccaf677fb6.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3",
+    "sha256": "f4d7cb044f803a1a17cbe635b3268caa6684815d93d4a1286ff32298f2a7690d",
+    "day": 22,
+    "transcript": "Tag 22 Audio-Wiederholung - 2026-09-21\n\nSegmentierte Reihenfolge: Deutsch zuerst, dann Vietnamesisch. Zwischen allen Segmenten liegen 0,5 Sekunden Stille.\n\n1. Deutsch: jüngeres Geschwister\n2. Vietnamesisch: em\n3. Deutsch: Mein jüngeres Geschwister lernt Vietnamesisch.\n4. Vietnamesisch: Em tôi học tiếng Việt.\n5. Deutsch: Kind\n6. Vietnamesisch: con\n7. Deutsch: Mein Kind ist zu Hause.\n8. Vietnamesisch: Con tôi ở nhà.\n9. Deutsch: Ehemann\n10. Vietnamesisch: chồng\n11. Deutsch: Mein Mann kocht.\n12. Vietnamesisch: Chồng tôi nấu ăn.\n13. Deutsch: Ehefrau\n14. Vietnamesisch: vợ\n15. Deutsch: Meine Frau trinkt Kaffee.\n16. Vietnamesisch: Vợ tôi uống cà phê.\n17. Deutsch: Freunde\n18. Vietnamesisch: bạn bè\n19. Deutsch: Meine Freunde sind in der Stadt.\n20. Vietnamesisch: Bạn bè tôi ở thành phố.\n21. Deutsch: Das ist mein jüngeres Geschwister.\n22. Vietnamesisch: Đây là em tôi.\n23. Deutsch: Ich lebe mit meiner Familie.\n24. Vietnamesisch: Tôi sống với gia đình tôi.\n",
+    "metadata": {
+      "date": "2026-09-21",
+      "tag": 22,
+      "provider": "microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "jüngeres Geschwister",
+        "file": "content/vocab/audio/clips/82257eb599690d3967cd285d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "em",
+        "file": "content/vocab/audio/clips/2ac0c256389f7fae259f8e70.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein jüngeres Geschwister lernt Vietnamesisch.",
+        "file": "content/vocab/audio/clips/b29e72e489c0abd7b317c475.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Em tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/59d1d1dde6dc868403cbde81.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kind",
+        "file": "content/vocab/audio/clips/c868b3678f126bcfcfe5582b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "con",
+        "file": "content/vocab/audio/clips/6d68aa29852aa5eca51ee81b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein Kind ist zu Hause.",
+        "file": "content/vocab/audio/clips/48a5e75b7ccb4655ecf3fe5a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Con tôi ở nhà.",
+        "file": "content/vocab/audio/clips/6e17f153b653b78d12915833.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ehemann",
+        "file": "content/vocab/audio/clips/ef303ddb0a7c7429ce7cbdde.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "chồng",
+        "file": "content/vocab/audio/clips/d142e619d1e5f5fa9479c8e8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein Mann kocht.",
+        "file": "content/vocab/audio/clips/206dd020049bd8d84efda727.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chồng tôi nấu ăn.",
+        "file": "content/vocab/audio/clips/887f8906dd596c1f4e7aedf5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ehefrau",
+        "file": "content/vocab/audio/clips/c2e28ad5d31f49850f30ac28.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "vợ",
+        "file": "content/vocab/audio/clips/432d423835315084dc6aec6d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine Frau trinkt Kaffee.",
+        "file": "content/vocab/audio/clips/a1d7eb40f25bdc403c59de0a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Vợ tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/b9058bb7fb50be080832844f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Freunde",
+        "file": "content/vocab/audio/clips/830316029023f276c36a3a05.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bạn bè",
+        "file": "content/vocab/audio/clips/437ab180fc76ca020b66b889.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Meine Freunde sind in der Stadt.",
+        "file": "content/vocab/audio/clips/6b0bd38eec400b50f5b89e93.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn bè tôi ở thành phố.",
+        "file": "content/vocab/audio/clips/77ee480b9e3d03a06a87d6a1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Das ist mein jüngeres Geschwister.",
+        "file": "content/vocab/audio/clips/fc0d69919ecdceee545fbf12.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đây là em tôi.",
+        "file": "content/vocab/audio/clips/9a31b1a5de60b91df24409bb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lebe mit meiner Familie.",
+        "file": "content/vocab/audio/clips/38d26f9f638df64879909966.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi sống với gia đình tôi.",
+        "file": "content/vocab/audio/clips/ac140f060cbd8834bce37b94.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3",
+    "sha256": "0373e6b62a0b9289b16bcfe992657f78d48bc35261a2ef0b39c61e1722a9d4f9",
+    "day": 24,
+    "transcript": "Tag 24 - Audio-Wiederholung\n\nDeutsch: Tag vierundzwanzig. Neue Wörter.\nVietnamesisch: Ngày hai mươi bốn. Từ mới.\n\nDeutsch: Straße; Weg\nVietnamesisch: đường\nDeutsch: Wo ist diese Straße?\nVietnamesisch: Đường này ở đâu?\n\nDeutsch: Fahrzeug; Wagen\nVietnamesisch: xe\nDeutsch: Ich steige ins Fahrzeug.\nVietnamesisch: Tôi lên xe.\n\nDeutsch: Haltestelle; Station\nVietnamesisch: trạm\nDeutsch: Ist diese Haltestelle nah?\nVietnamesisch: Trạm này gần không?\n\nDeutsch: Ticket; Eintrittskarte\nVietnamesisch: vé\nDeutsch: Ich kaufe ein Ticket.\nVietnamesisch: Tôi mua vé.\n\nDeutsch: nah; in der Nähe\nVietnamesisch: gần\nDeutsch: Mein Haus ist hier in der Nähe.\nVietnamesisch: Nhà tôi gần đây.\n\nDeutsch: Alltagssatz eins. Wo ist die Bushaltestelle?\nVietnamesisch: Trạm xe buýt ở đâu?\nDeutsch: Grammatik: Vietnamesische Nomen werden oft direkt kombiniert.\nVietnamesisch: trạm xe buýt\n\nDeutsch: Alltagssatz zwei. Ich möchte ein Ticket kaufen.\nVietnamesisch: Tôi muốn mua vé.\nDeutsch: Grammatik: muốn steht vor dem Verb.\nVietnamesisch: muốn mua vé\n",
+    "metadata": {
+      "date": "2026-09-23",
+      "tag": 24,
+      "provider": "microsoft",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "pause_seconds": 0.5
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag vierundzwanzig. Neue Wörter.",
+        "file": "content/vocab/audio/clips/b19e03ca32ea1daf3de6b64e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày hai mươi bốn. Từ mới.",
+        "file": "content/vocab/audio/clips/5ec6e9454aaa5be2ac95cac8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Straße; Weg",
+        "file": "content/vocab/audio/clips/6bf1a08d8f53f00640b47db2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đường",
+        "file": "content/vocab/audio/clips/1e573f553e3ec413ad5d6450.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wo ist diese Straße?",
+        "file": "content/vocab/audio/clips/c7368331e1ee82c159bb77ab.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đường này ở đâu?",
+        "file": "content/vocab/audio/clips/36fda39e7019a263f35e5cdd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Fahrzeug; Wagen",
+        "file": "content/vocab/audio/clips/1d8b7a157f64021f323e783b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "xe",
+        "file": "content/vocab/audio/clips/7fdbac5fba6693837c133283.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich steige ins Fahrzeug.",
+        "file": "content/vocab/audio/clips/11f3ff1cd58d32278fbfe9ba.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi lên xe.",
+        "file": "content/vocab/audio/clips/998640ba48493f7a69e464ee.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Haltestelle; Station",
+        "file": "content/vocab/audio/clips/f3268d8222f363ad0e187397.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "trạm",
+        "file": "content/vocab/audio/clips/8dd1dde0a18633d94709c5de.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ist diese Haltestelle nah?",
+        "file": "content/vocab/audio/clips/388f0ea46f2b3eef201c8d51.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Trạm này gần không?",
+        "file": "content/vocab/audio/clips/bcb9ba07ed89beb4685ed4bc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ticket; Eintrittskarte",
+        "file": "content/vocab/audio/clips/ba3ccaf59d31fb1f4ac6b28a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "vé",
+        "file": "content/vocab/audio/clips/8853f238098e15388adaf2ad.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich kaufe ein Ticket.",
+        "file": "content/vocab/audio/clips/500f0f33c59298482c50817b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi mua vé.",
+        "file": "content/vocab/audio/clips/7c334d0ef4389ccba58f34d4.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "nah; in der Nähe",
+        "file": "content/vocab/audio/clips/63a69f5ea81ddf0bd61530e2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "gần",
+        "file": "content/vocab/audio/clips/9d5bf92556d7f677ecc145f2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mein Haus ist hier in der Nähe.",
+        "file": "content/vocab/audio/clips/f30d74d510fd612380c6bb1a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nhà tôi gần đây.",
+        "file": "content/vocab/audio/clips/d67a21043a539278546fdd5c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz eins. Wo ist die Bushaltestelle?",
+        "file": "content/vocab/audio/clips/b18831c794667072284e557d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Trạm xe buýt ở đâu?",
+        "file": "content/vocab/audio/clips/40c9a73d4db2284922cfaa28.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: Vietnamesische Nomen werden oft direkt kombiniert.",
+        "file": "content/vocab/audio/clips/e20dfd5b696ef8caa3430c34.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "trạm xe buýt",
+        "file": "content/vocab/audio/clips/bd031e9218043eaf15a38fff.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz zwei. Ich möchte ein Ticket kaufen.",
+        "file": "content/vocab/audio/clips/fa9082e475fe3d156472be0b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn mua vé.",
+        "file": "content/vocab/audio/clips/d258d8ab6ac2bc482e33c9b3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: muốn steht vor dem Verb.",
+        "file": "content/vocab/audio/clips/833517aa63a2edefb830027c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "muốn mua vé",
+        "file": "content/vocab/audio/clips/19d95a45825c907d6889e81d.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/vietnamesisch-beispielsaetze-bis-tag-17-2026-09-16.mp3",
+    "sha256": "eb5be84b5655c22a59a90bb3efa773b2824e7aa811a764d8e00f564794397fd4",
+    "metadata": {
+      "created": "2026-09-16",
+      "voices": {
+        "de": "de-DE-KatjaNeural",
+        "vi": "vi-VN-HoaiMyNeural"
+      },
+      "duration_seconds": 589.628
+    },
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Bisherige Beispielsätze, Deutsch zuerst, dann Vietnamesisch.",
+        "file": "content/vocab/audio/clips/25b449f961a741d121186f02.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne.",
+        "file": "content/vocab/audio/clips/a813db8c71d2f4c56958a5be.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học.",
+        "file": "content/vocab/audio/clips/164b892828c29ad0d4ebf398.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Geht es dir gut?",
+        "file": "content/vocab/audio/clips/b4d8eafbfedd5c9bd4d4f6dd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn khỏe không?",
+        "file": "content/vocab/audio/clips/b76ddf132347bddebf469f58.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich bin Richi.",
+        "file": "content/vocab/audio/clips/d1501cc10e1f9eb81f0d0174.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi là Richi.",
+        "file": "content/vocab/audio/clips/546f67cc068f309859032989.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Verstehst du?",
+        "file": "content/vocab/audio/clips/59078cefad9e9972150e3052.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn hiểu không?",
+        "file": "content/vocab/audio/clips/a3d8c5e4b9ed2eead3328fa7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich habe Zeit.",
+        "file": "content/vocab/audio/clips/75326becb52bb6cda98962ac.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi có thời gian.",
+        "file": "content/vocab/audio/clips/a5dcc8caac5bb6a02d12de9c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vietnamese/Vietnamesin",
+        "file": "content/vocab/audio/clips/5549ebc81b26fe54c1a99f7f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Người Việt Nam",
+        "file": "content/vocab/audio/clips/b051995afbc8c7cd2aa45a3a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was ist das?",
+        "file": "content/vocab/audio/clips/c65845c070d6f0157872007c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này là gì?",
+        "file": "content/vocab/audio/clips/8db7b8f42446a33bc79398da.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "diese Person",
+        "file": "content/vocab/audio/clips/e76b3a58e19100306d534dff.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Người đó",
+        "file": "content/vocab/audio/clips/05487bfd1c3e3b2a3416f8aa.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich wohne in Deutschland.",
+        "file": "content/vocab/audio/clips/b74998af94f406dd99cf9506.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ở Đức.",
+        "file": "content/vocab/audio/clips/f250d08af2369e7399b85e39.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich gehe.",
+        "file": "content/vocab/audio/clips/c98edc35e1b9221e43dd86f2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đi.",
+        "file": "content/vocab/audio/clips/0e165565705d750db3b4b186.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was machst du?",
+        "file": "content/vocab/audio/clips/33d0ef7635d49662d95bcdde.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn làm gì?",
+        "file": "content/vocab/audio/clips/5042cc4dc4bfec1c9c1526b2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was ist das?",
+        "file": "content/vocab/audio/clips/5d09ac66e385f99ceb118df8.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đây là gì?",
+        "file": "content/vocab/audio/clips/516ba5dbda1265c25f0a8840.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Reis/eine Mahlzeit.",
+        "file": "content/vocab/audio/clips/b2c6a2dd90dc0a6af42ac4fe.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn cơm.",
+        "file": "content/vocab/audio/clips/5b9c23884f835167ba0f7d6c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was trinkst du?",
+        "file": "content/vocab/audio/clips/e946241e0133b9480e9ad6d2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn uống gì?",
+        "file": "content/vocab/audio/clips/b9bf6d789556761d9aff14a3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr gut.",
+        "file": "content/vocab/audio/clips/934ada499b98a791cd3fe9b9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Rất tốt.",
+        "file": "content/vocab/audio/clips/25c2084dc9a9fe26259ab9f9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr gut.",
+        "file": "content/vocab/audio/clips/76e46051e3a3746f7212e819.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tốt lắm.",
+        "file": "content/vocab/audio/clips/5394bbf60ce4590d59b4b7a3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vielen Dank.",
+        "file": "content/vocab/audio/clips/f30e766e907cc6f1a20e6e48.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cảm ơn nhiều.",
+        "file": "content/vocab/audio/clips/2202230ba884252444ae9aed.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "eine Person",
+        "file": "content/vocab/audio/clips/cfa28e1bc91fe0f07a62741a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một người",
+        "file": "content/vocab/audio/clips/af51e1225357e8ecdaebc3aa.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "mit dir",
+        "file": "content/vocab/audio/clips/baf3fc98b316c456597e73ef.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Với bạn",
+        "file": "content/vocab/audio/clips/b20ec12b2d296217b8751501.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Gib mir Wasser.",
+        "file": "content/vocab/audio/clips/849c6297f70dd727eaf375f5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đưa tôi nước.",
+        "file": "content/vocab/audio/clips/0b739e27ba2b8864769cd20d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich weiß.",
+        "file": "content/vocab/audio/clips/93443e7fa7e4d277bb91c374.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi biết.",
+        "file": "content/vocab/audio/clips/10570e2a009612e77c339d82.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte lernen.",
+        "file": "content/vocab/audio/clips/5462b838a46bb34edee5c32a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn học.",
+        "file": "content/vocab/audio/clips/de693e2936cb8d18e3e2834d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich spreche Deutsch.",
+        "file": "content/vocab/audio/clips/00f9215f8aba240d391c66ac.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi nói tiếng Đức.",
+        "file": "content/vocab/audio/clips/77b15566d75497f846c30d05.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vietnamesisch",
+        "file": "content/vocab/audio/clips/a85d87ba885e5bb0314146f7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tiếng Việt",
+        "file": "content/vocab/audio/clips/8ad1b896faecb6d89a084988.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne Vietnamesisch.",
+        "file": "content/vocab/audio/clips/da95c27cdfc6b5e7cb1be438.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/870447b5a58d54d99c6a4248.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Heute lerne ich.",
+        "file": "content/vocab/audio/clips/61fa73f006f1d7dd20e73aec.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm nay tôi học.",
+        "file": "content/vocab/audio/clips/61e003507ac31438fc2d4294.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Morgen gehe ich.",
+        "file": "content/vocab/audio/clips/ef6eea21bf488376494d819a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày mai tôi đi.",
+        "file": "content/vocab/audio/clips/1d390363b9907bbd77428d23.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich bin zu Hause.",
+        "file": "content/vocab/audio/clips/20f20c796db0e99131bb8324.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ở nhà.",
+        "file": "content/vocab/audio/clips/7ce3acdb90ba114b9ae5a45c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wo bist du?",
+        "file": "content/vocab/audio/clips/24b5e263c482a52e9738d949.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn ở đâu?",
+        "file": "content/vocab/audio/clips/954d463fb26aec2c7fdb5498.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wer ist das?",
+        "file": "content/vocab/audio/clips/91a19c2f44306cdb88758649.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ai đó?",
+        "file": "content/vocab/audio/clips/16903285b99a316c9cfb3f3c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wann gehst du?",
+        "file": "content/vocab/audio/clips/aedcf69c16bd2829e2b752a3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Khi nào bạn đi?",
+        "file": "content/vocab/audio/clips/4d074b92f8dc5e0764dca30f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Warum?",
+        "file": "content/vocab/audio/clips/bb333b1d7599bd933e7ead3f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Vì sao?",
+        "file": "content/vocab/audio/clips/1a855236d9595a850e22335a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Okay / geht.",
+        "file": "content/vocab/audio/clips/7652869da9f3932a20bd2acc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Được.",
+        "file": "content/vocab/audio/clips/4bb6a3d3434fe24c7f79bacd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich muss lernen.",
+        "file": "content/vocab/audio/clips/0b03a9ee4d5fb3d5894cf568.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi phải học.",
+        "file": "content/vocab/audio/clips/8165222e76f0efe890b8aa6f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Hallo!",
+        "file": "content/vocab/audio/clips/e6e1e910d7058517083b503a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin chào!",
+        "file": "content/vocab/audio/clips/5d9734a9a2c1c089a748326e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Danke.",
+        "file": "content/vocab/audio/clips/b1d04f0b4b611d8c1e8d7aed.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cảm ơn.",
+        "file": "content/vocab/audio/clips/8119a3b1844de05b5ad8de74.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne auch.",
+        "file": "content/vocab/audio/clips/379592a6f95d6bcaf352e14e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi cũng học.",
+        "file": "content/vocab/audio/clips/20224d4ea374cc5bd1d0c6e5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Hallo, wie geht es dir?",
+        "file": "content/vocab/audio/clips/7c73a5f5ebcb8568e795aedd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin chào, bạn khỏe không?",
+        "file": "content/vocab/audio/clips/82a25e8f140b9b5757aa5f5b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Mir geht es gut, danke.",
+        "file": "content/vocab/audio/clips/e6061d96d3d50213b8d088a0.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi khỏe, cảm ơn.",
+        "file": "content/vocab/audio/clips/cdf18694c2c14c1d3fd32311.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich trinke Kaffee.",
+        "file": "content/vocab/audio/clips/8c74c18aeba490cacb92b204.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/8b2edda274b7a338ecb83665.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich trinke Wasser.",
+        "file": "content/vocab/audio/clips/3355ba377aa8eff52bbed459.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi uống nước.",
+        "file": "content/vocab/audio/clips/a3bcf704a34ec482eb2e4f87.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Pho.",
+        "file": "content/vocab/audio/clips/eb2abfda0df55ab34c32918c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn phở.",
+        "file": "content/vocab/audio/clips/397f02491a0ba83c8c162d01.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Bánh mì.",
+        "file": "content/vocab/audio/clips/c73c61e81440f6093f3b8beb.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn bánh mì.",
+        "file": "content/vocab/audio/clips/4271e60ebf399534e4e35bac.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte Kaffee trinken.",
+        "file": "content/vocab/audio/clips/c5313e7812c54cb5936b9e5f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn uống cà phê.",
+        "file": "content/vocab/audio/clips/643bc6f3d0a499a846f1a17c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was möchtest du essen?",
+        "file": "content/vocab/audio/clips/473020f380b53d53cb87403a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn muốn ăn gì?",
+        "file": "content/vocab/audio/clips/abc9d98eaa9c083b9fc2be76.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich verstehe.",
+        "file": "content/vocab/audio/clips/60d11b1c5f0a7d04b2c19daa.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi hiểu.",
+        "file": "content/vocab/audio/clips/ef2f425c806f804188f3b11e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sprich langsam.",
+        "file": "content/vocab/audio/clips/03347d12a3689fdcd4525dc4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nói chậm.",
+        "file": "content/vocab/audio/clips/198d42e2fe8e07fc2288d09b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Du sprichst schnell.",
+        "file": "content/vocab/audio/clips/3cc55b6bc0fde7c11ccbd784.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn nói nhanh.",
+        "file": "content/vocab/audio/clips/c5d0e9f034ea4bf01a2e6bde.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sag es noch einmal.",
+        "file": "content/vocab/audio/clips/f570f747607336ba8651da5d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nói lại.",
+        "file": "content/vocab/audio/clips/8427854eeb1be4b990db4e4e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Entschuldigung.",
+        "file": "content/vocab/audio/clips/14f700ac8810eab5145a1232.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin lỗi.",
+        "file": "content/vocab/audio/clips/db73fd477533e93c8b640d6c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich verstehe nicht.",
+        "file": "content/vocab/audio/clips/400892101dfd5392e5429757.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi không hiểu.",
+        "file": "content/vocab/audio/clips/2981fe28cc499b47dfaece5b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kannst du langsam sprechen?",
+        "file": "content/vocab/audio/clips/e70051a6bf75a557a715da0c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn nói chậm được không?",
+        "file": "content/vocab/audio/clips/9dde27201d70df3dd7b4a989.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich komme.",
+        "file": "content/vocab/audio/clips/09d258575004c12ba419f2e1.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đến.",
+        "file": "content/vocab/audio/clips/1eac18acddcc4766e44c3c46.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich komme aus Deutschland.",
+        "file": "content/vocab/audio/clips/278d7a6f6ab363bbc16cb5da.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đến từ Đức.",
+        "file": "content/vocab/audio/clips/d0e49d8a8669f479a222c36c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wo wohnst du?",
+        "file": "content/vocab/audio/clips/2a9e4395031e6f7c5408d931.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn sống ở đâu?",
+        "file": "content/vocab/audio/clips/9fd3a17f5ac52e637150e2ef.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Eine große Stadt.",
+        "file": "content/vocab/audio/clips/23e0a9b71015be87e760af30.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Thành phố lớn.",
+        "file": "content/vocab/audio/clips/8c2dee56b4635efb0cf30b6c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was ist das hier?",
+        "file": "content/vocab/audio/clips/839ec3174ca56b60f8a48329.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này là gì?",
+        "file": "content/vocab/audio/clips/52d5d5ebf1cbe6ed4f9f590c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wie viel Geld?",
+        "file": "content/vocab/audio/clips/c2ff69c73695e53f55dcc5b6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bao nhiêu tiền?",
+        "file": "content/vocab/audio/clips/4029364513d2f8cf67c1bc51.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wie viel kostet das?",
+        "file": "content/vocab/audio/clips/a0ce0e43d706be1ff9670f28.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này bao nhiêu tiền?",
+        "file": "content/vocab/audio/clips/4d710b9ced03bf1b9205a8ad.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte das hier kaufen.",
+        "file": "content/vocab/audio/clips/518047e0382ecb361d9894a0.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn mua cái này.",
+        "file": "content/vocab/audio/clips/5ed9c80234dd2443fea2efa9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was verkaufst du?",
+        "file": "content/vocab/audio/clips/0512abad9862a2d0b97960d9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn bán gì?",
+        "file": "content/vocab/audio/clips/8e016031f9a7c3eba26cd012.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich mag dieses Gericht.",
+        "file": "content/vocab/audio/clips/a8eedce2aa73d80c685ae8d9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi thích món này.",
+        "file": "content/vocab/audio/clips/62b4c9801d6648f84a180cca.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Dieses Gericht ist lecker.",
+        "file": "content/vocab/audio/clips/0efa8e578a2120cadc5f5279.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Món này ngon.",
+        "file": "content/vocab/audio/clips/916d2eb70424e16a2116eadb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Pho ist lecker.",
+        "file": "content/vocab/audio/clips/5d509fb21003f33607b1b60b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Phở ngon.",
+        "file": "content/vocab/audio/clips/7d30755805e1c6c9bea4a4da.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr lecker.",
+        "file": "content/vocab/audio/clips/0baf1ad4743a6c6f94654f7f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngon quá.",
+        "file": "content/vocab/audio/clips/e58b7bb464804351f8a17353.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich mag Pho, aber esse heute keine.",
+        "file": "content/vocab/audio/clips/772ec4e9fd2078549a8a806f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi thích phở, nhưng không ăn hôm nay.",
+        "file": "content/vocab/audio/clips/9a04bbead44a404e27815bab.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Dieses Gericht ist sehr lecker.",
+        "file": "content/vocab/audio/clips/235d0fdc0be9fcc4e427b76d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Món này ngon quá.",
+        "file": "content/vocab/audio/clips/a1a7a33d725cf4b7f9f94ad8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne gerade.",
+        "file": "content/vocab/audio/clips/cd52dc75330901c0a287b344.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang học.",
+        "file": "content/vocab/audio/clips/2c346c797cf0bbab37787928.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jeden Tag lerne ich.",
+        "file": "content/vocab/audio/clips/91d5d7a071a714123aeb80e2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mỗi ngày tôi học.",
+        "file": "content/vocab/audio/clips/3e3501115cc76cb6eb51af10.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Fünf neue Wörter.",
+        "file": "content/vocab/audio/clips/639a0aa8ccab8305d961e9a7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Năm từ mới.",
+        "file": "content/vocab/audio/clips/1bf8fcd143900e43b8051c45.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne fünf Wörter.",
+        "file": "content/vocab/audio/clips/159ffc3c1a1bc19b99f2299b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học năm từ.",
+        "file": "content/vocab/audio/clips/a88feadb5158ffa78ff7e68e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Neues Wort.",
+        "file": "content/vocab/audio/clips/2fc628f8dba115e442586e44.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Từ mới.",
+        "file": "content/vocab/audio/clips/c7fbb8b94d8638461c126cb5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne gerade Vietnamesisch.",
+        "file": "content/vocab/audio/clips/682c9b28e7eadef4e842a359.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang học tiếng Việt.",
+        "file": "content/vocab/audio/clips/3db934fcb91b4326d2ba494a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jeden Tag lerne ich fünf neue Wörter.",
+        "file": "content/vocab/audio/clips/5399d1edde024b8b94d7a9e2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mỗi ngày tôi học năm từ mới.",
+        "file": "content/vocab/audio/clips/e92a4086118d36c054682551.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jetzt lerne ich.",
+        "file": "content/vocab/audio/clips/60b615312152217ccefc90e7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bây giờ tôi học.",
+        "file": "content/vocab/audio/clips/9de02d2ae246682012517a8f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Bis später.",
+        "file": "content/vocab/audio/clips/facf4bbed298c0b81b6cc5d9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hẹn gặp lại sau.",
+        "file": "content/vocab/audio/clips/d84dcd3bd280f7005fb7b2da.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vor dem Haus.",
+        "file": "content/vocab/audio/clips/40eebe979fff89384123b24a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Trước nhà.",
+        "file": "content/vocab/audio/clips/8605c8d129508401f4a8902f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich brauche Wasser.",
+        "file": "content/vocab/audio/clips/3e7b91cf22c68ce8c3d3643d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi cần nước.",
+        "file": "content/vocab/audio/clips/febf2df0573d6413eadb3c14.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kannst du mir helfen?",
+        "file": "content/vocab/audio/clips/fba7bcd02e24650356e16db2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn giúp tôi được không?",
+        "file": "content/vocab/audio/clips/0904663cc748f76747b9da80.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jetzt brauche ich Wasser.",
+        "file": "content/vocab/audio/clips/0667a66d41639ca565180cbd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bây giờ tôi cần nước.",
+        "file": "content/vocab/audio/clips/8183ba3bff3e4147d2217010.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wie spät ist es jetzt?",
+        "file": "content/vocab/audio/clips/b4c2db020fb68c66d5f014ab.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bây giờ là mấy giờ?",
+        "file": "content/vocab/audio/clips/f0b041fba957730f35187c89.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Fünf Minuten.",
+        "file": "content/vocab/audio/clips/f193edab5588827689c33129.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Năm phút.",
+        "file": "content/vocab/audio/clips/6c794aedf9039a7a92a2be6a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Gestern habe ich gelernt.",
+        "file": "content/vocab/audio/clips/092539b0e06e5f11d4825185.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm qua tôi học.",
+        "file": "content/vocab/audio/clips/8575adfff64d5439acebd4b6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Eine Woche.",
+        "file": "content/vocab/audio/clips/9923caca3d3fad50af0fd772.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một tuần.",
+        "file": "content/vocab/audio/clips/ef34197ed6f918ec4e9d57a1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Dieser Monat.",
+        "file": "content/vocab/audio/clips/57d4e8b6006dff0772ee978d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tháng này.",
+        "file": "content/vocab/audio/clips/71399481d4b7ac55d1955cb3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Gestern habe ich Vietnamesisch gelernt.",
+        "file": "content/vocab/audio/clips/042145f8e42778873aa2dc29.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm qua tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/415c5f65dcbbab556b19c464.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ein Tag.",
+        "file": "content/vocab/audio/clips/2a18c80f77bc44720e61ce5e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một ngày.",
+        "file": "content/vocab/audio/clips/33ff8d743262af97de665f88.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Heute Nacht bin ich zu Hause.",
+        "file": "content/vocab/audio/clips/0aec28c3893ac50bd2c22b1b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đêm nay tôi ở nhà.",
+        "file": "content/vocab/audio/clips/fd71df38a7e09bdbd1bb5789.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Heute Morgen lerne ich.",
+        "file": "content/vocab/audio/clips/16d39245527f6b88af1cbfb6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Sáng nay tôi học.",
+        "file": "content/vocab/audio/clips/95608d1f7f5eb7c33ced1ddc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Heute Nachmittag trinke ich Kaffee.",
+        "file": "content/vocab/audio/clips/584dd7f440f1d104576bdcae.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chiều nay tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/e4f0cd1e21e11807bed99d52.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was machst du heute Abend?",
+        "file": "content/vocab/audio/clips/76d3ebdb57303d10d4839c8c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tối nay bạn làm gì?",
+        "file": "content/vocab/audio/clips/a03037672780b702788ee9b6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Guten Morgen.",
+        "file": "content/vocab/audio/clips/85a03c28a5cb943d5e2b4674.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Chào buổi sáng.",
+        "file": "content/vocab/audio/clips/c890c292fb525aaa5918b618.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was möchtest du essen?",
+        "file": "content/vocab/audio/clips/340cf3f866eabd09d83a2287.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Em muốn ăn gì?",
+        "file": "content/vocab/audio/clips/f79a997b22e25f79ed30bb85.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte Kaffee trinken. / Du möchtest Kaffee trinken.",
+        "file": "content/vocab/audio/clips/f326de9118745f380c11bd01.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh muốn uống cà phê.",
+        "file": "content/vocab/audio/clips/5cc27803a9fc55933f77aec9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte Wasser trinken.",
+        "file": "content/vocab/audio/clips/59d13620d0f0059db3899f2c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh muốn uống nước.",
+        "file": "content/vocab/audio/clips/971b531ca68de3ce472cc38b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sauerteigbrot",
+        "file": "content/vocab/audio/clips/195321c6ec5342e691006878.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bánh mì men chua",
+        "file": "content/vocab/audio/clips/948515946268c657b310fa9c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Brot / Bánh mì.",
+        "file": "content/vocab/audio/clips/f763b1de8c728cf35ab23b6b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh ăn bánh mì.",
+        "file": "content/vocab/audio/clips/6eacb8f9d6a5155744a65033.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich verstehe nicht.",
+        "file": "content/vocab/audio/clips/6898a05c9fdcf18650baa80a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh không hiểu.",
+        "file": "content/vocab/audio/clips/9f0f69903a338fac1e308cf2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Liebling, ich vermisse dich.",
+        "file": "content/vocab/audio/clips/627474565b642e3a68031406.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Em yêu, anh nhớ em.",
+        "file": "content/vocab/audio/clips/2a4393cfeb4ccc8ee638ac0f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich komme aus der Slowakei und wohne in Deutschland.",
+        "file": "content/vocab/audio/clips/55b027aac4e3b49a11048945.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh đến từ Slovakia và sống ở Đức.",
+        "file": "content/vocab/audio/clips/09789994ec0918ab7132be6d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Bin ich schön? / Bist du schön?",
+        "file": "content/vocab/audio/clips/1988094029702b76e9f49fe6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Em có đẹp không?",
+        "file": "content/vocab/audio/clips/95a984ccd8e308d35a4d3a4e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Liebling, vermisst du mich?",
+        "file": "content/vocab/audio/clips/552efa593f4345f7a49311d0.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh yêu có nhớ em không?",
+        "file": "content/vocab/audio/clips/d8b1d4cda1707399f93568fc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Dieses Gericht ist sehr lecker.",
+        "file": "content/vocab/audio/clips/718b11f19dcce070a98450d6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Món này rất ngon.",
+        "file": "content/vocab/audio/clips/28bc1bd9ad062838c179eaf9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne jeden Tag.",
+        "file": "content/vocab/audio/clips/bde5d0998db53e8088b32337.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học mỗi ngày.",
+        "file": "content/vocab/audio/clips/044f8425ae286a1719ed3c10.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne gerade Vietnamesisch.",
+        "file": "content/vocab/audio/clips/4681b0e49ce3659e8717321b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Anh đang học tiếng Việt.",
+        "file": "content/vocab/audio/clips/38ff1a77b72e05f6d5805c1c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wann wirst du gehen? / Wann gehst du?",
+        "file": "content/vocab/audio/clips/2ac295fb030a8c96a04f205a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn sẽ đi khi nào? / Em sẽ đi khi nào?",
+        "file": "content/vocab/audio/clips/a121604d242f391c49527cac.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jeden Tag lerne ich fünf neue Wörter.",
+        "file": "content/vocab/audio/clips/0561bad14fb7beacdb562d7c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mỗi ngày anh học năm từ mới.",
+        "file": "content/vocab/audio/clips/c96d1406bdb7ed5dc155ca9e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte dieses Gericht kaufen.",
+        "file": "content/vocab/audio/clips/a82ebde231149487d7972e89.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn mua món này.",
+        "file": "content/vocab/audio/clips/307624d0d323a6a03a696d9d.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/vietnamesisch-wiederholung-2026-09-14.mp3",
+    "sha256": "af896b9e055224fa56f2fe95bc567bfacf080fe0ff53359ca6d04ef998c25e43",
+    "transcript": "Vietnamesisch Wiederholung\nDeutsch zuerst, dann Vietnamesisch.\n\n1. ich — tôi\n2. du — bạn\n3. sein — là\n4. nicht — không\n5. haben — có\n6. Mensch — người\n7. dies — này\n8. das — đó\n9. in — ở\n10. gehen — đi\n11. machen — làm\n12. was — gì\n13. essen — ăn\n14. trinken — uống\n15. sehr — rất\n16. gut — tốt\n17. viel — nhiều\n18. ein — một\n19. mit — với\n20. geben — đưa\n21. wissen — biết\n22. wollen — muốn\n23. sprechen — nói\n24. Sprache — tiếng\n25. Vietnam — Việt Nam\n26. lernen — học\n27. heute — hôm nay\n28. morgen — ngày mai\n29. Haus — nhà\n30. wo — đâu\n31. wer — ai\n32. wann — khi nào\n33. warum — vì sao\n34. können — được\n35. müssen — phải\n36. hallo — xin chào\n37. gesund — khỏe\n38. danken — cảm ơn\n39. sehr — lắm\n40. auch — cũng\n41. Hallo, wie geht es dir? — Xin chào, bạn khỏe không?\n42. Mir geht es gut, danke. — Tôi khỏe, cảm ơn.\n43. Kaffee — cà phê\n44. Wasser — nước\n45. gekochter Reis — cơm\n46. Pho — phở\n47. Brot — bánh mì\n48. Ich möchte Kaffee trinken. — Tôi muốn uống cà phê.\n49. Was möchtest du essen? — Bạn muốn ăn gì?\n50. verstehen — hiểu\n51. langsam — chậm\n52. schnell — nhanh\n53. wieder — lại\n54. Entschuldigung — xin lỗi\n55. Ich verstehe nicht. — Tôi không hiểu.\n56. Kannst du langsam sprechen? — Bạn nói chậm được không?\n57. kommen — đến\n58. von — từ\n59. Deutschland — Đức\n60. leben — sống\n61. Stadt — thành phố\n62. Ich komme aus Deutschland. — Tôi đến từ Đức.\n63. Wo wohnst du? — Bạn sống ở đâu?\n64. Ding — cái\n65. wie viel — bao nhiêu\n66. Geld — tiền\n67. kaufen — mua\n68. verkaufen — bán\n69. Wie viel kostet das? — Cái này bao nhiêu tiền?\n70. Ich möchte das hier kaufen. — Tôi muốn mua cái này.\n71. mögen — thích\n72. Gericht — món\n73. lecker — ngon\n74. sehr — quá\n75. aber — nhưng\n76. Ich mag dieses Gericht. — Tôi thích món này.\n77. Dieses Gericht ist sehr lecker. — Món này ngon quá.\n78. gerade — đang\n79. jede — mỗi\n80. fünf — năm\n81. Wort — từ\n82. neu — mới\n83. Ich lerne gerade Vietnamesisch. — Tôi đang học tiếng Việt.\n84. Jeden Tag lerne ich fünf neue Wörter. — Mỗi ngày tôi học năm từ mới.\n85. Was möchtest du essen? — Em muốn ăn gì?\n86. Ich möchte Kaffee trinken. — Anh muốn uống cà phê.\n87. Ich möchte Wasser trinken. — Anh muốn uống nước.\n88. Sauerteigbrot — bánh mì men chua\n89. Ich esse Brot — Anh ăn bánh mì.\n90. Ich verstehe nicht. — Anh không hiểu.\n91. Liebling, ich vermisse dich. — Em yêu, anh nhớ em.\n92. Ich komme aus der Slowakei und wohne in Deutschland. — Anh đến từ Slovakia và sống ở Đức.\n93. Bin ich schön? — Em có đẹp không?\n94. Liebling, vermisst du mich? — Anh yêu có nhớ em không?\n95. Dieses Gericht ist sehr lecker. — Món này rất ngon.\n96. Ich lerne jeden Tag. — Tôi học mỗi ngày.\n97. Ich lerne gerade Vietnamesisch. — Anh đang học tiếng Việt.\n98. Wann wirst du gehen? — Bạn sẽ đi khi nào? / Em sẽ đi khi nào?\n99. Jeden Tag lerne ich fünf neue Wörter. — Mỗi ngày anh học năm từ mới.\n100. Ich möchte dieses Gericht kaufen. — Tôi muốn mua món này.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/vietnamesisch-wiederholung-2026-09-20.mp3",
+    "sha256": "a95e64b1d162511d336d01cfe10aff1aabed957f1f038ba2c772c0da8489e635",
+    "transcript": "Vietnamesisch-Wiederholung - 2026-09-20\n\nSegmentierte Reihenfolge: Deutsch zuerst, dann Vietnamesisch. Zwischen allen Segmenten liegen 0,5 Sekunden Stille.\n\n1. Deutsch: Was verkaufst du?\n2. Vietnamesisch: Bạn bán gì?\n3. Deutsch: Ich möchte das hier kaufen.\n4. Vietnamesisch: Tôi muốn mua cái này.\n5. Deutsch: Ich lerne gerade Vietnamesisch.\n6. Vietnamesisch: Tôi đang học tiếng Việt.\n7. Deutsch: Wo wohnst du?\n8. Vietnamesisch: Bạn sống ở đâu?\n9. Deutsch: Kannst du langsam sprechen?\n10. Vietnamesisch: Bạn nói chậm được không?\n11. Deutsch: Sehr lecker.\n12. Vietnamesisch: Ngon quá.\n13. Deutsch: Ich brauche Wasser.\n14. Vietnamesisch: Tôi cần nước.\n15. Deutsch: Ich komme aus Deutschland.\n16. Vietnamesisch: Tôi đến từ Đức.\n17. Deutsch: Ich lebe in Deutschland.\n18. Vietnamesisch: Tôi sống ở Đức.\n19. Deutsch: Was möchtest du essen?\n20. Vietnamesisch: Bạn muốn ăn gì?\n21. Deutsch: Ich möchte Kaffee trinken.\n22. Vietnamesisch: Tôi muốn uống cà phê.\n23. Deutsch: Wie viel kostet das?\n24. Vietnamesisch: Cái này bao nhiêu tiền?\n25. Deutsch: Was machst du?\n26. Vietnamesisch: Bạn làm gì?\n27. Deutsch: Ich verstehe nicht.\n28. Vietnamesisch: Tôi không hiểu.\n29. Deutsch: Sag es noch einmal.\n30. Vietnamesisch: Nói lại lần nữa.\n31. Deutsch: Sehr gut.\n32. Vietnamesisch: Tốt lắm.\n33. Deutsch: Vielen Dank.\n34. Vietnamesisch: Cảm ơn nhiều.\n35. Deutsch: Ich lerne auch.\n36. Vietnamesisch: Tôi cũng học.\n37. Deutsch: Ich weiß.\n38. Vietnamesisch: Tôi biết.\n39. Deutsch: Wo bist du?\n40. Vietnamesisch: Bạn ở đâu?\n41. Deutsch: Ich bin zu Hause.\n42. Vietnamesisch: Tôi ở nhà.\n43. Deutsch: Okay.\n44. Vietnamesisch: Được.\n45. Deutsch: Ich muss lernen.\n46. Vietnamesisch: Tôi phải học.\n",
+    "metadata": {
+      "date": "2026-09-20",
+      "kind": "review",
+      "provider": "macos-say",
+      "voices": {
+        "de": "Anna",
+        "vi": "Linh"
+      },
+      "pause_seconds": 0.5
+    },
+    "pairs": [
+      {
+        "de": "Was verkaufst du?",
+        "vi": "Bạn bán gì?"
+      },
+      {
+        "de": "Ich möchte das hier kaufen.",
+        "vi": "Tôi muốn mua cái này."
+      },
+      {
+        "de": "Ich lerne gerade Vietnamesisch.",
+        "vi": "Tôi đang học tiếng Việt."
+      },
+      {
+        "de": "Wo wohnst du?",
+        "vi": "Bạn sống ở đâu?"
+      },
+      {
+        "de": "Kannst du langsam sprechen?",
+        "vi": "Bạn nói chậm được không?"
+      },
+      {
+        "de": "Sehr lecker.",
+        "vi": "Ngon quá."
+      },
+      {
+        "de": "Ich brauche Wasser.",
+        "vi": "Tôi cần nước."
+      },
+      {
+        "de": "Ich komme aus Deutschland.",
+        "vi": "Tôi đến từ Đức."
+      },
+      {
+        "de": "Ich lebe in Deutschland.",
+        "vi": "Tôi sống ở Đức."
+      },
+      {
+        "de": "Was möchtest du essen?",
+        "vi": "Bạn muốn ăn gì?"
+      },
+      {
+        "de": "Ich möchte Kaffee trinken.",
+        "vi": "Tôi muốn uống cà phê."
+      },
+      {
+        "de": "Wie viel kostet das?",
+        "vi": "Cái này bao nhiêu tiền?"
+      },
+      {
+        "de": "Was machst du?",
+        "vi": "Bạn làm gì?"
+      },
+      {
+        "de": "Ich verstehe nicht.",
+        "vi": "Tôi không hiểu."
+      },
+      {
+        "de": "Sag es noch einmal.",
+        "vi": "Nói lại lần nữa."
+      },
+      {
+        "de": "Sehr gut.",
+        "vi": "Tốt lắm."
+      },
+      {
+        "de": "Vielen Dank.",
+        "vi": "Cảm ơn nhiều."
+      },
+      {
+        "de": "Ich lerne auch.",
+        "vi": "Tôi cũng học."
+      },
+      {
+        "de": "Ich weiß.",
+        "vi": "Tôi biết."
+      },
+      {
+        "de": "Wo bist du?",
+        "vi": "Bạn ở đâu?"
+      },
+      {
+        "de": "Ich bin zu Hause.",
+        "vi": "Tôi ở nhà."
+      },
+      {
+        "de": "Okay.",
+        "vi": "Được."
+      },
+      {
+        "de": "Ich muss lernen.",
+        "vi": "Tôi phải học."
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/vietnamesisch-wiederholung-pausen-2026-09-14.mp3",
+    "sha256": "5061149b19b89ab447654c95427e9a0b340a1ec1c66eff7d4b73163061ae0226",
+    "transcript": "Vietnamesisch Wiederholung mit 2 Sekunden Pause\nDeutsch zuerst, dann Vietnamesisch.\n\n1. ich — tôi\n2. du — bạn\n3. sein — là\n4. nicht — không\n5. haben — có\n6. Mensch — người\n7. dies — này\n8. das — đó\n9. in — ở\n10. gehen — đi\n11. machen — làm\n12. was — gì\n13. essen — ăn\n14. trinken — uống\n15. sehr — rất\n16. gut — tốt\n17. viel — nhiều\n18. ein — một\n19. mit — với\n20. geben — đưa\n21. wissen — biết\n22. wollen — muốn\n23. sprechen — nói\n24. Sprache — tiếng\n25. Vietnam — Việt Nam\n26. lernen — học\n27. heute — hôm nay\n28. morgen — ngày mai\n29. Haus — nhà\n30. wo — đâu\n31. wer — ai\n32. wann — khi nào\n33. warum — vì sao\n34. können — được\n35. müssen — phải\n36. hallo — xin chào\n37. gesund — khỏe\n38. danken — cảm ơn\n39. sehr — lắm\n40. auch — cũng\n41. Hallo, wie geht es dir? — Xin chào, bạn khỏe không?\n42. Mir geht es gut, danke. — Tôi khỏe, cảm ơn.\n43. Kaffee — cà phê\n44. Wasser — nước\n45. gekochter Reis — cơm\n46. Pho — phở\n47. Brot — bánh mì\n48. Ich möchte Kaffee trinken. — Tôi muốn uống cà phê.\n49. Was möchtest du essen? — Bạn muốn ăn gì?\n50. verstehen — hiểu\n51. langsam — chậm\n52. schnell — nhanh\n53. wieder — lại\n54. Entschuldigung — xin lỗi\n55. Ich verstehe nicht. — Tôi không hiểu.\n56. Kannst du langsam sprechen? — Bạn nói chậm được không?\n57. kommen — đến\n58. von — từ\n59. Deutschland — Đức\n60. leben — sống\n61. Stadt — thành phố\n62. Ich komme aus Deutschland. — Tôi đến từ Đức.\n63. Wo wohnst du? — Bạn sống ở đâu?\n64. Ding — cái\n65. wie viel — bao nhiêu\n66. Geld — tiền\n67. kaufen — mua\n68. verkaufen — bán\n69. Wie viel kostet das? — Cái này bao nhiêu tiền?\n70. Ich möchte das hier kaufen. — Tôi muốn mua cái này.\n71. mögen — thích\n72. Gericht — món\n73. lecker — ngon\n74. sehr — quá\n75. aber — nhưng\n76. Ich mag dieses Gericht. — Tôi thích món này.\n77. Dieses Gericht ist sehr lecker. — Món này ngon quá.\n78. gerade — đang\n79. jede — mỗi\n80. fünf — năm\n81. Wort — từ\n82. neu — mới\n83. Ich lerne gerade Vietnamesisch. — Tôi đang học tiếng Việt.\n84. Jeden Tag lerne ich fünf neue Wörter. — Mỗi ngày tôi học năm từ mới.\n85. Was möchtest du essen? — Em muốn ăn gì?\n86. Ich möchte Kaffee trinken. — Anh muốn uống cà phê.\n87. Ich möchte Wasser trinken. — Anh muốn uống nước.\n88. Sauerteigbrot — bánh mì men chua\n89. Ich esse Brot — Anh ăn bánh mì.\n90. Ich verstehe nicht. — Anh không hiểu.\n91. Liebling, ich vermisse dich. — Em yêu, anh nhớ em.\n92. Ich komme aus der Slowakei und wohne in Deutschland. — Anh đến từ Slovakia và sống ở Đức.\n93. Bin ich schön? — Em có đẹp không?\n94. Liebling, vermisst du mich? — Anh yêu có nhớ em không?\n95. Dieses Gericht ist sehr lecker. — Món này rất ngon.\n96. Ich lerne jeden Tag. — Tôi học mỗi ngày.\n97. Ich lerne gerade Vietnamesisch. — Anh đang học tiếng Việt.\n98. Wann wirst du gehen? — Bạn sẽ đi khi nào? / Em sẽ đi khi nào?\n99. Jeden Tag lerne ich fünf neue Wörter. — Mỗi ngày anh học năm từ mới.\n100. Ich möchte dieses Gericht kaufen. — Tôi muốn mua món này.\n"
+  }
+]

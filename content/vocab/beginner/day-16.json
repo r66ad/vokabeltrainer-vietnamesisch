@@ -1,0 +1,96 @@
+[
+  {
+    "id": "vi-day16-vocab-01",
+    "front": "giờ",
+    "back": "Stunde; Uhrzeit",
+    "kind": "vocabulary",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "pronunciation": "zo",
+    "example": "Bây giờ là mấy giờ? = Wie spät ist es jetzt?",
+    "note": "Aussprache: zo · Bây giờ là mấy giờ? = Wie spät ist es jetzt?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d3b21b66487e4f93dd27c8ac.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-day16-vocab-02",
+    "front": "phút",
+    "back": "Minute",
+    "kind": "vocabulary",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "pronunciation": "fut steigend",
+    "example": "Năm phút. = Fünf Minuten.",
+    "note": "Aussprache: fut steigend · Năm phút. = Fünf Minuten.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/cff8b197798b296f46b38870.mp3",
+      "de": "content/vocab/audio/clips/938fef0560fa5d826c13cfd9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-day16-vocab-03",
+    "front": "hôm qua",
+    "back": "gestern",
+    "kind": "vocabulary",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "pronunciation": "hom kwa",
+    "example": "Hôm qua tôi học. = Gestern habe ich gelernt.",
+    "note": "Aussprache: hom kwa · Hôm qua tôi học. = Gestern habe ich gelernt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3520cd05a92bfdb67f043327.mp3",
+      "de": "content/vocab/audio/clips/06ef414a37046599d09db4c0.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-day16-vocab-04",
+    "front": "tuần",
+    "back": "Woche",
+    "kind": "vocabulary",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "pronunciation": "tuan fallend",
+    "example": "Một tuần. = Eine Woche.",
+    "note": "Aussprache: tuan fallend · Một tuần. = Eine Woche.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7e12d89b9408100e98117879.mp3",
+      "de": "content/vocab/audio/clips/28a5e89e123062d62376f29e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-day16-vocab-05",
+    "front": "tháng",
+    "back": "Monat",
+    "kind": "vocabulary",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "pronunciation": "thang steigend",
+    "example": "Tháng này. = Dieser Monat.",
+    "note": "Aussprache: thang steigend · Tháng này. = Dieser Monat.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9708fcc2c6a1412f39fd1f55.mp3",
+      "de": "content/vocab/audio/clips/2b6c122ec83e1fb8b2a0f4ae.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  }
+]

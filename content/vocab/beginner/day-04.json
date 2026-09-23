@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day04-vocab-01",
+    "front": "tốt",
+    "back": "gut",
+    "kind": "vocabulary",
+    "introduced_day": 4,
+    "introduced_on": "2026-09-04",
+    "pronunciation": "tot steigend",
+    "example": "Tốt lắm. = Sehr gut.",
+    "note": "Aussprache: tot steigend · Tốt lắm. = Sehr gut."
+  },
+  {
+    "id": "vi-day04-vocab-02",
+    "front": "nhiều",
+    "back": "viel; viele",
+    "kind": "vocabulary",
+    "introduced_day": 4,
+    "introduced_on": "2026-09-04",
+    "pronunciation": "nhieu fallend",
+    "example": "Cảm ơn nhiều. = Vielen Dank.",
+    "note": "Aussprache: nhieu fallend · Cảm ơn nhiều. = Vielen Dank."
+  },
+  {
+    "id": "vi-day04-vocab-03",
+    "front": "một",
+    "back": "ein; eins",
+    "kind": "vocabulary",
+    "introduced_day": 4,
+    "introduced_on": "2026-09-04",
+    "pronunciation": "mot schwer",
+    "example": "Một người = eine Person",
+    "note": "Aussprache: mot schwer · Một người = eine Person"
+  },
+  {
+    "id": "vi-day04-vocab-04",
+    "front": "với",
+    "back": "mit",
+    "kind": "vocabulary",
+    "introduced_day": 4,
+    "introduced_on": "2026-09-04",
+    "pronunciation": "voi steigend",
+    "example": "Với bạn = mit dir",
+    "note": "Aussprache: voi steigend · Với bạn = mit dir"
+  },
+  {
+    "id": "vi-day04-vocab-05",
+    "front": "đưa",
+    "back": "geben; reichen; übergeben",
+    "kind": "vocabulary",
+    "introduced_day": 4,
+    "introduced_on": "2026-09-04",
+    "pronunciation": "dua",
+    "example": "Đưa tôi nước. = Gib mir Wasser.",
+    "note": "Aussprache: dua · Đưa tôi nước. = Gib mir Wasser."
+  }
+]

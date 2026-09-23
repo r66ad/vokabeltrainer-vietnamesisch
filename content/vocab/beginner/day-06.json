@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vi-day06-vocab-01",
+    "front": "học",
+    "back": "lernen; studieren",
+    "kind": "vocabulary",
+    "introduced_day": 6,
+    "introduced_on": "2026-09-06",
+    "pronunciation": "hoc schwer",
+    "example": "Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
+    "note": "Aussprache: hoc schwer · Tôi học tiếng Việt. = Ich lerne Vietnamesisch."
+  },
+  {
+    "id": "vi-day06-vocab-02",
+    "front": "hôm nay",
+    "back": "heute",
+    "kind": "vocabulary",
+    "introduced_day": 6,
+    "introduced_on": "2026-09-06",
+    "pronunciation": "hom nai",
+    "example": "Hôm nay tôi học. = Heute lerne ich.",
+    "note": "Aussprache: hom nai · Hôm nay tôi học. = Heute lerne ich."
+  },
+  {
+    "id": "vi-day06-vocab-03",
+    "front": "ngày mai",
+    "back": "morgen",
+    "kind": "vocabulary",
+    "introduced_day": 6,
+    "introduced_on": "2026-09-06",
+    "pronunciation": "ngai mai",
+    "example": "Ngày mai tôi đi. = Morgen gehe ich.",
+    "note": "Aussprache: ngai mai · Ngày mai tôi đi. = Morgen gehe ich."
+  },
+  {
+    "id": "vi-day06-vocab-04",
+    "front": "nhà",
+    "back": "Haus; Zuhause",
+    "kind": "vocabulary",
+    "introduced_day": 6,
+    "introduced_on": "2026-09-06",
+    "pronunciation": "nha fallend",
+    "example": "Tôi ở nhà. = Ich bin zu Hause.",
+    "note": "Aussprache: nha fallend · Tôi ở nhà. = Ich bin zu Hause."
+  },
+  {
+    "id": "vi-day06-vocab-05",
+    "front": "đâu",
+    "back": "wo",
+    "kind": "vocabulary",
+    "introduced_day": 6,
+    "introduced_on": "2026-09-06",
+    "pronunciation": "dau",
+    "example": "Bạn ở đâu? = Wo bist du?",
+    "note": "Aussprache: dau · Bạn ở đâu? = Wo bist du?"
+  }
+]

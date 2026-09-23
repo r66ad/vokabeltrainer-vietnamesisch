@@ -1,0 +1,88 @@
+[
+  {
+    "id": "vi-day19-vocab-01",
+    "front": "ngồi",
+    "back": "sitzen; sich setzen",
+    "kind": "vocabulary",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "pronunciation": "ngoi fallend",
+    "example": "Tôi ngồi ở đây. = Ich sitze hier.",
+    "note": "Aussprache: ngoi fallend · Tôi ngồi ở đây. = Ich sitze hier.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3b3d1ac5d2c24a07518dc405.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-day19-vocab-02",
+    "front": "đứng",
+    "back": "stehen; aufstehen",
+    "kind": "vocabulary",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "pronunciation": "dung steigend",
+    "example": "Bạn đứng ở đó. = Du stehst dort.",
+    "note": "Aussprache: dung steigend · Bạn đứng ở đó. = Du stehst dort.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/27b601b390bfe6ab13c15870.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-day19-vocab-03",
+    "front": "chờ",
+    "back": "warten",
+    "kind": "vocabulary",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "pronunciation": "cho fallend",
+    "example": "Tôi đang chờ bạn. = Ich warte gerade auf dich.",
+    "note": "Aussprache: cho fallend · Tôi đang chờ bạn. = Ich warte gerade auf dich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/05f974b7adfe275b0f539dfa.mp3",
+      "de": "content/vocab/audio/clips/a5c7fe3b6df47698fbbdddeb.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-day19-vocab-04",
+    "front": "gặp",
+    "back": "treffen; begegnen",
+    "kind": "vocabulary",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "pronunciation": "gap schwer",
+    "example": "Tôi gặp bạn hôm nay. = Ich treffe dich heute.",
+    "note": "Aussprache: gap schwer · Tôi gặp bạn hôm nay. = Ich treffe dich heute.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3de8d10018348fe5e75512dd.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-day19-vocab-05",
+    "front": "hẹn",
+    "back": "verabreden; Termin",
+    "kind": "vocabulary",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "pronunciation": "hen schwer",
+    "example": "Hẹn gặp lại. = Bis bald / Auf Wiedersehen.",
+    "note": "Aussprache: hen schwer · Hẹn gặp lại. = Bis bald / Auf Wiedersehen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7945ed51b177024e7781ad9d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  }
+]
