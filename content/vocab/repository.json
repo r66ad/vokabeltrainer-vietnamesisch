@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "languages": {
+    "front": { "code": "vi", "name": "Vietnamesisch", "alphabet": "aăâbcdđeêghiklmnoôơpqrstuưvxyàáảãạằắẳẵặầấẩẫậèéẻẽẹềếểễệìíỉĩịòóỏõọồốổỗộờớởỡợùúủũụừứửữựỳýỷỹỵ" },
+    "back": { "code": "de", "name": "Deutsch", "alphabet": "abcdefghijklmnopqrstuvwxyzäöüß" }
+  }
+}

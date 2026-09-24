@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-13",
     "note": "`đang` markiert eine laufende Handlung.",
     "audio": {
-      "vi": "content/vocab/audio/clips/3db934fcb91b4326d2ba494a.mp3",
-      "de": "content/vocab/audio/clips/682c9b28e7eadef4e842a359.mp3"
-    }
+      "vi": "content/vocab/audio/clips/40ae1a6b7d3c5130b8eb52ba.mp3",
+      "de": "content/vocab/audio/clips/2e2d6c23daf69390409f764f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   },
   {
     "id": "vi-day14-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-13",
     "note": "Zeitangaben stehen oft am Satzanfang.",
     "audio": {
-      "vi": "content/vocab/audio/clips/e92a4086118d36c054682551.mp3",
-      "de": "content/vocab/audio/clips/5399d1edde024b8b94d7a9e2.mp3"
-    }
+      "vi": "content/vocab/audio/clips/71a581e00ff9b98821bc15ef.mp3",
+      "de": "content/vocab/audio/clips/e7de73c3b3cdeeedabfd9008.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day25-sentences-01",
+    "front": "Tôi muốn đi xe buýt.",
+    "back": "Ich möchte mit dem Bus fahren.",
+    "kind": "sentence",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "note": "`muốn` steht vor dem Verb; `đi xe buýt` heißt wörtlich etwa \"Bus gehen/fahren\".",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day25-sentences-02",
+    "front": "Sân bay ở đâu?",
+    "back": "Wo ist der Flughafen?",
+    "kind": "sentence",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "note": "Vietnamesische Nomen werden oft direkt kombiniert: `sân` = Hof/Feld, `bay` = fliegen, zusammen `sân bay` = Flughafen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  }
+]

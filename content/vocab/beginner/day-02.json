@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-02",
     "pronunciation": "ngoei",
     "example": "Người Việt Nam = Vietnamese/Vietnamesin",
-    "note": "Aussprache: ngoei · Người Việt Nam = Vietnamese/Vietnamesin"
+    "note": "Aussprache: ngoei · Người Việt Nam = Vietnamese/Vietnamesin",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1e2c80d9a56efc9580b97f82.mp3",
+      "de": "content/vocab/audio/clips/2015ae7dce55624045880006.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3"
+    ]
   },
   {
     "id": "vi-day02-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-02",
     "pronunciation": "nai fallend",
     "example": "Cái này là gì? = Was ist das?",
-    "note": "Aussprache: nai fallend · Cái này là gì? = Was ist das?"
+    "note": "Aussprache: nai fallend · Cái này là gì? = Was ist das?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/401cf3c5fe415d378e1ae818.mp3",
+      "de": "content/vocab/audio/clips/3e06fa44bd42afe715b23245.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3"
+    ]
   },
   {
     "id": "vi-day02-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-02",
     "pronunciation": "do steigend",
     "example": "Người đó = diese Person",
-    "note": "Aussprache: do steigend · Người đó = diese Person"
+    "note": "Aussprache: do steigend · Người đó = diese Person",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b33c9c1d71942efe0e40db72.mp3",
+      "de": "content/vocab/audio/clips/e7506d89f01efe34c42a0b25.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3"
+    ]
   },
   {
     "id": "vi-day02-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-02",
     "pronunciation": "oe fragend",
     "example": "Tôi ở Đức. = Ich wohne in Deutschland.",
-    "note": "Aussprache: oe fragend · Tôi ở Đức. = Ich wohne in Deutschland."
+    "note": "Aussprache: oe fragend · Tôi ở Đức. = Ich wohne in Deutschland.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/260783a0f3bb6fd8f7c967c9.mp3",
+      "de": "content/vocab/audio/clips/faa2a54e6e654c815eed0ccb.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3"
+    ]
   },
   {
     "id": "vi-day02-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-02",
     "pronunciation": "di",
     "example": "Tôi đi. = Ich gehe.",
-    "note": "Aussprache: di · Tôi đi. = Ich gehe."
+    "note": "Aussprache: di · Tôi đi. = Ich gehe.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/eb27bf38e9efd11c40c40e68.mp3",
+      "de": "content/vocab/audio/clips/72e7fa1b5f26939e416c5987.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3"
+    ]
   }
 ]

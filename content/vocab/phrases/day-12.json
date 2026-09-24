@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-11",
     "note": "`bao nhiêu` = wie viel, `tiền` = Geld/Preis.",
     "audio": {
-      "vi": "content/vocab/audio/clips/4d710b9ced03bf1b9205a8ad.mp3",
-      "de": "content/vocab/audio/clips/a0ce0e43d706be1ff9670f28.mp3"
-    }
+      "vi": "content/vocab/audio/clips/2ac9f5a5405d03ad3cf8cc33.mp3",
+      "de": "content/vocab/audio/clips/3a74e2bd42ea6ba5efdf3484.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   },
   {
     "id": "vi-day12-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-11",
     "note": "`cái này` verweist auf Gegenstände.",
     "audio": {
-      "vi": "content/vocab/audio/clips/5ed9c80234dd2443fea2efa9.mp3",
-      "de": "content/vocab/audio/clips/518047e0382ecb361d9894a0.mp3"
-    }
+      "vi": "content/vocab/audio/clips/d17722731f307dad11dbc3f6.mp3",
+      "de": "content/vocab/audio/clips/e1e19188e4ac3a8755f12f75.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   }
 ]

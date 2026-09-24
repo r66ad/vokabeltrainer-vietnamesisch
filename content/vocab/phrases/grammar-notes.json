@@ -1,0 +1,590 @@
+[
+  {
+    "id": "vi-grammar-pronouns-01",
+    "front": "tôi / bạn / em / anh / chị",
+    "back": "Pronomen hängen im Alltag von Alter, Nähe und Rolle ab.",
+    "kind": "grammar",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "note": "`tôi` und `bạn` sind neutrale Lernformen. `em`, `anh` und `chị` können je nach Sprecherrolle auch ich oder du bedeuten."
+  },
+  {
+    "id": "vi-grammar-tones-01",
+    "front": "a á à ả ã ạ",
+    "back": "Tonzeichen ändern im Vietnamesischen die Bedeutung.",
+    "kind": "grammar",
+    "introduced_day": 1,
+    "introduced_on": "2026-09-02",
+    "note": "Ebener Ton ohne Zeichen, steigend mit á, fallend mit à, fragend mit ả, gebrochen mit ã, schwer/tief mit ạ."
+  },
+  {
+    "id": "vi-grammar-word-order-01",
+    "front": "Tôi học tiếng Việt.",
+    "back": "Grundwortstellung: Subjekt + Verb + Objekt.",
+    "kind": "grammar",
+    "introduced_day": 5,
+    "introduced_on": "2026-09-05",
+    "note": "Vietnamesische Verben werden nicht nach Person konjugiert; Zeit ergibt sich oft aus Zeitwörtern wie `hôm nay`, `hôm qua`, `bây giờ`."
+  },
+  {
+    "id": "vi-grammar-day08-01",
+    "front": "Xin chào, bạn khỏe không?",
+    "back": "không am Satzende macht aus einer Aussage eine Ja/Nein-Frage.",
+    "kind": "grammar",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "note": "Hallo, wie geht es dir? · Beispiel: Xin chào, bạn khỏe không?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/89049c10195cc6b70751f580.mp3",
+      "de": "content/vocab/audio/clips/e3d56d5b0d9be4f45c9c2fa0.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day08-02",
+    "front": "Tôi khỏe, cảm ơn.",
+    "back": "Subjekt + Adjektiv reicht oft ohne Verb sein.",
+    "kind": "grammar",
+    "introduced_day": 8,
+    "introduced_on": "2026-09-07",
+    "note": "Mir geht es gut, danke. · Beispiel: Tôi khỏe, cảm ơn.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9f74c190afde421d216922a2.mp3",
+      "de": "content/vocab/audio/clips/b23f03d70f86496e94d25f8d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day09-01",
+    "front": "Tôi muốn uống cà phê.",
+    "back": "muốn steht vor dem Verb: wollen + trinken.",
+    "kind": "grammar",
+    "introduced_day": 9,
+    "introduced_on": "2026-09-08",
+    "note": "Ich möchte Kaffee trinken. · Beispiel: Tôi muốn uống cà phê.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d7a1a2f48b4a3d351ac9388e.mp3",
+      "de": "content/vocab/audio/clips/fb2fdb3b760afd8f5e4bc264.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day09-02",
+    "front": "Bạn muốn ăn gì?",
+    "back": "Fragewort gì steht dort, wo die Antwort stehen würde.",
+    "kind": "grammar",
+    "introduced_day": 9,
+    "introduced_on": "2026-09-08",
+    "note": "Was möchtest du essen? · Beispiel: Bạn muốn ăn gì?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b8a902eda5ca70c96f4be07a.mp3",
+      "de": "content/vocab/audio/clips/73acca7750fe625314cc66d4.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day10-01",
+    "front": "Tôi không hiểu.",
+    "back": "không steht vor dem Verb/Adjektiv zur Verneinung.",
+    "kind": "grammar",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "note": "Ich verstehe nicht. · Beispiel: Tôi không hiểu.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/66d3242a7b0ea6490596713a.mp3",
+      "de": "content/vocab/audio/clips/b548f0c3eb86a37c74ca7dad.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day10-02",
+    "front": "Bạn nói chậm được không?",
+    "back": "được không bittet höflich um Erlaubnis/Möglichkeit.",
+    "kind": "grammar",
+    "introduced_day": 10,
+    "introduced_on": "2026-09-09",
+    "note": "Kannst du langsam sprechen? · Beispiel: Bạn nói chậm được không?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/38aab3155cfd046f8acbf932.mp3",
+      "de": "content/vocab/audio/clips/95d3318b00fc3b7a4c4d4977.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day11-01",
+    "front": "Tôi đến từ Đức.",
+    "back": "đến từ = kommen aus.",
+    "kind": "grammar",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "note": "Ich komme aus Deutschland. · Beispiel: Tôi đến từ Đức.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c2c3ca5e69f8c8a6e504ab71.mp3",
+      "de": "content/vocab/audio/clips/acfa58e658220552c0b00a89.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day11-02",
+    "front": "Bạn sống ở đâu?",
+    "back": "ở đâu = wo, oft am Satzende.",
+    "kind": "grammar",
+    "introduced_day": 11,
+    "introduced_on": "2026-09-10",
+    "note": "Wo wohnst du? · Beispiel: Bạn sống ở đâu?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/42a7d0b58c2f46e76f3ceedf.mp3",
+      "de": "content/vocab/audio/clips/eb8a0ba59c29128e51c00586.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day12-01",
+    "front": "Cái này bao nhiêu tiền?",
+    "back": "bao nhiêu = wie viel, tiền = Geld/Preis.",
+    "kind": "grammar",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "note": "Wie viel kostet das? · Beispiel: Cái này bao nhiêu tiền?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2ac9f5a5405d03ad3cf8cc33.mp3",
+      "de": "content/vocab/audio/clips/3a74e2bd42ea6ba5efdf3484.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day12-02",
+    "front": "Tôi muốn mua cái này.",
+    "back": "cái này verweist auf Gegenstände.",
+    "kind": "grammar",
+    "introduced_day": 12,
+    "introduced_on": "2026-09-11",
+    "note": "Ich möchte das hier kaufen. · Beispiel: Tôi muốn mua cái này.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d17722731f307dad11dbc3f6.mp3",
+      "de": "content/vocab/audio/clips/e1e19188e4ac3a8755f12f75.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day13-01",
+    "front": "Tôi thích món này.",
+    "back": "thích = mögen, direkt vor dem Objekt.",
+    "kind": "grammar",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "note": "Ich mag dieses Gericht. · Beispiel: Tôi thích món này.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6be2fb437a5c9f5546e42d47.mp3",
+      "de": "content/vocab/audio/clips/160b66c20d5b83accecaf79c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day13-02",
+    "front": "Món này ngon quá.",
+    "back": "quá verstärkt am Satzende: sehr/zu.",
+    "kind": "grammar",
+    "introduced_day": 13,
+    "introduced_on": "2026-09-12",
+    "note": "Dieses Gericht ist sehr lecker. · Beispiel: Món này ngon quá.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/68e72838be16a26ca20955d0.mp3",
+      "de": "content/vocab/audio/clips/81a245f259df7233e8a368d3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day14-01",
+    "front": "Tôi đang học tiếng Việt.",
+    "back": "đang markiert eine laufende Handlung.",
+    "kind": "grammar",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "note": "Ich lerne gerade Vietnamesisch. · Beispiel: Tôi đang học tiếng Việt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/40ae1a6b7d3c5130b8eb52ba.mp3",
+      "de": "content/vocab/audio/clips/2e2d6c23daf69390409f764f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day14-02",
+    "front": "Mỗi ngày tôi học năm từ mới.",
+    "back": "Zeitangaben stehen oft am Satzanfang.",
+    "kind": "grammar",
+    "introduced_day": 14,
+    "introduced_on": "2026-09-13",
+    "note": "Jeden Tag lerne ich fünf neue Wörter. · Beispiel: Mỗi ngày tôi học năm từ mới.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/71a581e00ff9b98821bc15ef.mp3",
+      "de": "content/vocab/audio/clips/e7de73c3b3cdeeedabfd9008.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day15-01",
+    "front": "Bây giờ tôi cần nước.",
+    "back": "Zeitwort wie bây giờ steht oft am Satzanfang; danach kommt Subjekt + Verb + Objekt.",
+    "kind": "grammar",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "note": "Jetzt brauche ich Wasser. · Beispiel: Bây giờ tôi cần nước.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8183ba3bff3e4147d2217010.mp3",
+      "de": "content/vocab/audio/clips/0667a66d41639ca565180cbd.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day15-02",
+    "front": "Bạn giúp tôi được không?",
+    "back": "giúp tôi = mir helfen; được không? macht die Bitte höflich.",
+    "kind": "grammar",
+    "introduced_day": 15,
+    "introduced_on": "2026-09-14",
+    "note": "Kannst du mir helfen? · Beispiel: Bạn giúp tôi được không?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0904663cc748f76747b9da80.mp3",
+      "de": "content/vocab/audio/clips/fba7bcd02e24650356e16db2.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day16-01",
+    "front": "Bây giờ là mấy giờ?",
+    "back": "mấy fragt nach einer kleinen Zahl; bei Uhrzeit heißt mấy giờ \"wie viel Uhr\".",
+    "kind": "grammar",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "note": "Wie spät ist es jetzt? · Beispiel: Bây giờ là mấy giờ?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e8ec30bff2f483e560245ac0.mp3",
+      "de": "content/vocab/audio/clips/b4c2db020fb68c66d5f014ab.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day16-02",
+    "front": "Hôm qua tôi học tiếng Việt.",
+    "back": "Zeitangaben wie hôm qua stehen oft am Satzanfang; Verben werden nicht konjugiert.",
+    "kind": "grammar",
+    "introduced_day": 16,
+    "introduced_on": "2026-09-15",
+    "note": "Gestern habe ich Vietnamesisch gelernt. · Beispiel: Hôm qua tôi học tiếng Việt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e8217b69508057d327507450.mp3",
+      "de": "content/vocab/audio/clips/042145f8e42778873aa2dc29.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
+      "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day17-01",
+    "front": "Chào buổi sáng.",
+    "back": "buổi markiert einen Tagesabschnitt: buổi sáng = der Morgen/Vormittag.",
+    "kind": "grammar",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "note": "Guten Morgen. · Beispiel: Chào buổi sáng.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8cf5df74e40c3a6b9ea61801.mp3",
+      "de": "content/vocab/audio/clips/85a03c28a5cb943d5e2b4674.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day17-02",
+    "front": "Tối nay bạn làm gì?",
+    "back": "nay macht aus Tageszeiten \"heute ...\": tối nay = heute Abend.",
+    "kind": "grammar",
+    "introduced_day": 17,
+    "introduced_on": "2026-09-16",
+    "note": "Was machst du heute Abend? · Beispiel: Tối nay bạn làm gì?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/98a48735eb2cfae650ef1352.mp3",
+      "de": "content/vocab/audio/clips/76d3ebdb57303d10d4839c8c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day18-01",
+    "front": "Tôi về nhà bây giờ.",
+    "back": "về heißt zurückgehen, oft mit Ziel: về nhà = nach Hause gehen.",
+    "kind": "grammar",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "note": "Ich gehe jetzt nach Hause. · Beispiel: Tôi về nhà bây giờ.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b2f690a58a1d02f29101338d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day18-02",
+    "front": "Bạn muốn vào không?",
+    "back": "Richtungsverben wie vào, ra, lên, xuống, về können allein stehen oder nach einem Bewegungsverb die Richtung zeigen.",
+    "kind": "grammar",
+    "introduced_day": 18,
+    "introduced_on": "2026-09-17",
+    "note": "Möchtest du reinkommen? · Beispiel: Bạn muốn vào không?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b541ad087c80e8ec2cad0e51.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day19-01",
+    "front": "Tôi đang chờ bạn.",
+    "back": "đang markiert die laufende Handlung: gerade warten.",
+    "kind": "grammar",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "note": "Ich warte gerade auf dich. · Beispiel: Tôi đang chờ bạn.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day19-02",
+    "front": "Hẹn gặp lại.",
+    "back": "Wörtlich etwa: verabredet, sich wieder zu treffen.",
+    "kind": "grammar",
+    "introduced_day": 19,
+    "introduced_on": "2026-09-18",
+    "note": "Bis bald / Auf Wiedersehen. · Beispiel: Hẹn gặp lại.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6b1c12574fe91bb9c730c1a0.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day20-01",
+    "front": "Hôm nay trời nóng.",
+    "back": "Für Wetter nutzt man oft trời als Subjekt: trời nóng = es ist heiß.",
+    "kind": "grammar",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "note": "Heute ist es heiß. · Beispiel: Hôm nay trời nóng.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day20-02",
+    "front": "Tôi hơi mệt.",
+    "back": "hơi steht vor einem Adjektiv und schwächt es ab: etwas/ein bisschen.",
+    "kind": "grammar",
+    "introduced_day": 20,
+    "introduced_on": "2026-09-19",
+    "note": "Ich bin ein bisschen müde. · Beispiel: Tôi hơi mệt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day21-01",
+    "front": "Gia đình tôi ở Đức.",
+    "back": "Besitz steht oft direkt dahinter: gia đình tôi = meine Familie, wörtlich Familie ich.",
+    "kind": "grammar",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "note": "Meine Familie ist in Deutschland. · Beispiel: Gia đình tôi ở Đức.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/cfce17daaddee2be6e5ed7f0.mp3",
+      "de": "content/vocab/audio/clips/ec404ca038584d2e94ce98e8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day21-02",
+    "front": "Anh tôi học tiếng Việt.",
+    "back": "anh und chị können Verwandtschaftswörter sein; vor Namen/Personen funktionieren sie auch als höfliche Anrede.",
+    "kind": "grammar",
+    "introduced_day": 21,
+    "introduced_on": "2026-09-20",
+    "note": "Mein älterer Bruder lernt Vietnamesisch. · Beispiel: Anh tôi học tiếng Việt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/71fae8296a7e0eccaf677fb6.mp3",
+      "de": "content/vocab/audio/clips/0b68ce07bec35f704525eb8f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day22-01",
+    "front": "Đây là em tôi.",
+    "back": "Đây là ... heißt \"Das ist ...\"; Besitz steht direkt dahinter: em tôi = mein jüngeres Geschwister.",
+    "kind": "grammar",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "note": "Das ist mein jüngeres Geschwister. · Beispiel: Đây là em tôi.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9a31b1a5de60b91df24409bb.mp3",
+      "de": "content/vocab/audio/clips/fc0d69919ecdceee545fbf12.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day22-02",
+    "front": "Tôi sống với gia đình tôi.",
+    "back": "với heißt \"mit\"; im Alltag auch natürlich: Tôi sống với gia đình.",
+    "kind": "grammar",
+    "introduced_day": 22,
+    "introduced_on": "2026-09-21",
+    "note": "Ich lebe mit meiner Familie. · Beispiel: Tôi sống với gia đình tôi.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/ac140f060cbd8834bce37b94.mp3",
+      "de": "content/vocab/audio/clips/38d26f9f638df64879909966.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day23-01",
+    "front": "Tôi mua cà phê cho bạn.",
+    "back": "cho steht vor der Person, für die etwas ist: cho bạn = für dich.",
+    "kind": "grammar",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "note": "Ich kaufe Kaffee für dich. · Beispiel: Tôi mua cà phê cho bạn.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3",
+      "de": "content/vocab/audio/clips/addcb31f8b6ec3c74011521f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day23-02",
+    "front": "Bạn lấy cái này được không?",
+    "back": "được không? macht daraus eine höfliche Bitte.",
+    "kind": "grammar",
+    "introduced_day": 23,
+    "introduced_on": "2026-09-22",
+    "note": "Kannst du das hier nehmen/holen? · Beispiel: Bạn lấy cái này được không?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/771d3f01b2d6d125c661fd54.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day24-01",
+    "front": "Trạm xe buýt ở đâu?",
+    "back": "Vietnamesische Nomen werden oft direkt kombiniert: trạm xe buýt = Bus-Haltestelle.",
+    "kind": "grammar",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "note": "Wo ist die Bushaltestelle? · Beispiel: Trạm xe buýt ở đâu?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/40c9a73d4db2284922cfaa28.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day24-02",
+    "front": "Tôi muốn mua vé.",
+    "back": "muốn steht vor dem Verb; danach folgt das Objekt: möchten + kaufen + Ticket.",
+    "kind": "grammar",
+    "introduced_day": 24,
+    "introduced_on": "2026-09-23",
+    "note": "Ich möchte ein Ticket kaufen. · Beispiel: Tôi muốn mua vé.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d258d8ab6ac2bc482e33c9b3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day25-01",
+    "front": "Tôi muốn đi xe buýt.",
+    "back": "muốn steht vor dem Verb; đi xe buýt heißt wörtlich etwa \"Bus gehen/fahren\".",
+    "kind": "grammar",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "note": "Ich möchte mit dem Bus fahren. · Beispiel: Tôi muốn đi xe buýt.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-grammar-day25-02",
+    "front": "Sân bay ở đâu?",
+    "back": "Vietnamesische Nomen werden oft direkt kombiniert: sân = Hof/Feld, bay = fliegen, zusammen sân bay = Flughafen.",
+    "kind": "grammar",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "note": "Wo ist der Flughafen? · Beispiel: Sân bay ở đâu?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  }
+]

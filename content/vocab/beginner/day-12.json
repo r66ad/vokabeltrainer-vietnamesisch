@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-11",
     "pronunciation": "kai steigend",
     "example": "Cái này là gì? = Was ist das hier?",
-    "note": "Aussprache: kai steigend · Cái này là gì? = Was ist das hier?"
+    "note": "Aussprache: kai steigend · Cái này là gì? = Was ist das hier?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/65ca9a5853f29e773ceee059.mp3",
+      "de": "content/vocab/audio/clips/6abbee98e18fa21c044b19b9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   },
   {
     "id": "vi-day12-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-11",
     "pronunciation": "bao njieu",
     "example": "Bao nhiêu tiền? = Wie viel Geld?",
-    "note": "Aussprache: bao njieu · Bao nhiêu tiền? = Wie viel Geld?"
+    "note": "Aussprache: bao njieu · Bao nhiêu tiền? = Wie viel Geld?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9f67ded6269f58b813e86798.mp3",
+      "de": "content/vocab/audio/clips/0734b2df987ec6053a30b384.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   },
   {
     "id": "vi-day12-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-11",
     "pronunciation": "tien fallend",
     "example": "Cái này bao nhiêu tiền? = Wie viel kostet das?",
-    "note": "Aussprache: tien fallend · Cái này bao nhiêu tiền? = Wie viel kostet das?"
+    "note": "Aussprache: tien fallend · Cái này bao nhiêu tiền? = Wie viel kostet das?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/cc754c7faa307eb66e0ea927.mp3",
+      "de": "content/vocab/audio/clips/67f18f8c954fae3c9811f82c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   },
   {
     "id": "vi-day12-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-11",
     "pronunciation": "mua",
     "example": "Tôi muốn mua cái này. = Ich möchte das hier kaufen.",
-    "note": "Aussprache: mua · Tôi muốn mua cái này. = Ich möchte das hier kaufen."
+    "note": "Aussprache: mua · Tôi muốn mua cái này. = Ich möchte das hier kaufen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/eac0a9dc2b2918eadb406c67.mp3",
+      "de": "content/vocab/audio/clips/e83241be6f2f931578cb4fb9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   },
   {
     "id": "vi-day12-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-11",
     "pronunciation": "ban steigend",
     "example": "Bạn bán gì? = Was verkaufst du?",
-    "note": "Aussprache: ban steigend · Bạn bán gì? = Was verkaufst du?"
+    "note": "Aussprache: ban steigend · Bạn bán gì? = Was verkaufst du?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/02527423a8b6c9e98ebddaf2.mp3",
+      "de": "content/vocab/audio/clips/ab4f5603fd46638abbe492a3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3"
+    ]
   }
 ]

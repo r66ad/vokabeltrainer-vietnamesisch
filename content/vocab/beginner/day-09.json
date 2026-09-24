@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-08",
     "pronunciation": "ka fallend, fe",
     "example": "Tôi uống cà phê. = Ich trinke Kaffee.",
-    "note": "Aussprache: ka fallend, fe · Tôi uống cà phê. = Ich trinke Kaffee."
+    "note": "Aussprache: ka fallend, fe · Tôi uống cà phê. = Ich trinke Kaffee.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2caa4db4145a678432e3574f.mp3",
+      "de": "content/vocab/audio/clips/112f9dd2181f7d0a47ac9ef3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   },
   {
     "id": "vi-day09-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-08",
     "pronunciation": "nuoc steigend",
     "example": "Tôi uống nước. = Ich trinke Wasser.",
-    "note": "Aussprache: nuoc steigend · Tôi uống nước. = Ich trinke Wasser."
+    "note": "Aussprache: nuoc steigend · Tôi uống nước. = Ich trinke Wasser.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b181dc352046fb88cc6dda06.mp3",
+      "de": "content/vocab/audio/clips/a28a10ee6da3ff6bc470190c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   },
   {
     "id": "vi-day09-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-08",
     "pronunciation": "koem",
     "example": "Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit.",
-    "note": "Aussprache: koem · Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit."
+    "note": "Aussprache: koem · Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2f18c86bbb58aa09ab8b046c.mp3",
+      "de": "content/vocab/audio/clips/e25fdbe786741b10bb582113.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   },
   {
     "id": "vi-day09-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-08",
     "pronunciation": "foe fragend",
     "example": "Tôi ăn phở. = Ich esse Pho.",
-    "note": "Aussprache: foe fragend · Tôi ăn phở. = Ich esse Pho."
+    "note": "Aussprache: foe fragend · Tôi ăn phở. = Ich esse Pho.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3aa28ee65f74de1b0fd4918b.mp3",
+      "de": "content/vocab/audio/clips/4480b687d9fc81ee65e76d77.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   },
   {
     "id": "vi-day09-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-08",
     "pronunciation": "banh steigend, mi fallend",
     "example": "Tôi ăn bánh mì. = Ich esse Bánh mì.",
-    "note": "Aussprache: banh steigend, mi fallend · Tôi ăn bánh mì. = Ich esse Bánh mì."
+    "note": "Aussprache: banh steigend, mi fallend · Tôi ăn bánh mì. = Ich esse Bánh mì.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/04a9b89fd725d1538996dbc0.mp3",
+      "de": "content/vocab/audio/clips/612f92cb2542188a23b3013d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   }
 ]

@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-03",
     "pronunciation": "lam fallend",
     "example": "Bạn làm gì? = Was machst du?",
-    "note": "Aussprache: lam fallend · Bạn làm gì? = Was machst du?"
+    "note": "Aussprache: lam fallend · Bạn làm gì? = Was machst du?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f1f725e5da4808ea731aaff2.mp3",
+      "de": "content/vocab/audio/clips/8ef6e3e8d0f8cf6cb33cb87b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3"
+    ]
   },
   {
     "id": "vi-day03-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-03",
     "pronunciation": "ji fallend",
     "example": "Đây là gì? = Was ist das?",
-    "note": "Aussprache: ji fallend · Đây là gì? = Was ist das?"
+    "note": "Aussprache: ji fallend · Đây là gì? = Was ist das?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/072fedc91f84a4ccb0df7c44.mp3",
+      "de": "content/vocab/audio/clips/d5d50dc758f02853e56918be.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3"
+    ]
   },
   {
     "id": "vi-day03-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-03",
     "pronunciation": "an",
     "example": "Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit.",
-    "note": "Aussprache: an · Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit."
+    "note": "Aussprache: an · Tôi ăn cơm. = Ich esse Reis/eine Mahlzeit.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/ea28852eb7865cfc865ad2a5.mp3",
+      "de": "content/vocab/audio/clips/b869dc5a42fe954af459097d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3"
+    ]
   },
   {
     "id": "vi-day03-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-03",
     "pronunciation": "uong steigend",
     "example": "Bạn uống gì? = Was trinkst du?",
-    "note": "Aussprache: uong steigend · Bạn uống gì? = Was trinkst du?"
+    "note": "Aussprache: uong steigend · Bạn uống gì? = Was trinkst du?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7ef4de891a9fb12218ed1fed.mp3",
+      "de": "content/vocab/audio/clips/41cfc78e9c0fcb4255ce9765.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3"
+    ]
   },
   {
     "id": "vi-day03-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-03",
     "pronunciation": "zat mit schwerem Ton",
     "example": "Rất tốt. = Sehr gut.",
-    "note": "Aussprache: zat mit schwerem Ton · Rất tốt. = Sehr gut."
+    "note": "Aussprache: zat mit schwerem Ton · Rất tốt. = Sehr gut.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/de29fb528273218e8b56e7ea.mp3",
+      "de": "content/vocab/audio/clips/2163f0541994d033b9b90bbc.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3"
+    ]
   }
 ]

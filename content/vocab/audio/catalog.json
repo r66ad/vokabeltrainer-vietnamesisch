@@ -1,159 +1,1863 @@
 [
   {
-    "file": "content/vocab/audio/lessons/2026-09-22-tag-23.mp3",
-    "sha256": "c4d43576ed4dcd32f8e9d71c9d3c967e1118247f678a984372e0998adc5bb52b",
-    "day": 23,
-    "transcript": "Tag 23 - Audio-Wiederholung\n\nDeutsch: Tag dreiundzwanzig. Neue Wörter.\nVietnamesisch: Ngày hai mươi ba. Từ mới.\n\nDeutsch: für; geben an\nVietnamesisch: cho\nDeutsch: Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\n\nDeutsch: nehmen; holen\nVietnamesisch: lấy\nDeutsch: Ich nehme das hier.\nVietnamesisch: Tôi lấy cái này.\n\nDeutsch: bringen; tragen\nVietnamesisch: mang\nDeutsch: Kannst du Wasser mitbringen?\nVietnamesisch: Bạn mang nước được không?\n\nDeutsch: um zu; damit; lassen oder legen\nVietnamesisch: để\nDeutsch: Ich lerne, um Vietnamesisch zu sprechen.\nVietnamesisch: Tôi học để nói tiếng Việt.\n\nDeutsch: erhalten; bekommen\nVietnamesisch: nhận\nDeutsch: Ich bekomme eine Nachricht.\nVietnamesisch: Tôi nhận được tin nhắn.\n\nDeutsch: Alltagssatz eins. Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\nDeutsch: Grammatik: cho steht vor der Person, für die etwas ist.\nVietnamesisch: cho bạn\n\nDeutsch: Alltagssatz zwei. Kannst du das hier nehmen oder holen?\nVietnamesisch: Bạn lấy cái này được không?\nDeutsch: Grammatik: được không macht daraus eine höfliche Bitte.\nVietnamesisch: được không?\n",
+    "file": "content/vocab/audio/lessons/tag-1-audio-2026-09-02.mp3",
+    "sha256": "2a7e5154f16d79d73cb5ce95055480b5de6c2d737b88545b7425b7ea56c3cbe3",
+    "day": 1,
+    "transcript": "Deutsch: Tag 1. Neue Wörter.\nVietnamesisch: Ngày 1. Từ mới.\nDeutsch: ich\nVietnamesisch: tôi\nDeutsch: Ich lerne. Alternative: Em học. / Anh học.\nVietnamesisch: Tôi học.\nDeutsch: du; Freund/in\nVietnamesisch: bạn\nDeutsch: Geht es dir gut? Alternative: Em khỏe không? / Anh khỏe không?\nVietnamesisch: Bạn khỏe không?\nDeutsch: sein; ist\nVietnamesisch: là\nDeutsch: Ich bin Richi.\nVietnamesisch: Tôi là Richi.\nDeutsch: nicht; nein; Fragepartikel\nVietnamesisch: không\nDeutsch: Verstehst du?\nVietnamesisch: Bạn hiểu không?\nDeutsch: haben; ja; es gibt\nVietnamesisch: có\nDeutsch: Ich habe Zeit.\nVietnamesisch: Tôi có thời gian.\n",
     "segments": [
       {
         "lang": "de",
-        "text": "Tag dreiundzwanzig. Neue Wörter.",
-        "file": "content/vocab/audio/clips/83f1a20579b3d6b3ca2f3b68.mp3"
+        "text": "Tag 1. Neue Wörter.",
+        "file": "content/vocab/audio/clips/6075e033596115bbe9ceda05.mp3"
       },
       {
         "lang": "vi",
-        "text": "Ngày hai mươi ba. Từ mới.",
-        "file": "content/vocab/audio/clips/5a3056851930c4f76380467c.mp3"
+        "text": "Ngày 1. Từ mới.",
+        "file": "content/vocab/audio/clips/e3d2ca21a3fa9e92b7fc4019.mp3"
       },
       {
         "lang": "de",
-        "text": "für; geben an",
-        "file": "content/vocab/audio/clips/7f0f763e2abf8fa88fe32464.mp3"
+        "text": "ich",
+        "file": "content/vocab/audio/clips/30f4b7cc284ce6168d434e0d.mp3"
       },
       {
         "lang": "vi",
-        "text": "cho",
-        "file": "content/vocab/audio/clips/8f0e20277e455c29a6ca248a.mp3"
+        "text": "tôi",
+        "file": "content/vocab/audio/clips/901ac4aa1b9de4486536e13c.mp3"
       },
       {
         "lang": "de",
-        "text": "Ich kaufe Kaffee für dich.",
-        "file": "content/vocab/audio/clips/addcb31f8b6ec3c74011521f.mp3"
+        "text": "Ich lerne. Alternative: Em học. / Anh học.",
+        "file": "content/vocab/audio/clips/bcf7b7a4c4bc70bca22a9ead.mp3"
       },
       {
         "lang": "vi",
-        "text": "Tôi mua cà phê cho bạn.",
-        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+        "text": "Tôi học.",
+        "file": "content/vocab/audio/clips/48f0f0aa710d7c0e1e39218b.mp3"
       },
       {
         "lang": "de",
-        "text": "nehmen; holen",
-        "file": "content/vocab/audio/clips/cb1140e1bf2386c3c322ef6b.mp3"
+        "text": "du; Freund/in",
+        "file": "content/vocab/audio/clips/230798ff6ab519df630c04a5.mp3"
       },
       {
         "lang": "vi",
-        "text": "lấy",
-        "file": "content/vocab/audio/clips/4ab34c9049c1cc0d628496c6.mp3"
+        "text": "bạn",
+        "file": "content/vocab/audio/clips/1c9271577407e10c03e3cd34.mp3"
       },
       {
         "lang": "de",
-        "text": "Ich nehme das hier.",
-        "file": "content/vocab/audio/clips/b98ad1abe78d6c83b5f9fdb6.mp3"
+        "text": "Geht es dir gut? Alternative: Em khỏe không? / Anh khỏe không?",
+        "file": "content/vocab/audio/clips/2034a3be245af87c326ca226.mp3"
       },
       {
         "lang": "vi",
-        "text": "Tôi lấy cái này.",
-        "file": "content/vocab/audio/clips/2d2c78a65ac46f9d865fa64e.mp3"
+        "text": "Bạn khỏe không?",
+        "file": "content/vocab/audio/clips/b628b985be13658b2be5d265.mp3"
       },
       {
         "lang": "de",
-        "text": "bringen; tragen",
-        "file": "content/vocab/audio/clips/28d70b74fe211cf3b2435ad6.mp3"
+        "text": "sein; ist",
+        "file": "content/vocab/audio/clips/1edf6805d7b65f917efbd85e.mp3"
       },
       {
         "lang": "vi",
-        "text": "mang",
-        "file": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3"
+        "text": "là",
+        "file": "content/vocab/audio/clips/0e29e06169f8d2db44f04c9f.mp3"
       },
       {
         "lang": "de",
-        "text": "Kannst du Wasser mitbringen?",
-        "file": "content/vocab/audio/clips/dd22ce7c91b91b707022e5c4.mp3"
+        "text": "Ich bin Richi.",
+        "file": "content/vocab/audio/clips/b6d318a70105e65471947bf3.mp3"
       },
       {
         "lang": "vi",
-        "text": "Bạn mang nước được không?",
-        "file": "content/vocab/audio/clips/4b43df90750f872b911bc1b8.mp3"
+        "text": "Tôi là Richi.",
+        "file": "content/vocab/audio/clips/f9c7ec0213d3feb5ffc61370.mp3"
       },
       {
         "lang": "de",
-        "text": "um zu; damit; lassen oder legen",
-        "file": "content/vocab/audio/clips/ed9b2666c0b650ecf7272549.mp3"
+        "text": "nicht; nein; Fragepartikel",
+        "file": "content/vocab/audio/clips/b2a206e8bf2582d0d069d8c9.mp3"
       },
       {
         "lang": "vi",
-        "text": "để",
-        "file": "content/vocab/audio/clips/b40dd8a41ec8edfba569c1fc.mp3"
+        "text": "không",
+        "file": "content/vocab/audio/clips/73e5c92265199f1f9c124e89.mp3"
       },
       {
         "lang": "de",
-        "text": "Ich lerne, um Vietnamesisch zu sprechen.",
-        "file": "content/vocab/audio/clips/4165a0c5b64e1703a3413b83.mp3"
+        "text": "Verstehst du?",
+        "file": "content/vocab/audio/clips/b3bdbe022d08baf983825d57.mp3"
       },
       {
         "lang": "vi",
-        "text": "Tôi học để nói tiếng Việt.",
-        "file": "content/vocab/audio/clips/86d2d3c664cd8d24789ae394.mp3"
+        "text": "Bạn hiểu không?",
+        "file": "content/vocab/audio/clips/ab2121ab8bb8666db5e11871.mp3"
       },
       {
         "lang": "de",
-        "text": "erhalten; bekommen",
-        "file": "content/vocab/audio/clips/c4b2ea9050dbcd1dd26bbd57.mp3"
+        "text": "haben; ja; es gibt",
+        "file": "content/vocab/audio/clips/2243b58ea744b83d10b1c3ef.mp3"
       },
       {
         "lang": "vi",
-        "text": "nhận",
-        "file": "content/vocab/audio/clips/61f62ff6f16fb862a890c35f.mp3"
+        "text": "có",
+        "file": "content/vocab/audio/clips/72e0fe25eff17dd5b6dc6f28.mp3"
       },
       {
         "lang": "de",
-        "text": "Ich bekomme eine Nachricht.",
-        "file": "content/vocab/audio/clips/b5e4001c400df685ad6d0b3c.mp3"
+        "text": "Ich habe Zeit.",
+        "file": "content/vocab/audio/clips/75bf3314c077944ac55a4754.mp3"
       },
       {
         "lang": "vi",
-        "text": "Tôi nhận được tin nhắn.",
-        "file": "content/vocab/audio/clips/e5e7d797f0629aed92152e88.mp3"
+        "text": "Tôi có thời gian.",
+        "file": "content/vocab/audio/clips/3dbfcae2c2f026e05a5611c1.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-2-audio-2026-09-02.mp3",
+    "sha256": "76ee582c28882ef70443e1d32b35b71762ef28fd6572eac34f7c58e6303f03cd",
+    "day": 2,
+    "transcript": "Deutsch: Tag 2. Neue Wörter.\nVietnamesisch: Ngày 2. Từ mới.\nDeutsch: Mensch; Person\nVietnamesisch: người\nDeutsch: Vietnamese/Vietnamesin\nVietnamesisch: Người Việt Nam\nDeutsch: dies; dieser\nVietnamesisch: này\nDeutsch: Was ist das?\nVietnamesisch: Cái này là gì?\nDeutsch: das; dort\nVietnamesisch: đó\nDeutsch: diese Person\nVietnamesisch: Người đó\nDeutsch: in; bei; wohnen\nVietnamesisch: ở\nDeutsch: Ich wohne in Deutschland.\nVietnamesisch: Tôi ở Đức.\nDeutsch: gehen\nVietnamesisch: đi\nDeutsch: Ich gehe.\nVietnamesisch: Tôi đi.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 2. Neue Wörter.",
+        "file": "content/vocab/audio/clips/f695f7d8d64f74ab80c9149d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 2. Từ mới.",
+        "file": "content/vocab/audio/clips/7d6e6c5902420202600eaa59.mp3"
       },
       {
         "lang": "de",
-        "text": "Alltagssatz eins. Ich kaufe Kaffee für dich.",
-        "file": "content/vocab/audio/clips/23ac530777878abb029f4549.mp3"
+        "text": "Mensch; Person",
+        "file": "content/vocab/audio/clips/2015ae7dce55624045880006.mp3"
       },
       {
         "lang": "vi",
-        "text": "Tôi mua cà phê cho bạn.",
-        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+        "text": "người",
+        "file": "content/vocab/audio/clips/1e2c80d9a56efc9580b97f82.mp3"
       },
       {
         "lang": "de",
-        "text": "Grammatik: cho steht vor der Person, für die etwas ist.",
-        "file": "content/vocab/audio/clips/30b94496a4d4fcd672aea839.mp3"
+        "text": "Vietnamese/Vietnamesin",
+        "file": "content/vocab/audio/clips/b60a48d1051e6aab5256e89d.mp3"
       },
       {
         "lang": "vi",
-        "text": "cho bạn",
-        "file": "content/vocab/audio/clips/bdd74174c49c687e37523a40.mp3"
+        "text": "Người Việt Nam",
+        "file": "content/vocab/audio/clips/e2c784ccdff46f5e4cd5541a.mp3"
       },
       {
         "lang": "de",
-        "text": "Alltagssatz zwei. Kannst du das hier nehmen oder holen?",
-        "file": "content/vocab/audio/clips/bc0a5d2b1e72ef7b21d64f09.mp3"
+        "text": "dies; dieser",
+        "file": "content/vocab/audio/clips/3e06fa44bd42afe715b23245.mp3"
       },
       {
         "lang": "vi",
-        "text": "Bạn lấy cái này được không?",
-        "file": "content/vocab/audio/clips/771d3f01b2d6d125c661fd54.mp3"
+        "text": "này",
+        "file": "content/vocab/audio/clips/401cf3c5fe415d378e1ae818.mp3"
       },
       {
         "lang": "de",
-        "text": "Grammatik: được không macht daraus eine höfliche Bitte.",
-        "file": "content/vocab/audio/clips/ce591788f1c5ddbaea14f578.mp3"
+        "text": "Was ist das?",
+        "file": "content/vocab/audio/clips/2aced9abe192928d38accbb3.mp3"
       },
       {
         "lang": "vi",
-        "text": "được không?",
-        "file": "content/vocab/audio/clips/8d7fd7fecebfa135c52ced9b.mp3"
+        "text": "Cái này là gì?",
+        "file": "content/vocab/audio/clips/f8abebc0967b2f9907dc9dfb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "das; dort",
+        "file": "content/vocab/audio/clips/e7506d89f01efe34c42a0b25.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đó",
+        "file": "content/vocab/audio/clips/b33c9c1d71942efe0e40db72.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "diese Person",
+        "file": "content/vocab/audio/clips/da715e7f844c7efa9f2b1d1e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Người đó",
+        "file": "content/vocab/audio/clips/a01815301f037116244cf3d9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "in; bei; wohnen",
+        "file": "content/vocab/audio/clips/faa2a54e6e654c815eed0ccb.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ở",
+        "file": "content/vocab/audio/clips/260783a0f3bb6fd8f7c967c9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich wohne in Deutschland.",
+        "file": "content/vocab/audio/clips/e82babce70f76a1e1c036cd6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ở Đức.",
+        "file": "content/vocab/audio/clips/ad6cca11933429cdd21de80e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gehen",
+        "file": "content/vocab/audio/clips/72e7fa1b5f26939e416c5987.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đi",
+        "file": "content/vocab/audio/clips/eb27bf38e9efd11c40c40e68.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich gehe.",
+        "file": "content/vocab/audio/clips/85a7ca69b0bc92993a209b7d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đi.",
+        "file": "content/vocab/audio/clips/16af5476730254debcc2024f.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-3-audio-2026-09-03.mp3",
+    "sha256": "d2ba6112e0180d5b7094e150bad777a21de4f40f1490bebcb5dc8a6c2f3110b5",
+    "day": 3,
+    "transcript": "Deutsch: Tag 3. Neue Wörter.\nVietnamesisch: Ngày 3. Từ mới.\nDeutsch: machen; arbeiten\nVietnamesisch: làm\nDeutsch: Was machst du?\nVietnamesisch: Bạn làm gì?\nDeutsch: was\nVietnamesisch: gì\nDeutsch: Was ist das?\nVietnamesisch: Đây là gì?\nDeutsch: essen\nVietnamesisch: ăn\nDeutsch: Ich esse Reis/eine Mahlzeit.\nVietnamesisch: Tôi ăn cơm.\nDeutsch: trinken\nVietnamesisch: uống\nDeutsch: Was trinkst du?\nVietnamesisch: Bạn uống gì?\nDeutsch: sehr\nVietnamesisch: rất\nDeutsch: Sehr gut.\nVietnamesisch: Rất tốt.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 3. Neue Wörter.",
+        "file": "content/vocab/audio/clips/b37c2d23ea1d43869b79c706.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 3. Từ mới.",
+        "file": "content/vocab/audio/clips/dc9af4d39e39237f3f3a67f4.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "machen; arbeiten",
+        "file": "content/vocab/audio/clips/8ef6e3e8d0f8cf6cb33cb87b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "làm",
+        "file": "content/vocab/audio/clips/f1f725e5da4808ea731aaff2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was machst du?",
+        "file": "content/vocab/audio/clips/ccac1dda85f29b86ebb85972.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn làm gì?",
+        "file": "content/vocab/audio/clips/4a856e65296f2bcc365b85e1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "was",
+        "file": "content/vocab/audio/clips/d5d50dc758f02853e56918be.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "gì",
+        "file": "content/vocab/audio/clips/072fedc91f84a4ccb0df7c44.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was ist das?",
+        "file": "content/vocab/audio/clips/2aced9abe192928d38accbb3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đây là gì?",
+        "file": "content/vocab/audio/clips/06e2ac785ec58e6346421122.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "essen",
+        "file": "content/vocab/audio/clips/b869dc5a42fe954af459097d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ăn",
+        "file": "content/vocab/audio/clips/ea28852eb7865cfc865ad2a5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Reis/eine Mahlzeit.",
+        "file": "content/vocab/audio/clips/9cb219a619fbe24b288c6d62.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn cơm.",
+        "file": "content/vocab/audio/clips/e36b3a99ac142822423fb0b7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "trinken",
+        "file": "content/vocab/audio/clips/41cfc78e9c0fcb4255ce9765.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "uống",
+        "file": "content/vocab/audio/clips/7ef4de891a9fb12218ed1fed.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was trinkst du?",
+        "file": "content/vocab/audio/clips/b125f854cf923e8fc5dadc5b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn uống gì?",
+        "file": "content/vocab/audio/clips/9802a062f60dbe4545a23b30.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "sehr",
+        "file": "content/vocab/audio/clips/2163f0541994d033b9b90bbc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "rất",
+        "file": "content/vocab/audio/clips/de29fb528273218e8b56e7ea.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr gut.",
+        "file": "content/vocab/audio/clips/798c7066dc26cee31ff5486e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Rất tốt.",
+        "file": "content/vocab/audio/clips/4fc34fe222a7f5b0bc4e2920.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3",
+    "sha256": "9da51babc28e861763ac08a1d42c50c836f8a6857ca9b84d3e233300912cc477",
+    "day": 4,
+    "transcript": "Deutsch: Tag 4. Neue Wörter.\nVietnamesisch: Ngày 4. Từ mới.\nDeutsch: gut\nVietnamesisch: tốt\nDeutsch: Sehr gut.\nVietnamesisch: Tốt lắm.\nDeutsch: viel; viele\nVietnamesisch: nhiều\nDeutsch: Vielen Dank.\nVietnamesisch: Cảm ơn nhiều.\nDeutsch: ein; eins\nVietnamesisch: một\nDeutsch: eine Person\nVietnamesisch: Một người\nDeutsch: mit\nVietnamesisch: với\nDeutsch: mit dir\nVietnamesisch: Với bạn\nDeutsch: geben; reichen; übergeben\nVietnamesisch: đưa\nDeutsch: Gib mir Wasser.\nVietnamesisch: Đưa tôi nước.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 4. Neue Wörter.",
+        "file": "content/vocab/audio/clips/7e26beefd8876d34163999f7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 4. Từ mới.",
+        "file": "content/vocab/audio/clips/489aaca32cd19b7ba73623ef.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gut",
+        "file": "content/vocab/audio/clips/6836dabfc9dc2f52eead2e8d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tốt",
+        "file": "content/vocab/audio/clips/164e5c2024d344848417f099.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr gut.",
+        "file": "content/vocab/audio/clips/798c7066dc26cee31ff5486e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tốt lắm.",
+        "file": "content/vocab/audio/clips/12e968b263e91a325f3a91af.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "viel; viele",
+        "file": "content/vocab/audio/clips/7aa8f9dbbb1a641660881467.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhiều",
+        "file": "content/vocab/audio/clips/5f014a9722826bd7a18d5b97.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vielen Dank.",
+        "file": "content/vocab/audio/clips/cb44b71587ab23ec153a8d12.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cảm ơn nhiều.",
+        "file": "content/vocab/audio/clips/775d88755a83abca3c744462.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "ein; eins",
+        "file": "content/vocab/audio/clips/e88ff51e2f5e9e5515599c28.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "một",
+        "file": "content/vocab/audio/clips/855b8f16d4aa22ddc165f9f1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "eine Person",
+        "file": "content/vocab/audio/clips/1118c880e98a642febeb4fcb.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Một người",
+        "file": "content/vocab/audio/clips/f33e87c1de2056e6fd0b142d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "mit",
+        "file": "content/vocab/audio/clips/4e1103913024c10d24602e42.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "với",
+        "file": "content/vocab/audio/clips/5ac94a7fb8406dde89588e50.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "mit dir",
+        "file": "content/vocab/audio/clips/acc6c8d776d072a809b6f231.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Với bạn",
+        "file": "content/vocab/audio/clips/304bdd483841561be91d5bf1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "geben; reichen; übergeben",
+        "file": "content/vocab/audio/clips/c52b2dd41bf092e84656b976.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đưa",
+        "file": "content/vocab/audio/clips/deecfb93d4058bc96ec259dc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Gib mir Wasser.",
+        "file": "content/vocab/audio/clips/dd2ccc2d36b261b5ec060684.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đưa tôi nước.",
+        "file": "content/vocab/audio/clips/fc49aaff9a4d8b6abde369ba.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3",
+    "sha256": "3d81b815ed398c2f553fa7a923def3eec236b914ad84e0d531eb37b0c63be11b",
+    "day": 5,
+    "transcript": "Deutsch: Tag 5. Neue Wörter.\nVietnamesisch: Ngày 5. Từ mới.\nDeutsch: wissen; kennen\nVietnamesisch: biết\nDeutsch: Ich weiß.\nVietnamesisch: Tôi biết.\nDeutsch: wollen; möchten\nVietnamesisch: muốn\nDeutsch: Ich möchte lernen.\nVietnamesisch: Tôi muốn học.\nDeutsch: sprechen; sagen\nVietnamesisch: nói\nDeutsch: Ich spreche Deutsch.\nVietnamesisch: Tôi nói tiếng Đức.\nDeutsch: Sprache; Klang\nVietnamesisch: tiếng\nDeutsch: Vietnamesisch\nVietnamesisch: Tiếng Việt\nDeutsch: Vietnam; vietnamesisch\nVietnamesisch: Việt Nam\nDeutsch: Ich lerne Vietnamesisch.\nVietnamesisch: Tôi học tiếng Việt.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 5. Neue Wörter.",
+        "file": "content/vocab/audio/clips/bfa53ed5b6a5fc1a1ffbbf1b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 5. Từ mới.",
+        "file": "content/vocab/audio/clips/7f68b8378dd08651b2826c2d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wissen; kennen",
+        "file": "content/vocab/audio/clips/a6eecfdc423df721506f7fda.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "biết",
+        "file": "content/vocab/audio/clips/ce0a605ce345b67e6a0367a5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich weiß.",
+        "file": "content/vocab/audio/clips/de6c9adf85aeec41291c701b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi biết.",
+        "file": "content/vocab/audio/clips/b60358ab9e9163a6c0a3a78c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wollen; möchten",
+        "file": "content/vocab/audio/clips/b9457be0b35ea97fd2b2b1bf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "muốn",
+        "file": "content/vocab/audio/clips/e54a00a3793729934b887baa.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte lernen.",
+        "file": "content/vocab/audio/clips/eac1976cdc8277f2626af3d5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn học.",
+        "file": "content/vocab/audio/clips/bd6fb8e65cf8b7fc31064dcf.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "sprechen; sagen",
+        "file": "content/vocab/audio/clips/07a2da84d0517940ca4e880b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nói",
+        "file": "content/vocab/audio/clips/c6ece2418a67114d6a7c6d4f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich spreche Deutsch.",
+        "file": "content/vocab/audio/clips/57bb732faf925cf000f40e09.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi nói tiếng Đức.",
+        "file": "content/vocab/audio/clips/ffcb7239ea1f7c2e82ac5d38.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sprache; Klang",
+        "file": "content/vocab/audio/clips/43a64a894d890894cbadc6b1.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tiếng",
+        "file": "content/vocab/audio/clips/b297445acb7748f2ad7bb9ca.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vietnamesisch",
+        "file": "content/vocab/audio/clips/10bd0616b11c59c4f335cc34.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tiếng Việt",
+        "file": "content/vocab/audio/clips/ecb53f326a8de2349ecf65b1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Vietnam; vietnamesisch",
+        "file": "content/vocab/audio/clips/fe6b0fa8082b5ca7806dd806.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Việt Nam",
+        "file": "content/vocab/audio/clips/50e7bb95a3a268c1775d506e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne Vietnamesisch.",
+        "file": "content/vocab/audio/clips/421364748ba984d38b93942f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/f23f7c5684c08f6d1d97d7e5.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3",
+    "sha256": "7974e9ef000cc59eeb2f5106f242ed32e1ada86153efaa3ad4db62ac499a0bb1",
+    "day": 6,
+    "transcript": "Deutsch: Tag 6. Neue Wörter.\nVietnamesisch: Ngày 6. Từ mới.\nDeutsch: lernen; studieren\nVietnamesisch: học\nDeutsch: Ich lerne Vietnamesisch.\nVietnamesisch: Tôi học tiếng Việt.\nDeutsch: heute\nVietnamesisch: hôm nay\nDeutsch: Heute lerne ich.\nVietnamesisch: Hôm nay tôi học.\nDeutsch: morgen\nVietnamesisch: ngày mai\nDeutsch: Morgen gehe ich.\nVietnamesisch: Ngày mai tôi đi.\nDeutsch: Haus; Zuhause\nVietnamesisch: nhà\nDeutsch: Ich bin zu Hause.\nVietnamesisch: Tôi ở nhà.\nDeutsch: wo\nVietnamesisch: đâu\nDeutsch: Wo bist du?\nVietnamesisch: Bạn ở đâu?\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 6. Neue Wörter.",
+        "file": "content/vocab/audio/clips/bb0ce840c951e1ee6dbce187.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 6. Từ mới.",
+        "file": "content/vocab/audio/clips/8dbaa651977b338bbd2ef46a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "lernen; studieren",
+        "file": "content/vocab/audio/clips/3a850402ed747dc402cd78bd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "học",
+        "file": "content/vocab/audio/clips/485029ce4e98480bc03e7d72.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne Vietnamesisch.",
+        "file": "content/vocab/audio/clips/421364748ba984d38b93942f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học tiếng Việt.",
+        "file": "content/vocab/audio/clips/f23f7c5684c08f6d1d97d7e5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "heute",
+        "file": "content/vocab/audio/clips/50f3301f281d7219d3800670.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "hôm nay",
+        "file": "content/vocab/audio/clips/da1a69ab45c6eedd4d5f9ce8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Heute lerne ich.",
+        "file": "content/vocab/audio/clips/889ae2110718b7b9f851b344.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Hôm nay tôi học.",
+        "file": "content/vocab/audio/clips/dc7421976fe6fce5b4b3cd87.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "morgen",
+        "file": "content/vocab/audio/clips/9bc08c88dfa6b1bddd42c986.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ngày mai",
+        "file": "content/vocab/audio/clips/6f62c86561707d7163175a88.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Morgen gehe ich.",
+        "file": "content/vocab/audio/clips/bc18c72f38a8301cac47817a.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày mai tôi đi.",
+        "file": "content/vocab/audio/clips/3a6bb266d91f046e4fab0308.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Haus; Zuhause",
+        "file": "content/vocab/audio/clips/2d2ca91308e92440de13fe3f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhà",
+        "file": "content/vocab/audio/clips/d07130633fcd459f86829ba1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich bin zu Hause.",
+        "file": "content/vocab/audio/clips/5b623131090cfbdc5e2b2972.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ở nhà.",
+        "file": "content/vocab/audio/clips/be14b7ac211456b62365d88d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wo",
+        "file": "content/vocab/audio/clips/6ee81d084979da96076a0f83.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đâu",
+        "file": "content/vocab/audio/clips/c1e8a634a9f6d55394cb82cb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wo bist du?",
+        "file": "content/vocab/audio/clips/8e82e6f542048d69bdd45a66.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn ở đâu?",
+        "file": "content/vocab/audio/clips/e2cd3fdffd16e22f2370d408.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-7-audio-2026-09-07.mp3",
+    "sha256": "25fa2b50406bcfc3dbbc306038989ae821fd8a9ede7fc8c1da23c99e62a74709",
+    "day": 7,
+    "transcript": "Deutsch: Tag 7. Neue Wörter.\nVietnamesisch: Ngày 7. Từ mới.\nDeutsch: wer\nVietnamesisch: ai\nDeutsch: Wer ist das?\nVietnamesisch: Ai đó?\nDeutsch: wann\nVietnamesisch: khi nào\nDeutsch: Wann gehst du?\nVietnamesisch: Khi nào bạn đi?\nDeutsch: warum\nVietnamesisch: vì sao\nDeutsch: Warum?\nVietnamesisch: Vì sao?\nDeutsch: können; dürfen; bekommen\nVietnamesisch: được\nDeutsch: Okay / geht.\nVietnamesisch: Được.\nDeutsch: müssen; richtig\nVietnamesisch: phải\nDeutsch: Ich muss lernen.\nVietnamesisch: Tôi phải học.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 7. Neue Wörter.",
+        "file": "content/vocab/audio/clips/3db0fe69dec1995f3c79668d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 7. Từ mới.",
+        "file": "content/vocab/audio/clips/5e00667056c265df0c1d3fc7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wer",
+        "file": "content/vocab/audio/clips/09afe84a6be82723d7679078.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ai",
+        "file": "content/vocab/audio/clips/3c9a165170375b80456b6209.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wer ist das?",
+        "file": "content/vocab/audio/clips/884fd417b186231c2af5a23f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ai đó?",
+        "file": "content/vocab/audio/clips/88b82d993755d4da4350099a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wann",
+        "file": "content/vocab/audio/clips/45b321662ae089d3d719e0d3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "khi nào",
+        "file": "content/vocab/audio/clips/957cbd4c5eb91242875757fa.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wann gehst du?",
+        "file": "content/vocab/audio/clips/a3e2159206d6a5649211aae5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Khi nào bạn đi?",
+        "file": "content/vocab/audio/clips/e2066fbc78c702d9d359069a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "warum",
+        "file": "content/vocab/audio/clips/7f37113fcfbc99f2a855d257.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "vì sao",
+        "file": "content/vocab/audio/clips/d64bd7fabab1cd0ab38db44d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Warum?",
+        "file": "content/vocab/audio/clips/08393449e3e7faf1d0f5d956.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Vì sao?",
+        "file": "content/vocab/audio/clips/2b6c7969603f781b46d83409.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "können; dürfen; bekommen",
+        "file": "content/vocab/audio/clips/5b6db7d2f26a6fb06ad34cbc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "được",
+        "file": "content/vocab/audio/clips/f8ed33f0670f5143e9cde87b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Okay / geht.",
+        "file": "content/vocab/audio/clips/3f5bb7b86455df3051d29bb3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Được.",
+        "file": "content/vocab/audio/clips/dc9858f3c84b011854c0701f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "müssen; richtig",
+        "file": "content/vocab/audio/clips/9a5e7b1b155aa2bdff5e8b6e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "phải",
+        "file": "content/vocab/audio/clips/d3b62e70d7018b3a3a6620fe.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich muss lernen.",
+        "file": "content/vocab/audio/clips/f1ed4b6d6e55360d3bea4673.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi phải học.",
+        "file": "content/vocab/audio/clips/d0dd9f9851307fa3039d1488.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3",
+    "sha256": "7a3bbbc867b440ee2cafd51242a4f0e1ed0458bba150468feceda8c3aa0bb05a",
+    "day": 8,
+    "transcript": "Deutsch: Tag 8. Neue Wörter.\nVietnamesisch: Ngày 8. Từ mới.\nDeutsch: hallo; guten Tag\nVietnamesisch: xin chào\nDeutsch: Hallo!\nVietnamesisch: Xin chào!\nDeutsch: gesund; gut gehen\nVietnamesisch: khỏe\nDeutsch: Geht es dir gut?\nVietnamesisch: Bạn khỏe không?\nDeutsch: danken; danke\nVietnamesisch: cảm ơn\nDeutsch: Danke.\nVietnamesisch: Cảm ơn.\nDeutsch: sehr; wirklich\nVietnamesisch: lắm\nDeutsch: Sehr gut.\nVietnamesisch: Tốt lắm.\nDeutsch: auch\nVietnamesisch: cũng\nDeutsch: Ich lerne auch.\nVietnamesisch: Tôi cũng học.\nDeutsch: Alltagssatz 1. Hallo, wie geht es dir?\nVietnamesisch: Xin chào, bạn khỏe không?\nDeutsch: Grammatik: `không` am Satzende macht aus einer Aussage eine Ja/Nein-Frage.\nDeutsch: Alltagssatz 2. Mir geht es gut, danke.\nVietnamesisch: Tôi khỏe, cảm ơn.\nDeutsch: Grammatik: Subjekt + Adjektiv reicht oft ohne Verb `sein`.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 8. Neue Wörter.",
+        "file": "content/vocab/audio/clips/c1c2c19daca6f4d592bbc63b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 8. Từ mới.",
+        "file": "content/vocab/audio/clips/8103a86d74f25d9c430e8d48.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "hallo; guten Tag",
+        "file": "content/vocab/audio/clips/d8c9f61823631f96b5bce8dc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "xin chào",
+        "file": "content/vocab/audio/clips/de9a47dd3b368b9cef167dbd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Hallo!",
+        "file": "content/vocab/audio/clips/05710146a383ed79dcf4a053.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin chào!",
+        "file": "content/vocab/audio/clips/4783e4bba71bcdd2f8a56a10.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gesund; gut gehen",
+        "file": "content/vocab/audio/clips/e6e3f3af671f28e4990d9f9f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "khỏe",
+        "file": "content/vocab/audio/clips/760dcea31da5bc25b847f432.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Geht es dir gut?",
+        "file": "content/vocab/audio/clips/18b3e604eb2dc327a1f57b21.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn khỏe không?",
+        "file": "content/vocab/audio/clips/b628b985be13658b2be5d265.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "danken; danke",
+        "file": "content/vocab/audio/clips/2d7c8f4ff5bfdc4061d3d6d9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cảm ơn",
+        "file": "content/vocab/audio/clips/c696fbf64bcc027222849de0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Danke.",
+        "file": "content/vocab/audio/clips/a4af0d74a23242d75525e256.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cảm ơn.",
+        "file": "content/vocab/audio/clips/8c8d036c2831aee3573e84b3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "sehr; wirklich",
+        "file": "content/vocab/audio/clips/c6ba5ec8dd8c5df3494f8471.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lắm",
+        "file": "content/vocab/audio/clips/961ad7692676ae11025af8da.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr gut.",
+        "file": "content/vocab/audio/clips/798c7066dc26cee31ff5486e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tốt lắm.",
+        "file": "content/vocab/audio/clips/12e968b263e91a325f3a91af.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "auch",
+        "file": "content/vocab/audio/clips/c09f0a2f6732c76c9e3b002f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cũng",
+        "file": "content/vocab/audio/clips/2d92358bcb59fbc98a7036d6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne auch.",
+        "file": "content/vocab/audio/clips/1b41baa454074add7339f554.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi cũng học.",
+        "file": "content/vocab/audio/clips/e34a9df865499567cb2fac93.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Hallo, wie geht es dir?",
+        "file": "content/vocab/audio/clips/014f8717aec913242e2b053e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin chào, bạn khỏe không?",
+        "file": "content/vocab/audio/clips/89049c10195cc6b70751f580.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `không` am Satzende macht aus einer Aussage eine Ja/Nein-Frage.",
+        "file": "content/vocab/audio/clips/b2f54c2c83178da5d55c9982.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Mir geht es gut, danke.",
+        "file": "content/vocab/audio/clips/5435b484ffe2889af5f4498e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi khỏe, cảm ơn.",
+        "file": "content/vocab/audio/clips/9f74c190afde421d216922a2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: Subjekt + Adjektiv reicht oft ohne Verb `sein`.",
+        "file": "content/vocab/audio/clips/a5f1d376fb1e5a85f275bf25.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3",
+    "sha256": "933cdd2d1bb014c8655a1f835e3a2e63b19773170c5bb05db92bdf456e6ab185",
+    "day": 9,
+    "transcript": "Deutsch: Tag 9. Neue Wörter.\nVietnamesisch: Ngày 9. Từ mới.\nDeutsch: Kaffee\nVietnamesisch: cà phê\nDeutsch: Ich trinke Kaffee.\nVietnamesisch: Tôi uống cà phê.\nDeutsch: Wasser; Land\nVietnamesisch: nước\nDeutsch: Ich trinke Wasser.\nVietnamesisch: Tôi uống nước.\nDeutsch: gekochter Reis; Mahlzeit\nVietnamesisch: cơm\nDeutsch: Ich esse Reis/eine Mahlzeit.\nVietnamesisch: Tôi ăn cơm.\nDeutsch: Pho; Nudelsuppe\nVietnamesisch: phở\nDeutsch: Ich esse Pho.\nVietnamesisch: Tôi ăn phở.\nDeutsch: Brot; Baguette-Sandwich\nVietnamesisch: bánh mì\nDeutsch: Ich esse Bánh mì.\nVietnamesisch: Tôi ăn bánh mì.\nDeutsch: Alltagssatz 1. Ich möchte Kaffee trinken.\nVietnamesisch: Tôi muốn uống cà phê.\nDeutsch: Grammatik: `muốn` steht vor dem Verb: wollen + trinken.\nDeutsch: Alltagssatz 2. Was möchtest du essen?\nVietnamesisch: Bạn muốn ăn gì?\nDeutsch: Grammatik: Fragewort `gì` steht dort, wo die Antwort stehen würde.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 9. Neue Wörter.",
+        "file": "content/vocab/audio/clips/b07dc2a2fb4c73a41d63e918.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 9. Từ mới.",
+        "file": "content/vocab/audio/clips/31ebead9fbf38c82166e0883.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kaffee",
+        "file": "content/vocab/audio/clips/112f9dd2181f7d0a47ac9ef3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cà phê",
+        "file": "content/vocab/audio/clips/2caa4db4145a678432e3574f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich trinke Kaffee.",
+        "file": "content/vocab/audio/clips/076a5dc2ef2993e1282c7b6c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi uống cà phê.",
+        "file": "content/vocab/audio/clips/f3e1c98a8c8d867dd7200941.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wasser; Land",
+        "file": "content/vocab/audio/clips/a28a10ee6da3ff6bc470190c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nước",
+        "file": "content/vocab/audio/clips/b181dc352046fb88cc6dda06.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich trinke Wasser.",
+        "file": "content/vocab/audio/clips/56f331938ee97c651519517b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi uống nước.",
+        "file": "content/vocab/audio/clips/8ea37daa2b3d7d14d0c225c6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gekochter Reis; Mahlzeit",
+        "file": "content/vocab/audio/clips/e25fdbe786741b10bb582113.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cơm",
+        "file": "content/vocab/audio/clips/2f18c86bbb58aa09ab8b046c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Reis/eine Mahlzeit.",
+        "file": "content/vocab/audio/clips/9cb219a619fbe24b288c6d62.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn cơm.",
+        "file": "content/vocab/audio/clips/e36b3a99ac142822423fb0b7.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Pho; Nudelsuppe",
+        "file": "content/vocab/audio/clips/4480b687d9fc81ee65e76d77.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "phở",
+        "file": "content/vocab/audio/clips/3aa28ee65f74de1b0fd4918b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Pho.",
+        "file": "content/vocab/audio/clips/6c1978b0741d3d76f246d80e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn phở.",
+        "file": "content/vocab/audio/clips/79ee10e062e9e1c859a72648.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Brot; Baguette-Sandwich",
+        "file": "content/vocab/audio/clips/612f92cb2542188a23b3013d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bánh mì",
+        "file": "content/vocab/audio/clips/04a9b89fd725d1538996dbc0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich esse Bánh mì.",
+        "file": "content/vocab/audio/clips/c1543b96041343385ee271db.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ăn bánh mì.",
+        "file": "content/vocab/audio/clips/f2ad1fba6452e06b5ec2f9a5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Ich möchte Kaffee trinken.",
+        "file": "content/vocab/audio/clips/fa974e58f453da5727aaceac.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn uống cà phê.",
+        "file": "content/vocab/audio/clips/d7a1a2f48b4a3d351ac9388e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `muốn` steht vor dem Verb: wollen + trinken.",
+        "file": "content/vocab/audio/clips/d7ad338eb9cbf09efcf6ccd5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Was möchtest du essen?",
+        "file": "content/vocab/audio/clips/15932a1c6ed1cdd23543859c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn muốn ăn gì?",
+        "file": "content/vocab/audio/clips/b8a902eda5ca70c96f4be07a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: Fragewort `gì` steht dort, wo die Antwort stehen würde.",
+        "file": "content/vocab/audio/clips/10e03bdfb9ff6d204b8f7f9e.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3",
+    "sha256": "c6b93bc8d63d9354392fe6f1833d2b66e7af01ac6b10882581a2d7207c3c74df",
+    "day": 10,
+    "transcript": "Deutsch: Tag 10. Neue Wörter.\nVietnamesisch: Ngày 10. Từ mới.\nDeutsch: verstehen\nVietnamesisch: hiểu\nDeutsch: Ich verstehe.\nVietnamesisch: Tôi hiểu.\nDeutsch: langsam\nVietnamesisch: chậm\nDeutsch: Sprich langsam.\nVietnamesisch: Nói chậm.\nDeutsch: schnell\nVietnamesisch: nhanh\nDeutsch: Du sprichst schnell.\nVietnamesisch: Bạn nói nhanh.\nDeutsch: wieder; noch einmal\nVietnamesisch: lại\nDeutsch: Sag es noch einmal.\nVietnamesisch: Nói lại.\nDeutsch: Entschuldigung; sich entschuldigen\nVietnamesisch: xin lỗi\nDeutsch: Entschuldigung.\nVietnamesisch: Xin lỗi.\nDeutsch: Alltagssatz 1. Ich verstehe nicht.\nVietnamesisch: Tôi không hiểu.\nDeutsch: Grammatik: `không` steht vor dem Verb/Adjektiv zur Verneinung.\nDeutsch: Alltagssatz 2. Kannst du langsam sprechen?\nVietnamesisch: Bạn nói chậm được không?\nDeutsch: Grammatik: `được không` bittet höflich um Erlaubnis/Möglichkeit.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 10. Neue Wörter.",
+        "file": "content/vocab/audio/clips/18e990c0bb027ad6098bcf69.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 10. Từ mới.",
+        "file": "content/vocab/audio/clips/ac5dce6b1b96c307042b51dd.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "verstehen",
+        "file": "content/vocab/audio/clips/384d1b8846ae4fe135f79114.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "hiểu",
+        "file": "content/vocab/audio/clips/d34998a246b62133ad6789b8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich verstehe.",
+        "file": "content/vocab/audio/clips/2152813b3cbe0c23fd6d13cc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi hiểu.",
+        "file": "content/vocab/audio/clips/f4bf0055dd27c3864e23b8cf.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "langsam",
+        "file": "content/vocab/audio/clips/af9415480507a363a32c77a8.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "chậm",
+        "file": "content/vocab/audio/clips/8d0fddc0bca587543fd0917b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sprich langsam.",
+        "file": "content/vocab/audio/clips/89c26f8a18abe2551c68b372.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nói chậm.",
+        "file": "content/vocab/audio/clips/c79eb6a10f718099b76bdf24.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "schnell",
+        "file": "content/vocab/audio/clips/67162abce5889f997a207173.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhanh",
+        "file": "content/vocab/audio/clips/9451c9b04b170e7c76d8854b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Du sprichst schnell.",
+        "file": "content/vocab/audio/clips/0b51907d52a6692866812854.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn nói nhanh.",
+        "file": "content/vocab/audio/clips/262172fd238677dd6ef6df9b.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wieder; noch einmal",
+        "file": "content/vocab/audio/clips/09d308df8ddf3929567e71d5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lại",
+        "file": "content/vocab/audio/clips/5831bac6544233725dd09921.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sag es noch einmal.",
+        "file": "content/vocab/audio/clips/db97495ce1bfff9821ae41d4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Nói lại.",
+        "file": "content/vocab/audio/clips/4dbca24fefd2310ead04426d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Entschuldigung; sich entschuldigen",
+        "file": "content/vocab/audio/clips/d7bfaeebe36de0fa48c4f07f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "xin lỗi",
+        "file": "content/vocab/audio/clips/8bdcaf0238b8106d3e0902c9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Entschuldigung.",
+        "file": "content/vocab/audio/clips/26fb747eab6dcf4cb9ba3452.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Xin lỗi.",
+        "file": "content/vocab/audio/clips/0481e851b39b8281c961a56d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Ich verstehe nicht.",
+        "file": "content/vocab/audio/clips/2779df60b393b1d9344d4427.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi không hiểu.",
+        "file": "content/vocab/audio/clips/66d3242a7b0ea6490596713a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `không` steht vor dem Verb/Adjektiv zur Verneinung.",
+        "file": "content/vocab/audio/clips/241deb8e4d11b0ff52c2cb81.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Kannst du langsam sprechen?",
+        "file": "content/vocab/audio/clips/3246a4b1c7ddefafdd441ec1.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn nói chậm được không?",
+        "file": "content/vocab/audio/clips/38aab3155cfd046f8acbf932.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `được không` bittet höflich um Erlaubnis/Möglichkeit.",
+        "file": "content/vocab/audio/clips/3570656769596614c27ef786.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3",
+    "sha256": "954e7f8ad77bec1e7c96b4a749a17ad3975915e7a9461e6bb5b6a8b94f855f07",
+    "day": 11,
+    "transcript": "Deutsch: Tag 11. Neue Wörter.\nVietnamesisch: Ngày 11. Từ mới.\nDeutsch: kommen; ankommen\nVietnamesisch: đến\nDeutsch: Ich komme.\nVietnamesisch: Tôi đến.\nDeutsch: von; aus\nVietnamesisch: từ\nDeutsch: Ich komme aus Deutschland.\nVietnamesisch: Tôi đến từ Đức.\nDeutsch: Deutschland\nVietnamesisch: Đức\nDeutsch: Ich wohne in Deutschland.\nVietnamesisch: Tôi ở Đức.\nDeutsch: leben; wohnen\nVietnamesisch: sống\nDeutsch: Wo wohnst du?\nVietnamesisch: Bạn sống ở đâu?\nDeutsch: Stadt\nVietnamesisch: thành phố\nDeutsch: Eine große Stadt.\nVietnamesisch: Thành phố lớn.\nDeutsch: Alltagssatz 1. Ich komme aus Deutschland.\nVietnamesisch: Tôi đến từ Đức.\nDeutsch: Grammatik: `đến từ` = kommen aus.\nDeutsch: Alltagssatz 2. Wo wohnst du?\nVietnamesisch: Bạn sống ở đâu?\nDeutsch: Grammatik: `ở đâu` = wo, oft am Satzende.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 11. Neue Wörter.",
+        "file": "content/vocab/audio/clips/751382d85acecc1e819ff7ce.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 11. Từ mới.",
+        "file": "content/vocab/audio/clips/ff5a285ccf2700e5999688de.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "kommen; ankommen",
+        "file": "content/vocab/audio/clips/2795ae321c877d8a4822703c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đến",
+        "file": "content/vocab/audio/clips/8d9bf4fac8fd45af4f2c10f0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich komme.",
+        "file": "content/vocab/audio/clips/a4ae64de00710963e073c50f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đến.",
+        "file": "content/vocab/audio/clips/32648ebab4af4781165946a1.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "von; aus",
+        "file": "content/vocab/audio/clips/1c239e9ce9932f41b9121daa.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "từ",
+        "file": "content/vocab/audio/clips/05c4fe7b86e723ca343c96b6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich komme aus Deutschland.",
+        "file": "content/vocab/audio/clips/acfa58e658220552c0b00a89.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đến từ Đức.",
+        "file": "content/vocab/audio/clips/c2c3ca5e69f8c8a6e504ab71.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Deutschland",
+        "file": "content/vocab/audio/clips/e6dfcddc72526fddb3ca2c2f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Đức",
+        "file": "content/vocab/audio/clips/bb38c2f1b1cd0e7ed8b80e8d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich wohne in Deutschland.",
+        "file": "content/vocab/audio/clips/e82babce70f76a1e1c036cd6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi ở Đức.",
+        "file": "content/vocab/audio/clips/ad6cca11933429cdd21de80e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "leben; wohnen",
+        "file": "content/vocab/audio/clips/ec3abd379a3cba9ba17cdfe7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "sống",
+        "file": "content/vocab/audio/clips/397de687862ca051d180dc77.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wo wohnst du?",
+        "file": "content/vocab/audio/clips/eb8a0ba59c29128e51c00586.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn sống ở đâu?",
+        "file": "content/vocab/audio/clips/42a7d0b58c2f46e76f3ceedf.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Stadt",
+        "file": "content/vocab/audio/clips/dba6212dceb1b527841a58ef.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "thành phố",
+        "file": "content/vocab/audio/clips/9aa153ffdf27669ebd8d9b72.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Eine große Stadt.",
+        "file": "content/vocab/audio/clips/3839d65c5da8953e0d823021.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Thành phố lớn.",
+        "file": "content/vocab/audio/clips/54545293bcba9c75283045d5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Ich komme aus Deutschland.",
+        "file": "content/vocab/audio/clips/75b16812e8349812cc61d8c2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đến từ Đức.",
+        "file": "content/vocab/audio/clips/c2c3ca5e69f8c8a6e504ab71.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `đến từ` = kommen aus.",
+        "file": "content/vocab/audio/clips/3dd186c0bc5670dfff220662.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Wo wohnst du?",
+        "file": "content/vocab/audio/clips/3e38ef17026da81c43104060.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn sống ở đâu?",
+        "file": "content/vocab/audio/clips/42a7d0b58c2f46e76f3ceedf.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `ở đâu` = wo, oft am Satzende.",
+        "file": "content/vocab/audio/clips/089a8457b7800330f2ccfbe0.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-12-audio-2026-09-11.mp3",
+    "sha256": "7d3e6649b54384c2787977d87c41fa7e4518b442bd317893c673345d7c5c5278",
+    "day": 12,
+    "transcript": "Deutsch: Tag 12. Neue Wörter.\nVietnamesisch: Ngày 12. Từ mới.\nDeutsch: Ding; Stück; Zähleinheit für Gegenstände\nVietnamesisch: cái\nDeutsch: Was ist das hier?\nVietnamesisch: Cái này là gì?\nDeutsch: wie viel; wie viele\nVietnamesisch: bao nhiêu\nDeutsch: Wie viel Geld?\nVietnamesisch: Bao nhiêu tiền?\nDeutsch: Geld; Preis\nVietnamesisch: tiền\nDeutsch: Wie viel kostet das?\nVietnamesisch: Cái này bao nhiêu tiền?\nDeutsch: kaufen\nVietnamesisch: mua\nDeutsch: Ich möchte das hier kaufen.\nVietnamesisch: Tôi muốn mua cái này.\nDeutsch: verkaufen\nVietnamesisch: bán\nDeutsch: Was verkaufst du?\nVietnamesisch: Bạn bán gì?\nDeutsch: Alltagssatz 1. Wie viel kostet das?\nVietnamesisch: Cái này bao nhiêu tiền?\nDeutsch: Grammatik: `bao nhiêu` = wie viel, `tiền` = Geld/Preis.\nDeutsch: Alltagssatz 2. Ich möchte das hier kaufen.\nVietnamesisch: Tôi muốn mua cái này.\nDeutsch: Grammatik: `cái này` verweist auf Gegenstände.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 12. Neue Wörter.",
+        "file": "content/vocab/audio/clips/a7b64adf5119be8299f56bc3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 12. Từ mới.",
+        "file": "content/vocab/audio/clips/17bda5fa1ebeb80767c51a5d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ding; Stück; Zähleinheit für Gegenstände",
+        "file": "content/vocab/audio/clips/6abbee98e18fa21c044b19b9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cái",
+        "file": "content/vocab/audio/clips/65ca9a5853f29e773ceee059.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was ist das hier?",
+        "file": "content/vocab/audio/clips/f7c8037716dca914f10fd1e9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này là gì?",
+        "file": "content/vocab/audio/clips/f8abebc0967b2f9907dc9dfb.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "wie viel; wie viele",
+        "file": "content/vocab/audio/clips/0734b2df987ec6053a30b384.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bao nhiêu",
+        "file": "content/vocab/audio/clips/9f67ded6269f58b813e86798.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wie viel Geld?",
+        "file": "content/vocab/audio/clips/26114df2f2c25762d630a5d2.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bao nhiêu tiền?",
+        "file": "content/vocab/audio/clips/b841dc6fc56bd81a279bd39c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Geld; Preis",
+        "file": "content/vocab/audio/clips/67f18f8c954fae3c9811f82c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "tiền",
+        "file": "content/vocab/audio/clips/cc754c7faa307eb66e0ea927.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wie viel kostet das?",
+        "file": "content/vocab/audio/clips/3a74e2bd42ea6ba5efdf3484.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này bao nhiêu tiền?",
+        "file": "content/vocab/audio/clips/2ac9f5a5405d03ad3cf8cc33.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "kaufen",
+        "file": "content/vocab/audio/clips/e83241be6f2f931578cb4fb9.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mua",
+        "file": "content/vocab/audio/clips/eac0a9dc2b2918eadb406c67.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich möchte das hier kaufen.",
+        "file": "content/vocab/audio/clips/e1e19188e4ac3a8755f12f75.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn mua cái này.",
+        "file": "content/vocab/audio/clips/d17722731f307dad11dbc3f6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "verkaufen",
+        "file": "content/vocab/audio/clips/ab4f5603fd46638abbe492a3.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "bán",
+        "file": "content/vocab/audio/clips/02527423a8b6c9e98ebddaf2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Was verkaufst du?",
+        "file": "content/vocab/audio/clips/e78b63ef8b16bb1f969c9ecf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn bán gì?",
+        "file": "content/vocab/audio/clips/49718d9e7b5f5f7e897fb38d.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Wie viel kostet das?",
+        "file": "content/vocab/audio/clips/a151603a99cda588d9dc1d6d.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Cái này bao nhiêu tiền?",
+        "file": "content/vocab/audio/clips/2ac9f5a5405d03ad3cf8cc33.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `bao nhiêu` = wie viel, `tiền` = Geld/Preis.",
+        "file": "content/vocab/audio/clips/a18e408b95819cfee6c3ebe3.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Ich möchte das hier kaufen.",
+        "file": "content/vocab/audio/clips/0db0083488238e694e8146fb.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi muốn mua cái này.",
+        "file": "content/vocab/audio/clips/d17722731f307dad11dbc3f6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `cái này` verweist auf Gegenstände.",
+        "file": "content/vocab/audio/clips/21c3bc8d0ffc5a5413f57a8c.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3",
+    "sha256": "c00f01bd971f4fece312a31ad4f3e702f7194ffb7ed2670f967e609572d2f51b",
+    "day": 13,
+    "transcript": "Deutsch: Tag 13. Neue Wörter.\nVietnamesisch: Ngày 13. Từ mới.\nDeutsch: mögen; gernhaben\nVietnamesisch: thích\nDeutsch: Ich mag dieses Gericht.\nVietnamesisch: Tôi thích món này.\nDeutsch: Gericht; Speise\nVietnamesisch: món\nDeutsch: Dieses Gericht ist lecker.\nVietnamesisch: Món này ngon.\nDeutsch: lecker; gut schmeckend\nVietnamesisch: ngon\nDeutsch: Pho ist lecker.\nVietnamesisch: Phở ngon.\nDeutsch: sehr; zu\nVietnamesisch: quá\nDeutsch: Sehr lecker.\nVietnamesisch: Ngon quá.\nDeutsch: aber\nVietnamesisch: nhưng\nDeutsch: Ich mag Pho, aber esse heute keine.\nVietnamesisch: Tôi thích phở, nhưng không ăn hôm nay.\nDeutsch: Alltagssatz 1. Ich mag dieses Gericht.\nVietnamesisch: Tôi thích món này.\nDeutsch: Grammatik: `thích` = mögen, direkt vor dem Objekt.\nDeutsch: Alltagssatz 2. Dieses Gericht ist sehr lecker.\nVietnamesisch: Món này ngon quá.\nDeutsch: Grammatik: `quá` verstärkt am Satzende: sehr/zu.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 13. Neue Wörter.",
+        "file": "content/vocab/audio/clips/2c4034857158d194bfd9d63e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 13. Từ mới.",
+        "file": "content/vocab/audio/clips/3a5368c33d9fe146f21eec94.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "mögen; gernhaben",
+        "file": "content/vocab/audio/clips/42af0c5ac9240773ed98616b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "thích",
+        "file": "content/vocab/audio/clips/61a3d28c85d87277d2b779ea.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich mag dieses Gericht.",
+        "file": "content/vocab/audio/clips/160b66c20d5b83accecaf79c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi thích món này.",
+        "file": "content/vocab/audio/clips/6be2fb437a5c9f5546e42d47.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Gericht; Speise",
+        "file": "content/vocab/audio/clips/b07ac017d1f3992466003675.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "món",
+        "file": "content/vocab/audio/clips/4371c8b90771bbb12a854929.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Dieses Gericht ist lecker.",
+        "file": "content/vocab/audio/clips/1620435bd8ded054042c3972.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Món này ngon.",
+        "file": "content/vocab/audio/clips/3a4a4fe3d888ab62c6822f49.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "lecker; gut schmeckend",
+        "file": "content/vocab/audio/clips/3c12a11a06453c39497b7152.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "ngon",
+        "file": "content/vocab/audio/clips/d4995828fa16bac1f2b573fc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Pho ist lecker.",
+        "file": "content/vocab/audio/clips/473672a27733313a35ecae59.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Phở ngon.",
+        "file": "content/vocab/audio/clips/1cf7d66e14f0e6b79a27fc87.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "sehr; zu",
+        "file": "content/vocab/audio/clips/5fd9372f9f33614a34969600.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "quá",
+        "file": "content/vocab/audio/clips/b9937ba449e4af1f53fb5c72.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Sehr lecker.",
+        "file": "content/vocab/audio/clips/ad7ef05b2c7cad6342b2f7fd.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngon quá.",
+        "file": "content/vocab/audio/clips/bc0ddbdc2051e262b1d65ea2.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "aber",
+        "file": "content/vocab/audio/clips/e6f79e10f061f0dd077c9727.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhưng",
+        "file": "content/vocab/audio/clips/af49d5c8d305d7ba6d4591c8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich mag Pho, aber esse heute keine.",
+        "file": "content/vocab/audio/clips/224f8786c63d2e091f9634dc.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi thích phở, nhưng không ăn hôm nay.",
+        "file": "content/vocab/audio/clips/e9e5c1d0d4a618cf40e9bd67.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Ich mag dieses Gericht.",
+        "file": "content/vocab/audio/clips/0438f1267d43a1731af04104.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi thích món này.",
+        "file": "content/vocab/audio/clips/6be2fb437a5c9f5546e42d47.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `thích` = mögen, direkt vor dem Objekt.",
+        "file": "content/vocab/audio/clips/1ca01de6e1790f4345a21c6f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Dieses Gericht ist sehr lecker.",
+        "file": "content/vocab/audio/clips/40999630c62718b25cf4744f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Món này ngon quá.",
+        "file": "content/vocab/audio/clips/68e72838be16a26ca20955d0.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `quá` verstärkt am Satzende: sehr/zu.",
+        "file": "content/vocab/audio/clips/5de25e77b00f53321ccde7e5.mp3"
+      }
+    ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3",
+    "sha256": "b4722dc2504ba704f79f393f078dffdab4b2dfa15fcbc153f9d2053f66aa5ca1",
+    "day": 14,
+    "transcript": "Deutsch: Tag 14. Neue Wörter.\nVietnamesisch: Ngày 14. Từ mới.\nDeutsch: gerade; dabei sein zu\nVietnamesisch: đang\nDeutsch: Ich lerne gerade.\nVietnamesisch: Tôi đang học.\nDeutsch: jede/r/s; pro\nVietnamesisch: mỗi\nDeutsch: Jeden Tag lerne ich.\nVietnamesisch: Mỗi ngày tôi học.\nDeutsch: fünf; Jahr\nVietnamesisch: năm\nDeutsch: Fünf neue Wörter.\nVietnamesisch: Năm từ mới.\nDeutsch: Wort; von; aus\nVietnamesisch: từ\nDeutsch: Ich lerne fünf Wörter.\nVietnamesisch: Tôi học năm từ.\nDeutsch: neu\nVietnamesisch: mới\nDeutsch: Neues Wort.\nVietnamesisch: Từ mới.\nDeutsch: Alltagssatz 1. Ich lerne gerade Vietnamesisch.\nVietnamesisch: Tôi đang học tiếng Việt.\nDeutsch: Grammatik: `đang` markiert eine laufende Handlung.\nDeutsch: Alltagssatz 2. Jeden Tag lerne ich fünf neue Wörter.\nVietnamesisch: Mỗi ngày tôi học năm từ mới.\nDeutsch: Grammatik: Zeitangaben stehen oft am Satzanfang.\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag 14. Neue Wörter.",
+        "file": "content/vocab/audio/clips/f2d1d85a697a5d250eb61dac.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày 14. Từ mới.",
+        "file": "content/vocab/audio/clips/9e386a068d22471ce6c7e17c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "gerade; dabei sein zu",
+        "file": "content/vocab/audio/clips/403e93c91579b14ea6f463e4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "đang",
+        "file": "content/vocab/audio/clips/6b8d24defcdde11457538c6c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne gerade.",
+        "file": "content/vocab/audio/clips/e0bf5bbf3ada284bb698b1ab.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang học.",
+        "file": "content/vocab/audio/clips/54cedb2cfcad17147959ca43.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "jede/r/s; pro",
+        "file": "content/vocab/audio/clips/c744259a498ffcbcc360debf.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mỗi",
+        "file": "content/vocab/audio/clips/04d0edefc6d36aab2bed13d5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Jeden Tag lerne ich.",
+        "file": "content/vocab/audio/clips/e80d5181ea697ac6ceefa24e.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mỗi ngày tôi học.",
+        "file": "content/vocab/audio/clips/e437df17dae70109b1e8b3d9.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "fünf; Jahr",
+        "file": "content/vocab/audio/clips/8d6dbc43d9116d26f364073f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "năm",
+        "file": "content/vocab/audio/clips/52abc020f90a383682646f15.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Fünf neue Wörter.",
+        "file": "content/vocab/audio/clips/ede394edaa8c8b12efe75bf5.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Năm từ mới.",
+        "file": "content/vocab/audio/clips/3e33d1edc7099248866e8fa5.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Wort; von; aus",
+        "file": "content/vocab/audio/clips/55cd4e94ca1ed1cd1bba3410.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "từ",
+        "file": "content/vocab/audio/clips/05c4fe7b86e723ca343c96b6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne fünf Wörter.",
+        "file": "content/vocab/audio/clips/4f1e6f595bb228966169e2d7.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học năm từ.",
+        "file": "content/vocab/audio/clips/6e67c845a19ea748bbf97525.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "neu",
+        "file": "content/vocab/audio/clips/c53cf921938cd3437cb0ceaa.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mới",
+        "file": "content/vocab/audio/clips/0ae01b92a0d0269eee50b34e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Neues Wort.",
+        "file": "content/vocab/audio/clips/f08b13506b22f2743d9f17e4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Từ mới.",
+        "file": "content/vocab/audio/clips/e8725336848581c8dba8c34c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 1. Ich lerne gerade Vietnamesisch.",
+        "file": "content/vocab/audio/clips/9d424add6b08a8cebc6f06c6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi đang học tiếng Việt.",
+        "file": "content/vocab/audio/clips/40ae1a6b7d3c5130b8eb52ba.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: `đang` markiert eine laufende Handlung.",
+        "file": "content/vocab/audio/clips/d89ac515378e120ae74109ab.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz 2. Jeden Tag lerne ich fünf neue Wörter.",
+        "file": "content/vocab/audio/clips/217d2d677d7c1d498a6d2b29.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Mỗi ngày tôi học năm từ mới.",
+        "file": "content/vocab/audio/clips/71a581e00ff9b98821bc15ef.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: Zeitangaben stehen oft am Satzanfang.",
+        "file": "content/vocab/audio/clips/4fbb2bf628c4b5715b4dd63a.mp3"
       }
     ]
   },
@@ -1150,6 +2854,164 @@
     ]
   },
   {
+    "file": "content/vocab/audio/lessons/2026-09-22-tag-23.mp3",
+    "sha256": "c4d43576ed4dcd32f8e9d71c9d3c967e1118247f678a984372e0998adc5bb52b",
+    "day": 23,
+    "transcript": "Tag 23 - Audio-Wiederholung\n\nDeutsch: Tag dreiundzwanzig. Neue Wörter.\nVietnamesisch: Ngày hai mươi ba. Từ mới.\n\nDeutsch: für; geben an\nVietnamesisch: cho\nDeutsch: Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\n\nDeutsch: nehmen; holen\nVietnamesisch: lấy\nDeutsch: Ich nehme das hier.\nVietnamesisch: Tôi lấy cái này.\n\nDeutsch: bringen; tragen\nVietnamesisch: mang\nDeutsch: Kannst du Wasser mitbringen?\nVietnamesisch: Bạn mang nước được không?\n\nDeutsch: um zu; damit; lassen oder legen\nVietnamesisch: để\nDeutsch: Ich lerne, um Vietnamesisch zu sprechen.\nVietnamesisch: Tôi học để nói tiếng Việt.\n\nDeutsch: erhalten; bekommen\nVietnamesisch: nhận\nDeutsch: Ich bekomme eine Nachricht.\nVietnamesisch: Tôi nhận được tin nhắn.\n\nDeutsch: Alltagssatz eins. Ich kaufe Kaffee für dich.\nVietnamesisch: Tôi mua cà phê cho bạn.\nDeutsch: Grammatik: cho steht vor der Person, für die etwas ist.\nVietnamesisch: cho bạn\n\nDeutsch: Alltagssatz zwei. Kannst du das hier nehmen oder holen?\nVietnamesisch: Bạn lấy cái này được không?\nDeutsch: Grammatik: được không macht daraus eine höfliche Bitte.\nVietnamesisch: được không?\n",
+    "segments": [
+      {
+        "lang": "de",
+        "text": "Tag dreiundzwanzig. Neue Wörter.",
+        "file": "content/vocab/audio/clips/83f1a20579b3d6b3ca2f3b68.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Ngày hai mươi ba. Từ mới.",
+        "file": "content/vocab/audio/clips/5a3056851930c4f76380467c.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "für; geben an",
+        "file": "content/vocab/audio/clips/7f0f763e2abf8fa88fe32464.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cho",
+        "file": "content/vocab/audio/clips/8f0e20277e455c29a6ca248a.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich kaufe Kaffee für dich.",
+        "file": "content/vocab/audio/clips/addcb31f8b6ec3c74011521f.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi mua cà phê cho bạn.",
+        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "nehmen; holen",
+        "file": "content/vocab/audio/clips/cb1140e1bf2386c3c322ef6b.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "lấy",
+        "file": "content/vocab/audio/clips/4ab34c9049c1cc0d628496c6.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich nehme das hier.",
+        "file": "content/vocab/audio/clips/b98ad1abe78d6c83b5f9fdb6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi lấy cái này.",
+        "file": "content/vocab/audio/clips/2d2c78a65ac46f9d865fa64e.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "bringen; tragen",
+        "file": "content/vocab/audio/clips/28d70b74fe211cf3b2435ad6.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "mang",
+        "file": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Kannst du Wasser mitbringen?",
+        "file": "content/vocab/audio/clips/dd22ce7c91b91b707022e5c4.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn mang nước được không?",
+        "file": "content/vocab/audio/clips/4b43df90750f872b911bc1b8.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "um zu; damit; lassen oder legen",
+        "file": "content/vocab/audio/clips/ed9b2666c0b650ecf7272549.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "để",
+        "file": "content/vocab/audio/clips/b40dd8a41ec8edfba569c1fc.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich lerne, um Vietnamesisch zu sprechen.",
+        "file": "content/vocab/audio/clips/4165a0c5b64e1703a3413b83.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi học để nói tiếng Việt.",
+        "file": "content/vocab/audio/clips/86d2d3c664cd8d24789ae394.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "erhalten; bekommen",
+        "file": "content/vocab/audio/clips/c4b2ea9050dbcd1dd26bbd57.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "nhận",
+        "file": "content/vocab/audio/clips/61f62ff6f16fb862a890c35f.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Ich bekomme eine Nachricht.",
+        "file": "content/vocab/audio/clips/b5e4001c400df685ad6d0b3c.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi nhận được tin nhắn.",
+        "file": "content/vocab/audio/clips/e5e7d797f0629aed92152e88.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz eins. Ich kaufe Kaffee für dich.",
+        "file": "content/vocab/audio/clips/23ac530777878abb029f4549.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Tôi mua cà phê cho bạn.",
+        "file": "content/vocab/audio/clips/57c14895ed2a6a2f8eadac59.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: cho steht vor der Person, für die etwas ist.",
+        "file": "content/vocab/audio/clips/30b94496a4d4fcd672aea839.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "cho bạn",
+        "file": "content/vocab/audio/clips/bdd74174c49c687e37523a40.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Alltagssatz zwei. Kannst du das hier nehmen oder holen?",
+        "file": "content/vocab/audio/clips/bc0a5d2b1e72ef7b21d64f09.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "Bạn lấy cái này được không?",
+        "file": "content/vocab/audio/clips/771d3f01b2d6d125c661fd54.mp3"
+      },
+      {
+        "lang": "de",
+        "text": "Grammatik: được không macht daraus eine höfliche Bitte.",
+        "file": "content/vocab/audio/clips/ce591788f1c5ddbaea14f578.mp3"
+      },
+      {
+        "lang": "vi",
+        "text": "được không?",
+        "file": "content/vocab/audio/clips/8d7fd7fecebfa135c52ced9b.mp3"
+      }
+    ]
+  },
+  {
     "file": "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3",
     "sha256": "0373e6b62a0b9289b16bcfe992657f78d48bc35261a2ef0b39c61e1722a9d4f9",
     "day": 24,
@@ -1316,6 +3178,12 @@
         "file": "content/vocab/audio/clips/19d95a45825c907d6889e81d.mp3"
       }
     ]
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3",
+    "sha256": "2bee1d47513a1c6c09573ee65d2cfeab68156c1c3ac5ff4dbca036fc665aa6ed",
+    "day": 25,
+    "transcript": "01\tde\tTag fünfundzwanzig. Neue Wörter.\n02\tvi\tNgày hai mươi lăm. Từ mới.\n03\tde\tBus\n04\tvi\txe buýt\n05\tde\tIch fahre mit dem Bus.\n06\tvi\tTôi đi xe buýt.\n07\tde\tZug; Schiff\n08\tvi\ttàu\n09\tde\tDer Zug ist angekommen.\n10\tvi\tTàu đến rồi.\n11\tde\tFlugzeug\n12\tvi\tmáy bay\n13\tde\tIch nehme das Flugzeug.\n14\tvi\tTôi đi máy bay.\n15\tde\tFlughafen\n16\tvi\tsân bay\n17\tde\tWo ist der Flughafen?\n18\tvi\tSân bay ở đâu?\n19\tde\tHotel\n20\tvi\tkhách sạn\n21\tde\tIch bin im Hotel.\n22\tvi\tTôi ở khách sạn.\n23\tde\tAlltagssatz eins. Ich möchte mit dem Bus fahren.\n24\tvi\tTôi muốn đi xe buýt.\n25\tde\tGrammatik: muốn steht vor dem Verb.\n26\tvi\tmuốn đi xe buýt\n27\tde\tAlltagssatz zwei. Wo ist der Flughafen?\n28\tvi\tSân bay ở đâu?\n29\tde\tGrammatik: Vietnamesische Nomen werden oft direkt kombiniert.\n30\tvi\tsân bay\n"
   },
   {
     "file": "content/vocab/audio/lessons/vietnamesisch-beispielsaetze-bis-tag-17-2026-09-16.mp3",

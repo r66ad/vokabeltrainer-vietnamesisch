@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-05",
     "pronunciation": "biet steigend",
     "example": "Tôi biết. = Ich weiß.",
-    "note": "Aussprache: biet steigend · Tôi biết. = Ich weiß."
+    "note": "Aussprache: biet steigend · Tôi biết. = Ich weiß.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/ce0a605ce345b67e6a0367a5.mp3",
+      "de": "content/vocab/audio/clips/a6eecfdc423df721506f7fda.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3"
+    ]
   },
   {
     "id": "vi-day05-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-05",
     "pronunciation": "muon steigend",
     "example": "Tôi muốn học. = Ich möchte lernen.",
-    "note": "Aussprache: muon steigend · Tôi muốn học. = Ich möchte lernen."
+    "note": "Aussprache: muon steigend · Tôi muốn học. = Ich möchte lernen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e54a00a3793729934b887baa.mp3",
+      "de": "content/vocab/audio/clips/b9457be0b35ea97fd2b2b1bf.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3"
+    ]
   },
   {
     "id": "vi-day05-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-05",
     "pronunciation": "noi steigend",
     "example": "Tôi nói tiếng Đức. = Ich spreche Deutsch.",
-    "note": "Aussprache: noi steigend · Tôi nói tiếng Đức. = Ich spreche Deutsch."
+    "note": "Aussprache: noi steigend · Tôi nói tiếng Đức. = Ich spreche Deutsch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c6ece2418a67114d6a7c6d4f.mp3",
+      "de": "content/vocab/audio/clips/07a2da84d0517940ca4e880b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3"
+    ]
   },
   {
     "id": "vi-day05-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-05",
     "pronunciation": "tieng steigend",
     "example": "Tiếng Việt = Vietnamesisch",
-    "note": "Aussprache: tieng steigend · Tiếng Việt = Vietnamesisch"
+    "note": "Aussprache: tieng steigend · Tiếng Việt = Vietnamesisch",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b297445acb7748f2ad7bb9ca.mp3",
+      "de": "content/vocab/audio/clips/43a64a894d890894cbadc6b1.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3"
+    ]
   },
   {
     "id": "vi-day05-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-05",
     "pronunciation": "viet nam",
     "example": "Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
-    "note": "Aussprache: viet nam · Tôi học tiếng Việt. = Ich lerne Vietnamesisch."
+    "note": "Aussprache: viet nam · Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/50e7bb95a3a268c1775d506e.mp3",
+      "de": "content/vocab/audio/clips/fe6b0fa8082b5ca7806dd806.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-5-audio-2026-09-05.mp3"
+    ]
   }
 ]

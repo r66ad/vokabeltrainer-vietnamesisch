@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-12",
     "pronunciation": "thich steigend",
     "example": "Tôi thích món này. = Ich mag dieses Gericht.",
-    "note": "Aussprache: thich steigend · Tôi thích món này. = Ich mag dieses Gericht."
+    "note": "Aussprache: thich steigend · Tôi thích món này. = Ich mag dieses Gericht.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/61a3d28c85d87277d2b779ea.mp3",
+      "de": "content/vocab/audio/clips/42af0c5ac9240773ed98616b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   },
   {
     "id": "vi-day13-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-12",
     "pronunciation": "mon steigend",
     "example": "Món này ngon. = Dieses Gericht ist lecker.",
-    "note": "Aussprache: mon steigend · Món này ngon. = Dieses Gericht ist lecker."
+    "note": "Aussprache: mon steigend · Món này ngon. = Dieses Gericht ist lecker.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4371c8b90771bbb12a854929.mp3",
+      "de": "content/vocab/audio/clips/b07ac017d1f3992466003675.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   },
   {
     "id": "vi-day13-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-12",
     "pronunciation": "ngon",
     "example": "Phở ngon. = Pho ist lecker.",
-    "note": "Aussprache: ngon · Phở ngon. = Pho ist lecker."
+    "note": "Aussprache: ngon · Phở ngon. = Pho ist lecker.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d4995828fa16bac1f2b573fc.mp3",
+      "de": "content/vocab/audio/clips/3c12a11a06453c39497b7152.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   },
   {
     "id": "vi-day13-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-12",
     "pronunciation": "qua steigend",
     "example": "Ngon quá. = Sehr lecker.",
-    "note": "Aussprache: qua steigend · Ngon quá. = Sehr lecker."
+    "note": "Aussprache: qua steigend · Ngon quá. = Sehr lecker.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b9937ba449e4af1f53fb5c72.mp3",
+      "de": "content/vocab/audio/clips/5fd9372f9f33614a34969600.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   },
   {
     "id": "vi-day13-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-12",
     "pronunciation": "njung",
     "example": "Tôi thích phở, nhưng không ăn hôm nay. = Ich mag Pho, aber esse heute keine.",
-    "note": "Aussprache: njung · Tôi thích phở, nhưng không ăn hôm nay. = Ich mag Pho, aber esse heute keine."
+    "note": "Aussprache: njung · Tôi thích phở, nhưng không ăn hôm nay. = Ich mag Pho, aber esse heute keine.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/af49d5c8d305d7ba6d4591c8.mp3",
+      "de": "content/vocab/audio/clips/e6f79e10f061f0dd077c9727.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   }
 ]

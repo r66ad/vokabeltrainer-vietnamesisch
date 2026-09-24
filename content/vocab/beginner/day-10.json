@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-09",
     "pronunciation": "hieu fragend",
     "example": "Tôi hiểu. = Ich verstehe.",
-    "note": "Aussprache: hieu fragend · Tôi hiểu. = Ich verstehe."
+    "note": "Aussprache: hieu fragend · Tôi hiểu. = Ich verstehe.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d34998a246b62133ad6789b8.mp3",
+      "de": "content/vocab/audio/clips/384d1b8846ae4fe135f79114.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   },
   {
     "id": "vi-day10-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-09",
     "pronunciation": "tscham schwer",
     "example": "Nói chậm. = Sprich langsam.",
-    "note": "Aussprache: tscham schwer · Nói chậm. = Sprich langsam."
+    "note": "Aussprache: tscham schwer · Nói chậm. = Sprich langsam.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8d0fddc0bca587543fd0917b.mp3",
+      "de": "content/vocab/audio/clips/af9415480507a363a32c77a8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   },
   {
     "id": "vi-day10-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-09",
     "pronunciation": "njanh",
     "example": "Bạn nói nhanh. = Du sprichst schnell.",
-    "note": "Aussprache: njanh · Bạn nói nhanh. = Du sprichst schnell."
+    "note": "Aussprache: njanh · Bạn nói nhanh. = Du sprichst schnell.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9451c9b04b170e7c76d8854b.mp3",
+      "de": "content/vocab/audio/clips/67162abce5889f997a207173.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   },
   {
     "id": "vi-day10-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-09",
     "pronunciation": "lai schwer",
     "example": "Nói lại. = Sag es noch einmal.",
-    "note": "Aussprache: lai schwer · Nói lại. = Sag es noch einmal."
+    "note": "Aussprache: lai schwer · Nói lại. = Sag es noch einmal.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5831bac6544233725dd09921.mp3",
+      "de": "content/vocab/audio/clips/09d308df8ddf3929567e71d5.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   },
   {
     "id": "vi-day10-vocab-05",
@@ -54,7 +82,11 @@
     "example": "Xin lỗi. = Entschuldigung.",
     "note": "Aussprache: sin loi steigend · Xin lỗi. = Entschuldigung.",
     "audio": {
-      "vi": "content/vocab/audio/clips/db73fd477533e93c8b640d6c.mp3"
-    }
+      "vi": "content/vocab/audio/clips/8bdcaf0238b8106d3e0902c9.mp3",
+      "de": "content/vocab/audio/clips/d7bfaeebe36de0fa48c4f07f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   }
 ]

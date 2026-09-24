@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-07",
     "note": "`không` am Satzende macht aus einer Aussage eine Ja/Nein-Frage.",
     "audio": {
-      "vi": "content/vocab/audio/clips/82a25e8f140b9b5757aa5f5b.mp3",
-      "de": "content/vocab/audio/clips/7c73a5f5ebcb8568e795aedd.mp3"
-    }
+      "vi": "content/vocab/audio/clips/89049c10195cc6b70751f580.mp3",
+      "de": "content/vocab/audio/clips/e3d56d5b0d9be4f45c9c2fa0.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   },
   {
     "id": "vi-day08-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-07",
     "note": "Subjekt + Adjektiv reicht oft ohne Verb `sein`.",
     "audio": {
-      "vi": "content/vocab/audio/clips/cdf18694c2c14c1d3fd32311.mp3",
-      "de": "content/vocab/audio/clips/e6061d96d3d50213b8d088a0.mp3"
-    }
+      "vi": "content/vocab/audio/clips/9f74c190afde421d216922a2.mp3",
+      "de": "content/vocab/audio/clips/b23f03d70f86496e94d25f8d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   }
 ]

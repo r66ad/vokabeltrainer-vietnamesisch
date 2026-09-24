@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-04",
     "pronunciation": "tot steigend",
     "example": "Tốt lắm. = Sehr gut.",
-    "note": "Aussprache: tot steigend · Tốt lắm. = Sehr gut."
+    "note": "Aussprache: tot steigend · Tốt lắm. = Sehr gut.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/164e5c2024d344848417f099.mp3",
+      "de": "content/vocab/audio/clips/6836dabfc9dc2f52eead2e8d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3"
+    ]
   },
   {
     "id": "vi-day04-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-04",
     "pronunciation": "nhieu fallend",
     "example": "Cảm ơn nhiều. = Vielen Dank.",
-    "note": "Aussprache: nhieu fallend · Cảm ơn nhiều. = Vielen Dank."
+    "note": "Aussprache: nhieu fallend · Cảm ơn nhiều. = Vielen Dank.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5f014a9722826bd7a18d5b97.mp3",
+      "de": "content/vocab/audio/clips/7aa8f9dbbb1a641660881467.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3"
+    ]
   },
   {
     "id": "vi-day04-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-04",
     "pronunciation": "mot schwer",
     "example": "Một người = eine Person",
-    "note": "Aussprache: mot schwer · Một người = eine Person"
+    "note": "Aussprache: mot schwer · Một người = eine Person",
+    "audio": {
+      "vi": "content/vocab/audio/clips/855b8f16d4aa22ddc165f9f1.mp3",
+      "de": "content/vocab/audio/clips/e88ff51e2f5e9e5515599c28.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3"
+    ]
   },
   {
     "id": "vi-day04-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-04",
     "pronunciation": "voi steigend",
     "example": "Với bạn = mit dir",
-    "note": "Aussprache: voi steigend · Với bạn = mit dir"
+    "note": "Aussprache: voi steigend · Với bạn = mit dir",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5ac94a7fb8406dde89588e50.mp3",
+      "de": "content/vocab/audio/clips/4e1103913024c10d24602e42.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3"
+    ]
   },
   {
     "id": "vi-day04-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-04",
     "pronunciation": "dua",
     "example": "Đưa tôi nước. = Gib mir Wasser.",
-    "note": "Aussprache: dua · Đưa tôi nước. = Gib mir Wasser."
+    "note": "Aussprache: dua · Đưa tôi nước. = Gib mir Wasser.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/deecfb93d4058bc96ec259dc.mp3",
+      "de": "content/vocab/audio/clips/c52b2dd41bf092e84656b976.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-4-audio-2026-09-04.mp3"
+    ]
   }
 ]

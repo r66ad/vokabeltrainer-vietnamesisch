@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day25-vocab-01",
+    "front": "xe buýt",
+    "back": "Bus",
+    "kind": "vocabulary",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "pronunciation": "se buit",
+    "example": "Tôi đi xe buýt. = Ich fahre mit dem Bus.",
+    "note": "Aussprache: se buit · Tôi đi xe buýt. = Ich fahre mit dem Bus.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day25-vocab-02",
+    "front": "tàu",
+    "back": "Zug; Schiff",
+    "kind": "vocabulary",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "pronunciation": "tau fallend",
+    "example": "Tàu đến rồi. = Der Zug ist angekommen.",
+    "note": "Aussprache: tau fallend · Tàu đến rồi. = Der Zug ist angekommen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day25-vocab-03",
+    "front": "máy bay",
+    "back": "Flugzeug",
+    "kind": "vocabulary",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "pronunciation": "mai steigend bai",
+    "example": "Tôi đi máy bay. = Ich nehme das Flugzeug.",
+    "note": "Aussprache: mai steigend bai · Tôi đi máy bay. = Ich nehme das Flugzeug.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day25-vocab-04",
+    "front": "sân bay",
+    "back": "Flughafen",
+    "kind": "vocabulary",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "pronunciation": "san bai",
+    "example": "Sân bay ở đâu? = Wo ist der Flughafen?",
+    "note": "Aussprache: san bai · Sân bay ở đâu? = Wo ist der Flughafen?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day25-vocab-05",
+    "front": "khách sạn",
+    "back": "Hotel",
+    "kind": "vocabulary",
+    "introduced_day": 25,
+    "introduced_on": "2026-09-24",
+    "pronunciation": "khach steigend, san schwer",
+    "example": "Tôi ở khách sạn. = Ich bin im Hotel.",
+    "note": "Aussprache: khach steigend, san schwer · Tôi ở khách sạn. = Ich bin im Hotel.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
+    ]
+  }
+]

@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-12",
     "note": "`thích` = mögen, direkt vor dem Objekt.",
     "audio": {
-      "vi": "content/vocab/audio/clips/62b4c9801d6648f84a180cca.mp3",
-      "de": "content/vocab/audio/clips/a8eedce2aa73d80c685ae8d9.mp3"
-    }
+      "vi": "content/vocab/audio/clips/6be2fb437a5c9f5546e42d47.mp3",
+      "de": "content/vocab/audio/clips/160b66c20d5b83accecaf79c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   },
   {
     "id": "vi-day13-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-12",
     "note": "`quá` verstärkt am Satzende: sehr/zu.",
     "audio": {
-      "vi": "content/vocab/audio/clips/a1a7a33d725cf4b7f9f94ad8.mp3",
-      "de": "content/vocab/audio/clips/235d0fdc0be9fcc4e427b76d.mp3"
-    }
+      "vi": "content/vocab/audio/clips/68e72838be16a26ca20955d0.mp3",
+      "de": "content/vocab/audio/clips/81a245f259df7233e8a368d3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-13-audio-2026-09-12.mp3"
+    ]
   }
 ]

@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-08",
     "note": "`muốn` steht vor dem Verb: wollen + trinken.",
     "audio": {
-      "vi": "content/vocab/audio/clips/643bc6f3d0a499a846f1a17c.mp3",
-      "de": "content/vocab/audio/clips/c5313e7812c54cb5936b9e5f.mp3"
-    }
+      "vi": "content/vocab/audio/clips/d7a1a2f48b4a3d351ac9388e.mp3",
+      "de": "content/vocab/audio/clips/fb2fdb3b760afd8f5e4bc264.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   },
   {
     "id": "vi-day09-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-08",
     "note": "Fragewort `gì` steht dort, wo die Antwort stehen würde.",
     "audio": {
-      "vi": "content/vocab/audio/clips/abc9d98eaa9c083b9fc2be76.mp3",
-      "de": "content/vocab/audio/clips/473020f380b53d53cb87403a.mp3"
-    }
+      "vi": "content/vocab/audio/clips/b8a902eda5ca70c96f4be07a.mp3",
+      "de": "content/vocab/audio/clips/73acca7750fe625314cc66d4.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-9-audio-2026-09-08.mp3"
+    ]
   }
 ]

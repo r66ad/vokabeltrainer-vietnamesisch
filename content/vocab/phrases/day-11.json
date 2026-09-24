@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-10",
     "note": "`đến từ` = kommen aus.",
     "audio": {
-      "vi": "content/vocab/audio/clips/d0e49d8a8669f479a222c36c.mp3",
-      "de": "content/vocab/audio/clips/278d7a6f6ab363bbc16cb5da.mp3"
-    }
+      "vi": "content/vocab/audio/clips/c2c3ca5e69f8c8a6e504ab71.mp3",
+      "de": "content/vocab/audio/clips/acfa58e658220552c0b00a89.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   },
   {
     "id": "vi-day11-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-10",
     "note": "`ở đâu` = wo, oft am Satzende.",
     "audio": {
-      "vi": "content/vocab/audio/clips/9fd3a17f5ac52e637150e2ef.mp3",
-      "de": "content/vocab/audio/clips/2a9e4395031e6f7c5408d931.mp3"
-    }
+      "vi": "content/vocab/audio/clips/42a7d0b58c2f46e76f3ceedf.mp3",
+      "de": "content/vocab/audio/clips/eb8a0ba59c29128e51c00586.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   }
 ]

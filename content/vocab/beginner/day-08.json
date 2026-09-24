@@ -10,8 +10,12 @@
     "example": "Xin chào! = Hallo!",
     "note": "Aussprache: sin tschau · Xin chào! = Hallo!",
     "audio": {
-      "vi": "content/vocab/audio/clips/5d9734a9a2c1c089a748326e.mp3"
-    }
+      "vi": "content/vocab/audio/clips/de9a47dd3b368b9cef167dbd.mp3",
+      "de": "content/vocab/audio/clips/d8c9f61823631f96b5bce8dc.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   },
   {
     "id": "vi-day08-vocab-02",
@@ -22,7 +26,14 @@
     "introduced_on": "2026-09-07",
     "pronunciation": "khoe fragend",
     "example": "Bạn khỏe không? = Geht es dir gut?",
-    "note": "Aussprache: khoe fragend · Bạn khỏe không? = Geht es dir gut?"
+    "note": "Aussprache: khoe fragend · Bạn khỏe không? = Geht es dir gut?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/760dcea31da5bc25b847f432.mp3",
+      "de": "content/vocab/audio/clips/e6e3f3af671f28e4990d9f9f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   },
   {
     "id": "vi-day08-vocab-03",
@@ -35,8 +46,12 @@
     "example": "Cảm ơn. = Danke.",
     "note": "Aussprache: kam on, beide fragend · Cảm ơn. = Danke.",
     "audio": {
-      "vi": "content/vocab/audio/clips/8119a3b1844de05b5ad8de74.mp3"
-    }
+      "vi": "content/vocab/audio/clips/c696fbf64bcc027222849de0.mp3",
+      "de": "content/vocab/audio/clips/2d7c8f4ff5bfdc4061d3d6d9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   },
   {
     "id": "vi-day08-vocab-04",
@@ -47,7 +62,14 @@
     "introduced_on": "2026-09-07",
     "pronunciation": "lam schwer",
     "example": "Tốt lắm. = Sehr gut.",
-    "note": "Aussprache: lam schwer · Tốt lắm. = Sehr gut."
+    "note": "Aussprache: lam schwer · Tốt lắm. = Sehr gut.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/961ad7692676ae11025af8da.mp3",
+      "de": "content/vocab/audio/clips/c6ba5ec8dd8c5df3494f8471.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   },
   {
     "id": "vi-day08-vocab-05",
@@ -58,6 +80,13 @@
     "introduced_on": "2026-09-07",
     "pronunciation": "kung mit gebrochenem Ton",
     "example": "Tôi cũng học. = Ich lerne auch.",
-    "note": "Aussprache: kung mit gebrochenem Ton · Tôi cũng học. = Ich lerne auch."
+    "note": "Aussprache: kung mit gebrochenem Ton · Tôi cũng học. = Ich lerne auch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/2d92358bcb59fbc98a7036d6.mp3",
+      "de": "content/vocab/audio/clips/c09f0a2f6732c76c9e3b002f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-8-audio-2026-09-07.mp3"
+    ]
   }
 ]

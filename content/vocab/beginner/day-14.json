@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-13",
     "pronunciation": "dang",
     "example": "Tôi đang học. = Ich lerne gerade.",
-    "note": "Aussprache: dang · Tôi đang học. = Ich lerne gerade."
+    "note": "Aussprache: dang · Tôi đang học. = Ich lerne gerade.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6b8d24defcdde11457538c6c.mp3",
+      "de": "content/vocab/audio/clips/403e93c91579b14ea6f463e4.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   },
   {
     "id": "vi-day14-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-13",
     "pronunciation": "moi mit schwerem Ton",
     "example": "Mỗi ngày tôi học. = Jeden Tag lerne ich.",
-    "note": "Aussprache: moi mit schwerem Ton · Mỗi ngày tôi học. = Jeden Tag lerne ich."
+    "note": "Aussprache: moi mit schwerem Ton · Mỗi ngày tôi học. = Jeden Tag lerne ich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/04d0edefc6d36aab2bed13d5.mp3",
+      "de": "content/vocab/audio/clips/c744259a498ffcbcc360debf.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   },
   {
     "id": "vi-day14-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-13",
     "pronunciation": "nam",
     "example": "Năm từ mới. = Fünf neue Wörter.",
-    "note": "Aussprache: nam · Năm từ mới. = Fünf neue Wörter."
+    "note": "Aussprache: nam · Năm từ mới. = Fünf neue Wörter.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/52abc020f90a383682646f15.mp3",
+      "de": "content/vocab/audio/clips/8d6dbc43d9116d26f364073f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   },
   {
     "id": "vi-day14-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-13",
     "pronunciation": "tu fallend",
     "example": "Tôi học năm từ. = Ich lerne fünf Wörter.",
-    "note": "Aussprache: tu fallend · Tôi học năm từ. = Ich lerne fünf Wörter."
+    "note": "Aussprache: tu fallend · Tôi học năm từ. = Ich lerne fünf Wörter.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/05c4fe7b86e723ca343c96b6.mp3",
+      "de": "content/vocab/audio/clips/55cd4e94ca1ed1cd1bba3410.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   },
   {
     "id": "vi-day14-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-13",
     "pronunciation": "moi steigend",
     "example": "Từ mới. = Neues Wort.",
-    "note": "Aussprache: moi steigend · Từ mới. = Neues Wort."
+    "note": "Aussprache: moi steigend · Từ mới. = Neues Wort.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0ae01b92a0d0269eee50b34e.mp3",
+      "de": "content/vocab/audio/clips/c53cf921938cd3437cb0ceaa.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-14-audio-2026-09-13.mp3"
+    ]
   }
 ]

@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-10",
     "pronunciation": "den steigend",
     "example": "Tôi đến. = Ich komme.",
-    "note": "Aussprache: den steigend · Tôi đến. = Ich komme."
+    "note": "Aussprache: den steigend · Tôi đến. = Ich komme.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8d9bf4fac8fd45af4f2c10f0.mp3",
+      "de": "content/vocab/audio/clips/2795ae321c877d8a4822703c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   },
   {
     "id": "vi-day11-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-10",
     "pronunciation": "tu fallend",
     "example": "Tôi đến từ Đức. = Ich komme aus Deutschland.",
-    "note": "Aussprache: tu fallend · Tôi đến từ Đức. = Ich komme aus Deutschland."
+    "note": "Aussprache: tu fallend · Tôi đến từ Đức. = Ich komme aus Deutschland.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/05c4fe7b86e723ca343c96b6.mp3",
+      "de": "content/vocab/audio/clips/1c239e9ce9932f41b9121daa.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   },
   {
     "id": "vi-day11-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-10",
     "pronunciation": "duk steigend",
     "example": "Tôi ở Đức. = Ich wohne in Deutschland.",
-    "note": "Aussprache: duk steigend · Tôi ở Đức. = Ich wohne in Deutschland."
+    "note": "Aussprache: duk steigend · Tôi ở Đức. = Ich wohne in Deutschland.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/bb38c2f1b1cd0e7ed8b80e8d.mp3",
+      "de": "content/vocab/audio/clips/e6dfcddc72526fddb3ca2c2f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   },
   {
     "id": "vi-day11-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-10",
     "pronunciation": "song steigend",
     "example": "Bạn sống ở đâu? = Wo wohnst du?",
-    "note": "Aussprache: song steigend · Bạn sống ở đâu? = Wo wohnst du?"
+    "note": "Aussprache: song steigend · Bạn sống ở đâu? = Wo wohnst du?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/397de687862ca051d180dc77.mp3",
+      "de": "content/vocab/audio/clips/ec3abd379a3cba9ba17cdfe7.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   },
   {
     "id": "vi-day11-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-10",
     "pronunciation": "thanh fallend, fo steigend",
     "example": "Thành phố lớn. = Eine große Stadt.",
-    "note": "Aussprache: thanh fallend, fo steigend · Thành phố lớn. = Eine große Stadt."
+    "note": "Aussprache: thanh fallend, fo steigend · Thành phố lớn. = Eine große Stadt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9aa153ffdf27669ebd8d9b72.mp3",
+      "de": "content/vocab/audio/clips/dba6212dceb1b527841a58ef.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-11-audio-2026-09-10.mp3"
+    ]
   }
 ]

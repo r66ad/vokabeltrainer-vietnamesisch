@@ -8,7 +8,14 @@
     "introduced_on": "2026-09-06",
     "pronunciation": "hoc schwer",
     "example": "Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
-    "note": "Aussprache: hoc schwer · Tôi học tiếng Việt. = Ich lerne Vietnamesisch."
+    "note": "Aussprache: hoc schwer · Tôi học tiếng Việt. = Ich lerne Vietnamesisch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/485029ce4e98480bc03e7d72.mp3",
+      "de": "content/vocab/audio/clips/3a850402ed747dc402cd78bd.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3"
+    ]
   },
   {
     "id": "vi-day06-vocab-02",
@@ -19,7 +26,14 @@
     "introduced_on": "2026-09-06",
     "pronunciation": "hom nai",
     "example": "Hôm nay tôi học. = Heute lerne ich.",
-    "note": "Aussprache: hom nai · Hôm nay tôi học. = Heute lerne ich."
+    "note": "Aussprache: hom nai · Hôm nay tôi học. = Heute lerne ich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/da1a69ab45c6eedd4d5f9ce8.mp3",
+      "de": "content/vocab/audio/clips/50f3301f281d7219d3800670.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3"
+    ]
   },
   {
     "id": "vi-day06-vocab-03",
@@ -30,7 +44,14 @@
     "introduced_on": "2026-09-06",
     "pronunciation": "ngai mai",
     "example": "Ngày mai tôi đi. = Morgen gehe ich.",
-    "note": "Aussprache: ngai mai · Ngày mai tôi đi. = Morgen gehe ich."
+    "note": "Aussprache: ngai mai · Ngày mai tôi đi. = Morgen gehe ich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6f62c86561707d7163175a88.mp3",
+      "de": "content/vocab/audio/clips/9bc08c88dfa6b1bddd42c986.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3"
+    ]
   },
   {
     "id": "vi-day06-vocab-04",
@@ -41,7 +62,14 @@
     "introduced_on": "2026-09-06",
     "pronunciation": "nha fallend",
     "example": "Tôi ở nhà. = Ich bin zu Hause.",
-    "note": "Aussprache: nha fallend · Tôi ở nhà. = Ich bin zu Hause."
+    "note": "Aussprache: nha fallend · Tôi ở nhà. = Ich bin zu Hause.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d07130633fcd459f86829ba1.mp3",
+      "de": "content/vocab/audio/clips/2d2ca91308e92440de13fe3f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3"
+    ]
   },
   {
     "id": "vi-day06-vocab-05",
@@ -52,6 +80,13 @@
     "introduced_on": "2026-09-06",
     "pronunciation": "dau",
     "example": "Bạn ở đâu? = Wo bist du?",
-    "note": "Aussprache: dau · Bạn ở đâu? = Wo bist du?"
+    "note": "Aussprache: dau · Bạn ở đâu? = Wo bist du?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c1e8a634a9f6d55394cb82cb.mp3",
+      "de": "content/vocab/audio/clips/6ee81d084979da96076a0f83.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-6-audio-2026-09-06.mp3"
+    ]
   }
 ]

@@ -8,9 +8,12 @@
     "introduced_on": "2026-09-09",
     "note": "`không` steht vor dem Verb/Adjektiv zur Verneinung.",
     "audio": {
-      "vi": "content/vocab/audio/clips/2981fe28cc499b47dfaece5b.mp3",
-      "de": "content/vocab/audio/clips/400892101dfd5392e5429757.mp3"
-    }
+      "vi": "content/vocab/audio/clips/66d3242a7b0ea6490596713a.mp3",
+      "de": "content/vocab/audio/clips/b548f0c3eb86a37c74ca7dad.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   },
   {
     "id": "vi-day10-sentences-02",
@@ -21,8 +24,11 @@
     "introduced_on": "2026-09-09",
     "note": "`được không` bittet höflich um Erlaubnis/Möglichkeit.",
     "audio": {
-      "vi": "content/vocab/audio/clips/9dde27201d70df3dd7b4a989.mp3",
-      "de": "content/vocab/audio/clips/e70051a6bf75a557a715da0c.mp3"
-    }
+      "vi": "content/vocab/audio/clips/38aab3155cfd046f8acbf932.mp3",
+      "de": "content/vocab/audio/clips/95d3318b00fc3b7a4c4d4977.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-10-audio-2026-09-09.mp3"
+    ]
   }
 ]
