@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day30-vocab-01",
+    "front": "hỏi",
+    "back": "fragen",
+    "kind": "vocabulary",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "pronunciation": "hoi fragend",
+    "example": "Tôi muốn hỏi. = Ich möchte fragen.",
+    "note": "Aussprache: hoi fragend · Tôi muốn hỏi. = Ich möchte fragen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day30-vocab-02",
+    "front": "trả lời",
+    "back": "antworten",
+    "kind": "vocabulary",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "pronunciation": "tra fragend, loi fallend",
+    "example": "Bạn trả lời giúp tôi được không? = Kannst du mir bitte antworten?",
+    "note": "Aussprache: tra fragend, loi fallend · Bạn trả lời giúp tôi được không? = Kannst du mir bitte antworten?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day30-vocab-03",
+    "front": "câu",
+    "back": "Satz; Frage in `câu hỏi`",
+    "kind": "vocabulary",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "pronunciation": "kau",
+    "example": "Một câu hỏi. = Eine Frage.",
+    "note": "Aussprache: kau · Một câu hỏi. = Eine Frage.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day30-vocab-04",
+    "front": "đúng",
+    "back": "richtig; korrekt",
+    "kind": "vocabulary",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "pronunciation": "dung steigend",
+    "example": "Đúng rồi. = Richtig / genau.",
+    "note": "Aussprache: dung steigend · Đúng rồi. = Richtig / genau.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day30-vocab-05",
+    "front": "sai",
+    "back": "falsch",
+    "kind": "vocabulary",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "pronunciation": "sai",
+    "example": "Tôi nói sai. = Ich sage es falsch.",
+    "note": "Aussprache: sai · Tôi nói sai. = Ich sage es falsch.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  }
+]

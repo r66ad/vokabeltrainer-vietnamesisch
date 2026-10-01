@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day29-vocab-01",
+    "front": "tìm",
+    "back": "suchen",
+    "kind": "vocabulary",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "pronunciation": "tim fallend",
+    "example": "Tôi tìm khách sạn. = Ich suche das Hotel.",
+    "note": "Aussprache: tim fallend · Tôi tìm khách sạn. = Ich suche das Hotel.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day29-vocab-02",
+    "front": "thấy",
+    "back": "sehen; finden",
+    "kind": "vocabulary",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "pronunciation": "thay steigend",
+    "example": "Tôi thấy nhà vệ sinh. = Ich sehe die Toilette.",
+    "note": "Aussprache: thay steigend · Tôi thấy nhà vệ sinh. = Ich sehe die Toilette.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day29-vocab-03",
+    "front": "cửa",
+    "back": "Tür; Eingang",
+    "kind": "vocabulary",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "pronunciation": "kua fragend",
+    "example": "Cửa ở đâu? = Wo ist die Tür / der Eingang?",
+    "note": "Aussprache: kua fragend · Cửa ở đâu? = Wo ist die Tür / der Eingang?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day29-vocab-04",
+    "front": "mở",
+    "back": "öffnen; offen",
+    "kind": "vocabulary",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "pronunciation": "moe fragend",
+    "example": "Mở cửa. = Öffne die Tür.",
+    "note": "Aussprache: moe fragend · Mở cửa. = Öffne die Tür.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day29-vocab-05",
+    "front": "đóng",
+    "back": "schließen; geschlossen",
+    "kind": "vocabulary",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "pronunciation": "dong steigend",
+    "example": "Đóng cửa. = Schließ die Tür.",
+    "note": "Aussprache: dong steigend · Đóng cửa. = Schließ die Tür.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day26-sentences-01",
+    "front": "Tôi đã đặt phòng.",
+    "back": "Ich habe ein Zimmer gebucht.",
+    "kind": "sentence",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "note": "`đã` steht vor dem Verb und markiert eine abgeschlossene Handlung in der Vergangenheit.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day26-sentences-02",
+    "front": "Bạn có bản đồ không?",
+    "back": "Hast du eine Karte?",
+    "kind": "sentence",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "note": "`có ... không?` bildet eine Ja/Nein-Frage mit \"haben/gibt es\".",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  }
+]

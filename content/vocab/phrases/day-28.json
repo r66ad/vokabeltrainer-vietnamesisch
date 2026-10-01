@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day28-sentences-01",
+    "front": "Nhà vệ sinh ở đâu?",
+    "back": "Wo ist die Toilette?",
+    "kind": "sentence",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "note": "`ở đâu` steht oft am Satzende und fragt nach dem Ort.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day28-sentences-02",
+    "front": "Đi thẳng rồi rẽ bên trái.",
+    "back": "Geh geradeaus und bieg dann links ab.",
+    "kind": "sentence",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "note": "`rồi` verbindet Schritte in Reihenfolge: erst das eine, dann das andere.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  }
+]

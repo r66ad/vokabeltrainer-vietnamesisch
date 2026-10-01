@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day31-vocab-01",
+    "front": "đọc",
+    "back": "lesen",
+    "kind": "vocabulary",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "pronunciation": "doc schwer",
+    "example": "Tôi đọc tiếng Việt. = Ich lese Vietnamesisch.",
+    "note": "Aussprache: doc schwer · Tôi đọc tiếng Việt. = Ich lese Vietnamesisch.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day31-vocab-02",
+    "front": "viết",
+    "back": "schreiben",
+    "kind": "vocabulary",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "pronunciation": "viet steigend",
+    "example": "Bạn viết tên tôi. = Du schreibst meinen Namen.",
+    "note": "Aussprache: viet steigend · Bạn viết tên tôi. = Du schreibst meinen Namen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day31-vocab-03",
+    "front": "nghe",
+    "back": "hören; zuhören",
+    "kind": "vocabulary",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "pronunciation": "nge mit ng-Anlaut",
+    "example": "Tôi nghe bạn nói. = Ich höre dich sprechen.",
+    "note": "Aussprache: nge mit ng-Anlaut · Tôi nghe bạn nói. = Ich höre dich sprechen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day31-vocab-04",
+    "front": "nhắc lại",
+    "back": "wiederholen; noch einmal sagen",
+    "kind": "vocabulary",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "pronunciation": "nhak steigend, lai schwer",
+    "example": "Bạn nhắc lại được không? = Kannst du es wiederholen?",
+    "note": "Aussprache: nhak steigend, lai schwer · Bạn nhắc lại được không? = Kannst du es wiederholen?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day31-vocab-05",
+    "front": "đánh vần",
+    "back": "buchstabieren",
+    "kind": "vocabulary",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "pronunciation": "danh steigend, van fallend",
+    "example": "Bạn đánh vần tên được không? = Kannst du den Namen buchstabieren?",
+    "note": "Aussprache: danh steigend, van fallend · Bạn đánh vần tên được không? = Kannst du den Namen buchstabieren?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  }
+]

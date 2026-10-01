@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day32-sentences-01",
+    "front": "Tôi không khỏe.",
+    "back": "Mir geht es nicht gut.",
+    "kind": "sentence",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "note": "`không` steht vor dem Adjektiv und verneint es: nicht gesund / nicht gut.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day32-sentences-02",
+    "front": "Tôi cần gặp bác sĩ.",
+    "back": "Ich muss einen Arzt / eine Ärztin sehen.",
+    "kind": "sentence",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "note": "`cần` steht vor Verb oder Nomen: etwas brauchen oder etwas tun müssen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day28-vocab-01",
+    "front": "nhà vệ sinh",
+    "back": "Toilette; Bad",
+    "kind": "vocabulary",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "pronunciation": "nha fallend, we schwer, sin",
+    "example": "Nhà vệ sinh ở đâu? = Wo ist die Toilette?",
+    "note": "Aussprache: nha fallend, we schwer, sin · Nhà vệ sinh ở đâu? = Wo ist die Toilette?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day28-vocab-02",
+    "front": "bên trái",
+    "back": "links; linke Seite",
+    "kind": "vocabulary",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "pronunciation": "ben, trai steigend",
+    "example": "Rẽ bên trái. = Bieg links ab.",
+    "note": "Aussprache: ben, trai steigend · Rẽ bên trái. = Bieg links ab.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day28-vocab-03",
+    "front": "bên phải",
+    "back": "rechts; rechte Seite",
+    "kind": "vocabulary",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "pronunciation": "ben, phai fragend",
+    "example": "Rẽ bên phải. = Bieg rechts ab.",
+    "note": "Aussprache: ben, phai fragend · Rẽ bên phải. = Bieg rechts ab.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day28-vocab-04",
+    "front": "thẳng",
+    "back": "geradeaus; gerade",
+    "kind": "vocabulary",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "pronunciation": "thang fragend",
+    "example": "Đi thẳng. = Geh geradeaus.",
+    "note": "Aussprache: thang fragend · Đi thẳng. = Geh geradeaus.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day28-vocab-05",
+    "front": "rẽ",
+    "back": "abbiegen",
+    "kind": "vocabulary",
+    "introduced_day": 28,
+    "introduced_on": "2026-09-27",
+    "pronunciation": "ze fragend",
+    "example": "Rẽ ở đây. = Bieg hier ab.",
+    "note": "Aussprache: ze fragend · Rẽ ở đây. = Bieg hier ab.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
+    ]
+  }
+]

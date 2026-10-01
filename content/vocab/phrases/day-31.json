@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day31-sentences-01",
+    "front": "Bạn có thể nhắc lại được không?",
+    "back": "Kannst du das bitte wiederholen?",
+    "kind": "sentence",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "note": "`có thể` steht vor dem Verb und bedeutet \"können\"; `được không?` macht die Bitte höflich.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day31-sentences-02",
+    "front": "Bạn viết giúp tôi được không?",
+    "back": "Kannst du es bitte für mich aufschreiben?",
+    "kind": "sentence",
+    "introduced_day": 31,
+    "introduced_on": "2026-09-30",
+    "note": "`giúp tôi` nach dem Verb bedeutet \"für mich / mir helfen\".",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
+    ]
+  }
+]

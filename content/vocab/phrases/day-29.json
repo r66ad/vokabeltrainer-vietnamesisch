@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day29-sentences-01",
+    "front": "Tôi đang tìm khách sạn.",
+    "back": "Ich suche gerade das Hotel.",
+    "kind": "sentence",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "note": "`đang` steht vor dem Verb und markiert, dass die Handlung gerade läuft.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day29-sentences-02",
+    "front": "Bạn có thấy cửa không?",
+    "back": "Siehst du die Tür / den Eingang?",
+    "kind": "sentence",
+    "introduced_day": 29,
+    "introduced_on": "2026-09-28",
+    "note": "`có ... không?` bildet eine Ja/Nein-Frage; bei `thấy` klingt es natürlich für \"siehst/findest du ...?\".",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
+    ]
+  }
+]

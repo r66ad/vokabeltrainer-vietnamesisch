@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day32-vocab-01",
+    "front": "cảm thấy",
+    "back": "sich fühlen",
+    "kind": "vocabulary",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "pronunciation": "kam thay, beide fragend",
+    "example": "Tôi cảm thấy mệt. = Ich fühle mich müde.",
+    "note": "Aussprache: kam thay, beide fragend · Tôi cảm thấy mệt. = Ich fühle mich müde.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day32-vocab-02",
+    "front": "đau",
+    "back": "weh tun; Schmerz haben",
+    "kind": "vocabulary",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "pronunciation": "dau",
+    "example": "Tôi đau đầu. = Ich habe Kopfschmerzen.",
+    "note": "Aussprache: dau · Tôi đau đầu. = Ich habe Kopfschmerzen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day32-vocab-03",
+    "front": "bệnh",
+    "back": "krank; Krankheit",
+    "kind": "vocabulary",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "pronunciation": "benh schwer",
+    "example": "Tôi bị bệnh. = Ich bin krank.",
+    "note": "Aussprache: benh schwer · Tôi bị bệnh. = Ich bin krank.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day32-vocab-04",
+    "front": "thuốc",
+    "back": "Medizin; Medikament",
+    "kind": "vocabulary",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "pronunciation": "thuoc steigend",
+    "example": "Tôi cần thuốc. = Ich brauche Medizin.",
+    "note": "Aussprache: thuoc steigend · Tôi cần thuốc. = Ich brauche Medizin.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day32-vocab-05",
+    "front": "bác sĩ",
+    "back": "Arzt/Ärztin",
+    "kind": "vocabulary",
+    "introduced_day": 32,
+    "introduced_on": "2026-10-01",
+    "pronunciation": "bak steigend, si fragend",
+    "example": "Tôi cần gặp bác sĩ. = Ich muss einen Arzt / eine Ärztin sehen.",
+    "note": "Aussprache: bak steigend, si fragend · Tôi cần gặp bác sĩ. = Ich muss einen Arzt / eine Ärztin sehen.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
+    ]
+  }
+]

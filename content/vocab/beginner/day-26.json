@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vi-day26-vocab-01",
+    "front": "phòng",
+    "back": "Zimmer; Raum",
+    "kind": "vocabulary",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "pronunciation": "fong fallend",
+    "example": "Phòng này nhỏ. = Dieses Zimmer ist klein.",
+    "note": "Aussprache: fong fallend · Phòng này nhỏ. = Dieses Zimmer ist klein.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day26-vocab-02",
+    "front": "chìa khóa",
+    "back": "Schlüssel",
+    "kind": "vocabulary",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "pronunciation": "tschia fallend, khoa steigend",
+    "example": "Chìa khóa ở đâu? = Wo ist der Schlüssel?",
+    "note": "Aussprache: tschia fallend, khoa steigend · Chìa khóa ở đâu? = Wo ist der Schlüssel?",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day26-vocab-03",
+    "front": "đặt",
+    "back": "buchen; bestellen; legen",
+    "kind": "vocabulary",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "pronunciation": "dat schwer",
+    "example": "Tôi đặt phòng. = Ich buche ein Zimmer.",
+    "note": "Aussprache: dat schwer · Tôi đặt phòng. = Ich buche ein Zimmer.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day26-vocab-04",
+    "front": "hành lý",
+    "back": "Gepäck",
+    "kind": "vocabulary",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "pronunciation": "hanh fallend, li steigend",
+    "example": "Hành lý ở đây. = Das Gepäck ist hier.",
+    "note": "Aussprache: hanh fallend, li steigend · Hành lý ở đây. = Das Gepäck ist hier.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day26-vocab-05",
+    "front": "bản đồ",
+    "back": "Landkarte; Karte",
+    "kind": "vocabulary",
+    "introduced_day": 26,
+    "introduced_on": "2026-09-25",
+    "pronunciation": "ban fragend, do fallend",
+    "example": "Tôi cần bản đồ. = Ich brauche eine Karte.",
+    "note": "Aussprache: ban fragend, do fallend · Tôi cần bản đồ. = Ich brauche eine Karte.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
+    ]
+  }
+]

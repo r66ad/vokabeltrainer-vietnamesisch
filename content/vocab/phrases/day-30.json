@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vi-day30-sentences-01",
+    "front": "Tôi muốn hỏi một câu.",
+    "back": "Ich möchte eine Frage stellen.",
+    "kind": "sentence",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "note": "`muốn` steht vor dem Verb; `một câu` heißt wörtlich \"ein Satz/eine Frage\".",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day30-sentences-02",
+    "front": "Bạn trả lời giúp tôi được không?",
+    "back": "Kannst du mir bitte antworten?",
+    "kind": "sentence",
+    "introduced_day": 30,
+    "introduced_on": "2026-09-29",
+    "note": "`giúp tôi` macht die Handlung zu \"für mich / mir helfen\"; `được không?` macht die Bitte höflich.",
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
+    ]
+  }
+]
