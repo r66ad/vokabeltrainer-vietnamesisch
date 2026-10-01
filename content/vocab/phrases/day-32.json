@@ -9,7 +9,11 @@
     "note": "`không` steht vor dem Adjektiv und verneint es: nicht gesund / nicht gut.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/baa94b3430ccbc1fc9472e3f.mp3",
+      "de": "content/vocab/audio/clips/998fbb6636920d06f1c7e776.mp3"
+    }
   },
   {
     "id": "vi-day32-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`cần` steht vor Verb oder Nomen: etwas brauchen oder etwas tun müssen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/caadbb08448e331013528ef4.mp3",
+      "de": "content/vocab/audio/clips/cace9668b63374a513007204.mp3"
+    }
   }
 ]

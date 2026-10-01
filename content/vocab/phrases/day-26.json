@@ -9,7 +9,11 @@
     "note": "`đã` steht vor dem Verb und markiert eine abgeschlossene Handlung in der Vergangenheit.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/4381f9b1a10dd9fb12429825.mp3",
+      "de": "content/vocab/audio/clips/1419a953c2b0bfd906a0676d.mp3"
+    }
   },
   {
     "id": "vi-day26-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`có ... không?` bildet eine Ja/Nein-Frage mit \"haben/gibt es\".",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/ebdc5c28957280752a2f17ac.mp3",
+      "de": "content/vocab/audio/clips/1b55362371a2fc3d1fd3f1bd.mp3"
+    }
   }
 ]

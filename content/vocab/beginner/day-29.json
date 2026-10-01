@@ -11,7 +11,11 @@
     "note": "Aussprache: tim fallend · Tôi tìm khách sạn. = Ich suche das Hotel.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/641a6c4b90b9ee179f103ad6.mp3",
+      "de": "content/vocab/audio/clips/b585c3589b07069419c1f2bd.mp3"
+    }
   },
   {
     "id": "vi-day29-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: thay steigend · Tôi thấy nhà vệ sinh. = Ich sehe die Toilette.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/cd9ea49063231aeb4ad4ba77.mp3",
+      "de": "content/vocab/audio/clips/7fa9df19e6263ae46da8e7d3.mp3"
+    }
   },
   {
     "id": "vi-day29-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: kua fragend · Cửa ở đâu? = Wo ist die Tür / der Eingang?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/902cd8d9023d03e788cc6560.mp3",
+      "de": "content/vocab/audio/clips/78e2007bb16053fd371174d8.mp3"
+    }
   },
   {
     "id": "vi-day29-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: moe fragend · Mở cửa. = Öffne die Tür.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/6659ff9024dffa5dceee08e3.mp3",
+      "de": "content/vocab/audio/clips/d478689f193b6b1fee17a47d.mp3"
+    }
   },
   {
     "id": "vi-day29-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: dong steigend · Đóng cửa. = Schließ die Tür.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/6858256bef96a8b46e5b47df.mp3",
+      "de": "content/vocab/audio/clips/e7816a8f17c9b7785eb09f03.mp3"
+    }
   }
 ]

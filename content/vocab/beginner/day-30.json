@@ -11,7 +11,11 @@
     "note": "Aussprache: hoi fragend · Tôi muốn hỏi. = Ich möchte fragen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/97c32e696355e2fd6163fd7e.mp3",
+      "de": "content/vocab/audio/clips/efbd0fb0b42045b6e0b64cb7.mp3"
+    }
   },
   {
     "id": "vi-day30-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: tra fragend, loi fallend · Bạn trả lời giúp tôi được không? = Kannst du mir bitte antworten?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/aad7b3577eb5c593867ffab6.mp3",
+      "de": "content/vocab/audio/clips/4179a27c7e41a13e99b2cc69.mp3"
+    }
   },
   {
     "id": "vi-day30-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: kau · Một câu hỏi. = Eine Frage.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/4000d2c92da25af1464d8a54.mp3",
+      "de": "content/vocab/audio/clips/5cc013bf6b82e571e1daf54d.mp3"
+    }
   },
   {
     "id": "vi-day30-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: dung steigend · Đúng rồi. = Richtig / genau.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/bcff73829c746ab941f74605.mp3",
+      "de": "content/vocab/audio/clips/18dd8e4cb2a53164b0f3ec9c.mp3"
+    }
   },
   {
     "id": "vi-day30-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: sai · Tôi nói sai. = Ich sage es falsch.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/0e085512f5926e7a5e33d82d.mp3",
+      "de": "content/vocab/audio/clips/e035bc8c42f05f78505b21f6.mp3"
+    }
   }
 ]

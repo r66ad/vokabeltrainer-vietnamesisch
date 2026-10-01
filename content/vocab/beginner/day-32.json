@@ -11,7 +11,11 @@
     "note": "Aussprache: kam thay, beide fragend · Tôi cảm thấy mệt. = Ich fühle mich müde.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/5c404e74947a6059727664f7.mp3",
+      "de": "content/vocab/audio/clips/6bda92a27fdb3d705f54db0f.mp3"
+    }
   },
   {
     "id": "vi-day32-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: dau · Tôi đau đầu. = Ich habe Kopfschmerzen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/904692625caf818a5e7bfc19.mp3",
+      "de": "content/vocab/audio/clips/1a1d78ca00c8c21ba287ae47.mp3"
+    }
   },
   {
     "id": "vi-day32-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: benh schwer · Tôi bị bệnh. = Ich bin krank.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/826ebee370efb8de065b3e45.mp3",
+      "de": "content/vocab/audio/clips/4a6ac8134fb5a0819f8eb310.mp3"
+    }
   },
   {
     "id": "vi-day32-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: thuoc steigend · Tôi cần thuốc. = Ich brauche Medizin.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/8caeef14bce337c75f815801.mp3",
+      "de": "content/vocab/audio/clips/c7db957607124670335982e4.mp3"
+    }
   },
   {
     "id": "vi-day32-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: bak steigend, si fragend · Tôi cần gặp bác sĩ. = Ich muss einen Arzt / eine Ärztin sehen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-32-audio-2026-10-01.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/a0a2d4ec660c7f57b18654b0.mp3",
+      "de": "content/vocab/audio/clips/79316a7a72a0cbf09fbea320.mp3"
+    }
   }
 ]

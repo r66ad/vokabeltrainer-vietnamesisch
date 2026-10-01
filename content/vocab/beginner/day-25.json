@@ -11,7 +11,11 @@
     "note": "Aussprache: se buit · Tôi đi xe buýt. = Ich fahre mit dem Bus.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/478f03636b863ec14d5082d6.mp3",
+      "de": "content/vocab/audio/clips/d1d2efe4c18cac5d30c0f011.mp3"
+    }
   },
   {
     "id": "vi-day25-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: tau fallend · Tàu đến rồi. = Der Zug ist angekommen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/c11a2dedf78184694ee2e4dd.mp3",
+      "de": "content/vocab/audio/clips/abe2bfddc1507a88de372bd4.mp3"
+    }
   },
   {
     "id": "vi-day25-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: mai steigend bai · Tôi đi máy bay. = Ich nehme das Flugzeug.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/13ef0af10fe8ab1ca370ce63.mp3",
+      "de": "content/vocab/audio/clips/63f0983d3490b556c8f50306.mp3"
+    }
   },
   {
     "id": "vi-day25-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: san bai · Sân bay ở đâu? = Wo ist der Flughafen?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/7d17721c5d80ef6d5c1b9d52.mp3",
+      "de": "content/vocab/audio/clips/8d3f3a3e1fa57cf83d98e9eb.mp3"
+    }
   },
   {
     "id": "vi-day25-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: khach steigend, san schwer · Tôi ở khách sạn. = Ich bin im Hotel.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/2690236f689cc423e9302895.mp3",
+      "de": "content/vocab/audio/clips/a37caf4d094f5ef401d7a53d.mp3"
+    }
   }
 ]

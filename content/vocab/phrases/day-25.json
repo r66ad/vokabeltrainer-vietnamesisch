@@ -9,7 +9,11 @@
     "note": "`muốn` steht vor dem Verb; `đi xe buýt` heißt wörtlich etwa \"Bus gehen/fahren\".",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/f075f7964429af9ba381c2c7.mp3",
+      "de": "content/vocab/audio/clips/2a429cd9ce15ad31dcf4f475.mp3"
+    }
   },
   {
     "id": "vi-day25-sentences-02",
@@ -21,6 +25,10 @@
     "note": "Vietnamesische Nomen werden oft direkt kombiniert: `sân` = Hof/Feld, `bay` = fliegen, zusammen `sân bay` = Flughafen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-25-audio-2026-09-24.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/91db4f267be18646523846c4.mp3",
+      "de": "content/vocab/audio/clips/73c171d0ab3994546ce28ef1.mp3"
+    }
   }
 ]

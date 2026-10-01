@@ -11,7 +11,11 @@
     "note": "Aussprache: doc schwer · Tôi đọc tiếng Việt. = Ich lese Vietnamesisch.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/18e5c23081c1db0864c62999.mp3",
+      "de": "content/vocab/audio/clips/c0cc828fc32d0d653fb2aa47.mp3"
+    }
   },
   {
     "id": "vi-day31-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: viet steigend · Bạn viết tên tôi. = Du schreibst meinen Namen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/9e043f3a2feae99556ea66a8.mp3",
+      "de": "content/vocab/audio/clips/f9d5545a3e1daa0b590def63.mp3"
+    }
   },
   {
     "id": "vi-day31-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: nge mit ng-Anlaut · Tôi nghe bạn nói. = Ich höre dich sprechen.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/cc2a4f1783d58d6486d1704c.mp3",
+      "de": "content/vocab/audio/clips/1ff2803a9cc0132a3e9e5fc9.mp3"
+    }
   },
   {
     "id": "vi-day31-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: nhak steigend, lai schwer · Bạn nhắc lại được không? = Kannst du es wiederholen?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/2f601c1bc7993a1bffcc786b.mp3",
+      "de": "content/vocab/audio/clips/4a31bbc8460b486d5dd0b4b3.mp3"
+    }
   },
   {
     "id": "vi-day31-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: danh steigend, van fallend · Bạn đánh vần tên được không? = Kannst du den Namen buchstabieren?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/f87289cd984f045596a81d9e.mp3",
+      "de": "content/vocab/audio/clips/daa16a6b62de4969b25e522e.mp3"
+    }
   }
 ]

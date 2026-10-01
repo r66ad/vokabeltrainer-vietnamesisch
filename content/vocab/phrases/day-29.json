@@ -9,7 +9,11 @@
     "note": "`đang` steht vor dem Verb und markiert, dass die Handlung gerade läuft.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/cd0fc7d65bc71c0d1400ee26.mp3",
+      "de": "content/vocab/audio/clips/e0245839209b69d8be8ab05c.mp3"
+    }
   },
   {
     "id": "vi-day29-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`có ... không?` bildet eine Ja/Nein-Frage; bei `thấy` klingt es natürlich für \"siehst/findest du ...?\".",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-29-audio-2026-09-28.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/bd2657a17652461634d54120.mp3",
+      "de": "content/vocab/audio/clips/e1beb76733bc43f6b42685fc.mp3"
+    }
   }
 ]

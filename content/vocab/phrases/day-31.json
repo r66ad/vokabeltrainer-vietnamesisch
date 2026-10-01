@@ -9,7 +9,11 @@
     "note": "`có thể` steht vor dem Verb und bedeutet \"können\"; `được không?` macht die Bitte höflich.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/31904e930e41c1419d63a75c.mp3",
+      "de": "content/vocab/audio/clips/dd1a8f784e20cee81a16a7fe.mp3"
+    }
   },
   {
     "id": "vi-day31-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`giúp tôi` nach dem Verb bedeutet \"für mich / mir helfen\".",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-31-audio-2026-09-30.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/f8f277e0d982c9553c5293ad.mp3",
+      "de": "content/vocab/audio/clips/a46a215d8231694904f44f6f.mp3"
+    }
   }
 ]

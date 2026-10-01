@@ -11,7 +11,11 @@
     "note": "Aussprache: fong fallend · Phòng này nhỏ. = Dieses Zimmer ist klein.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/ec8084eef93ca5b8c352362f.mp3",
+      "de": "content/vocab/audio/clips/f4d65b3e9214191dc7c79767.mp3"
+    }
   },
   {
     "id": "vi-day26-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: tschia fallend, khoa steigend · Chìa khóa ở đâu? = Wo ist der Schlüssel?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/548c9e5f37bbde95ba1a1c7a.mp3",
+      "de": "content/vocab/audio/clips/4de7b2319e4e0434b3fa6c50.mp3"
+    }
   },
   {
     "id": "vi-day26-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: dat schwer · Tôi đặt phòng. = Ich buche ein Zimmer.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/2fd284ecc88323e21dde0458.mp3",
+      "de": "content/vocab/audio/clips/4d342541f2bc37bbe4ff76f7.mp3"
+    }
   },
   {
     "id": "vi-day26-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: hanh fallend, li steigend · Hành lý ở đây. = Das Gepäck ist hier.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/beaed0aa7129dd074541b49f.mp3",
+      "de": "content/vocab/audio/clips/686b0c28c9adc5aee06a85ac.mp3"
+    }
   },
   {
     "id": "vi-day26-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: ban fragend, do fallend · Tôi cần bản đồ. = Ich brauche eine Karte.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-26-audio-2026-09-25.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/ffa11c1b7c6fdfcd38dccbd2.mp3",
+      "de": "content/vocab/audio/clips/0a0b2b227ebd767808371cb8.mp3"
+    }
   }
 ]

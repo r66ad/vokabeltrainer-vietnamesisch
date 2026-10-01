@@ -9,7 +9,11 @@
     "note": "`muốn` steht vor dem Verb; `một câu` heißt wörtlich \"ein Satz/eine Frage\".",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/94077e1395a039ebe603a0e5.mp3",
+      "de": "content/vocab/audio/clips/c06c47e32a4fee2778a0530c.mp3"
+    }
   },
   {
     "id": "vi-day30-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`giúp tôi` macht die Handlung zu \"für mich / mir helfen\"; `được không?` macht die Bitte höflich.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-30-audio-2026-09-29.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/d72f1f68c1af758dc40a6a33.mp3",
+      "de": "content/vocab/audio/clips/965fe0f44ba1c391f8316371.mp3"
+    }
   }
 ]

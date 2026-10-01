@@ -9,7 +9,11 @@
     "note": "`ở đâu` steht oft am Satzende und fragt nach dem Ort.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/5ce674454cf8f796a80becc3.mp3",
+      "de": "content/vocab/audio/clips/4fbf2e1f43a6aba332c1d9da.mp3"
+    }
   },
   {
     "id": "vi-day28-sentences-02",
@@ -21,6 +25,10 @@
     "note": "`rồi` verbindet Schritte in Reihenfolge: erst das eine, dann das andere.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/c228a29ade5a491285b359fd.mp3",
+      "de": "content/vocab/audio/clips/5fd364d16fae9946b977e57e.mp3"
+    }
   }
 ]

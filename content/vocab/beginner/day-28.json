@@ -11,7 +11,11 @@
     "note": "Aussprache: nha fallend, we schwer, sin · Nhà vệ sinh ở đâu? = Wo ist die Toilette?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/ba3725881421ff3abaa80980.mp3",
+      "de": "content/vocab/audio/clips/31dfb86bdcb01bdcb730bd46.mp3"
+    }
   },
   {
     "id": "vi-day28-vocab-02",
@@ -25,7 +29,11 @@
     "note": "Aussprache: ben, trai steigend · Rẽ bên trái. = Bieg links ab.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/ce8d54c2f558d75751075639.mp3",
+      "de": "content/vocab/audio/clips/16462f79ad000460e213db5b.mp3"
+    }
   },
   {
     "id": "vi-day28-vocab-03",
@@ -39,7 +47,11 @@
     "note": "Aussprache: ben, phai fragend · Rẽ bên phải. = Bieg rechts ab.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/45b33f488a2cc9870009b6e8.mp3",
+      "de": "content/vocab/audio/clips/b5751f7b12e46d421a87135d.mp3"
+    }
   },
   {
     "id": "vi-day28-vocab-04",
@@ -53,7 +65,11 @@
     "note": "Aussprache: thang fragend · Đi thẳng. = Geh geradeaus.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/3b7b913c615a29daa859a945.mp3",
+      "de": "content/vocab/audio/clips/8972e4e0e5022ef64a507b4a.mp3"
+    }
   },
   {
     "id": "vi-day28-vocab-05",
@@ -67,6 +83,10 @@
     "note": "Aussprache: ze fragend · Rẽ ở đây. = Bieg hier ab.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-28-audio-2026-09-27.mp3"
-    ]
+    ],
+    "audio": {
+      "vi": "content/vocab/audio/clips/32e9102acf7d5db9c84c061f.mp3",
+      "de": "content/vocab/audio/clips/16b354947186fef529629cbf.mp3"
+    }
   }
 ]
