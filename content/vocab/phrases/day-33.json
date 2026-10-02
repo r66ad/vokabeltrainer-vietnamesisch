@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day33-sentences-01",
+    "front": "Tôi bị sốt và ho.",
+    "back": "Ich habe Fieber und Husten.",
+    "kind": "sentence",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "note": "`bị` steht oft vor Krankheiten oder unangenehmen Zuständen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/113afb2553b43a12cb054702.mp3",
+      "de": "content/vocab/audio/clips/a35357a823bb69bfc9fb1bcd.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day33-sentences-02",
+    "front": "Tôi đau bụng từ hôm qua.",
+    "back": "Ich habe seit gestern Bauchschmerzen.",
+    "kind": "sentence",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "note": "`đau` + Körperteil beschreibt Schmerzen; `từ hôm qua` heißt \"seit gestern\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/40014750e14fd082935ac000.mp3",
+      "de": "content/vocab/audio/clips/2a6a02b21338a54024cfc905.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  }
+]

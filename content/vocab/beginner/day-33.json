@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day33-vocab-01",
+    "front": "mệt",
+    "back": "müde; erschöpft",
+    "kind": "vocabulary",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "pronunciation": "met schwer",
+    "example": "Tôi mệt. = Ich bin müde.",
+    "note": "Aussprache: met schwer · Tôi mệt. = Ich bin müde.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b5426199d7d1c708c19a5279.mp3",
+      "de": "content/vocab/audio/clips/71d55c05439ef78671d41842.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day33-vocab-02",
+    "front": "sốt",
+    "back": "Fieber haben; Fieber",
+    "kind": "vocabulary",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "pronunciation": "sot steigend",
+    "example": "Tôi bị sốt. = Ich habe Fieber.",
+    "note": "Aussprache: sot steigend · Tôi bị sốt. = Ich habe Fieber.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/914acaa018f6adb2f3b74ac4.mp3",
+      "de": "content/vocab/audio/clips/f1030337dff7ef41578f9b74.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day33-vocab-03",
+    "front": "ho",
+    "back": "husten; Husten",
+    "kind": "vocabulary",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "pronunciation": "ho",
+    "example": "Tôi ho nhiều. = Ich huste viel.",
+    "note": "Aussprache: ho · Tôi ho nhiều. = Ich huste viel.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/17a4160406aa86cbcf36ab9a.mp3",
+      "de": "content/vocab/audio/clips/32aa42060a679de8e4e7d1a9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day33-vocab-04",
+    "front": "đầu",
+    "back": "Kopf",
+    "kind": "vocabulary",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "pronunciation": "dau fallend",
+    "example": "Tôi đau đầu. = Ich habe Kopfschmerzen.",
+    "note": "Aussprache: dau fallend · Tôi đau đầu. = Ich habe Kopfschmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8a7af1fc089c989b1addfa87.mp3",
+      "de": "content/vocab/audio/clips/75a9f8fdc933655ad03bcf53.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day33-vocab-05",
+    "front": "bụng",
+    "back": "Bauch",
+    "kind": "vocabulary",
+    "introduced_day": 33,
+    "introduced_on": "2026-10-02",
+    "pronunciation": "bung schwer",
+    "example": "Tôi đau bụng. = Ich habe Bauchschmerzen.",
+    "note": "Aussprache: bung schwer · Tôi đau bụng. = Ich habe Bauchschmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9033b57f6cefd658530621aa.mp3",
+      "de": "content/vocab/audio/clips/df0864d128ac5015064ffb56.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-33-audio-2026-10-02.mp3"
+    ]
+  }
+]
