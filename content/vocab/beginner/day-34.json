@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day34-vocab-01",
+    "front": "đau họng",
+    "back": "Halsschmerzen haben",
+    "kind": "vocabulary",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "pronunciation": "dau hong schwer",
+    "example": "Tôi đau họng. = Ich habe Halsschmerzen.",
+    "note": "Aussprache: dau hong schwer · Tôi đau họng. = Ich habe Halsschmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c07ec145fba164735b48207a.mp3",
+      "de": "content/vocab/audio/clips/dfffbfd9c02f2f28b355c1a8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day34-vocab-02",
+    "front": "sổ mũi",
+    "back": "eine laufende Nase haben",
+    "kind": "vocabulary",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "pronunciation": "so fragend, mui fragend",
+    "example": "Tôi bị sổ mũi. = Ich habe eine laufende Nase.",
+    "note": "Aussprache: so fragend, mui fragend · Tôi bị sổ mũi. = Ich habe eine laufende Nase.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/da6c1763eb13371664738e94.mp3",
+      "de": "content/vocab/audio/clips/021fb981b4c16f53b44c0f01.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day34-vocab-03",
+    "front": "dị ứng",
+    "back": "allergisch sein; Allergie",
+    "kind": "vocabulary",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "pronunciation": "zi schwer, ung steigend",
+    "example": "Tôi bị dị ứng. = Ich habe eine Allergie.",
+    "note": "Aussprache: zi schwer, ung steigend · Tôi bị dị ứng. = Ich habe eine Allergie.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5b322dee65db491429ca8626.mp3",
+      "de": "content/vocab/audio/clips/e871c83b727b69db22fcab64.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day34-vocab-04",
+    "front": "hiệu thuốc",
+    "back": "Apotheke",
+    "kind": "vocabulary",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "pronunciation": "hieu schwer, thuoc steigend",
+    "example": "Hiệu thuốc ở đâu? = Wo ist die Apotheke?",
+    "note": "Aussprache: hieu schwer, thuoc steigend · Hiệu thuốc ở đâu? = Wo ist die Apotheke?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d434fb34979ea330e9ee2358.mp3",
+      "de": "content/vocab/audio/clips/2a35886f2d9bd4a53e0563ce.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day34-vocab-05",
+    "front": "bảo hiểm",
+    "back": "Versicherung",
+    "kind": "vocabulary",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "pronunciation": "bao fragend, hiem fragend",
+    "example": "Tôi có bảo hiểm. = Ich habe eine Versicherung.",
+    "note": "Aussprache: bao fragend, hiem fragend · Tôi có bảo hiểm. = Ich habe eine Versicherung.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/a48dd5a5f34bb2530a1ee3ff.mp3",
+      "de": "content/vocab/audio/clips/78f7a9bbb617d5e630528840.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  }
+]

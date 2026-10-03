@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day34-sentences-01",
+    "front": "Tôi bị đau họng và sổ mũi.",
+    "back": "Ich habe Halsschmerzen und eine laufende Nase.",
+    "kind": "sentence",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "note": "`bị` steht vor unangenehmen Zuständen; mit `và` verbindest du zwei Beschwerden.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7bf278eeff4d2ba5c26a88de.mp3",
+      "de": "content/vocab/audio/clips/9b4b47497a30b86fe9c250ea.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day34-sentences-02",
+    "front": "Hiệu thuốc ở đâu?",
+    "back": "Wo ist die Apotheke?",
+    "kind": "sentence",
+    "introduced_day": 34,
+    "introduced_on": "2026-10-03",
+    "note": "`ở đâu` fragt nach dem Ort und steht meist am Satzende.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c86ab8d5c649d32d718ebf14.mp3",
+      "de": "content/vocab/audio/clips/61e4f681368c6f122353c418.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-34-audio-2026-10-03.mp3"
+    ]
+  }
+]
