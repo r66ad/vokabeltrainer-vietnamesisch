@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day35-vocab-01",
+    "front": "bệnh viện",
+    "back": "Krankenhaus",
+    "kind": "vocabulary",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "pronunciation": "benh schwer, vien schwer",
+    "example": "Bệnh viện ở đâu? = Wo ist das Krankenhaus?",
+    "note": "Aussprache: benh schwer, vien schwer · Bệnh viện ở đâu? = Wo ist das Krankenhaus?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/93382b2844b0bea2fc52e270.mp3",
+      "de": "content/vocab/audio/clips/366fb976e6d66150a6187e7f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day35-vocab-02",
+    "front": "cấp cứu",
+    "back": "Notfall; Erste Hilfe",
+    "kind": "vocabulary",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "pronunciation": "kap steigend, kuu steigend",
+    "example": "Tôi cần cấp cứu. = Ich brauche Notfallhilfe.",
+    "note": "Aussprache: kap steigend, kuu steigend · Tôi cần cấp cứu. = Ich brauche Notfallhilfe.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/670b3050793a0c3a8e5ca3f5.mp3",
+      "de": "content/vocab/audio/clips/d446f4845f6c4f9e5eb60fa6.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day35-vocab-03",
+    "front": "nha sĩ",
+    "back": "Zahnarzt/Zahnärztin",
+    "kind": "vocabulary",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "pronunciation": "nha, si fragend",
+    "example": "Tôi cần gặp nha sĩ. = Ich muss zum Zahnarzt / zur Zahnärztin.",
+    "note": "Aussprache: nha, si fragend · Tôi cần gặp nha sĩ. = Ich muss zum Zahnarzt / zur Zahnärztin.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/424e99cf367bd9a5abc4b63e.mp3",
+      "de": "content/vocab/audio/clips/09033e2bd47b06a3cd278baa.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day35-vocab-04",
+    "front": "đau răng",
+    "back": "Zahnschmerzen haben",
+    "kind": "vocabulary",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "pronunciation": "dau, zang",
+    "example": "Tôi đau răng. = Ich habe Zahnschmerzen.",
+    "note": "Aussprache: dau, zang · Tôi đau răng. = Ich habe Zahnschmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8a90f1a50e3fc46d7ba5161f.mp3",
+      "de": "content/vocab/audio/clips/00a6ae80540bf8d43f7f0b4a.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day35-vocab-05",
+    "front": "khám",
+    "back": "untersuchen; ärztlich untersuchen lassen",
+    "kind": "vocabulary",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "pronunciation": "kham steigend",
+    "example": "Tôi muốn khám bệnh. = Ich möchte mich untersuchen lassen.",
+    "note": "Aussprache: kham steigend · Tôi muốn khám bệnh. = Ich möchte mich untersuchen lassen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f0d43faeeb3b95ea3339ee54.mp3",
+      "de": "content/vocab/audio/clips/d4acbdf893ad9e259b43dddc.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  }
+]

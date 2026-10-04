@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day35-sentences-01",
+    "front": "Tôi cần đi bệnh viện.",
+    "back": "Ich muss ins Krankenhaus.",
+    "kind": "sentence",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "note": "`cần` steht vor einem Verb und bedeutet hier \"müssen\"; `đi bệnh viện` heißt wörtlich \"Krankenhaus gehen\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6ddfec2f4a7da092fccedabf.mp3",
+      "de": "content/vocab/audio/clips/44c41cbd096c5aca0de57550.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day35-sentences-02",
+    "front": "Tôi đau răng, tôi muốn gặp nha sĩ.",
+    "back": "Ich habe Zahnschmerzen und möchte zum Zahnarzt / zur Zahnärztin.",
+    "kind": "sentence",
+    "introduced_day": 35,
+    "introduced_on": "2026-10-04",
+    "note": "Zwei einfache Sätze können mit Komma verbunden werden; beide behalten ihr eigenes Subjekt `tôi`.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4ca561649449717376885e81.mp3",
+      "de": "content/vocab/audio/clips/68c783fa33c79a2bd1b67113.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-35-audio-2026-10-04.mp3"
+    ]
+  }
+]
