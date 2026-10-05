@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day36-sentences-01",
+    "front": "Tôi phải uống thuốc này mấy lần một ngày?",
+    "back": "Wie oft am Tag muss ich dieses Medikament einnehmen?",
+    "kind": "sentence",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "note": "`mấy lần` fragt nach \"wie viele Male\"; `một ngày` heißt hier \"pro Tag\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/067f4b9a75f61960ddf40cfd.mp3",
+      "de": "content/vocab/audio/clips/ee32ff4fc36bdd8297c61b6e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  },
+  {
+    "id": "vi-day36-sentences-02",
+    "front": "Thuốc này có tác dụng phụ không?",
+    "back": "Hat dieses Medikament Nebenwirkungen?",
+    "kind": "sentence",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "note": "`có ... không?` bildet eine Ja/Nein-Frage; das Nomen steht zwischen `có` und `không`.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f28ae0757db72ab83df2749e.mp3",
+      "de": "content/vocab/audio/clips/cee5682f6530ac84101d6882.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day36-vocab-01",
+    "front": "liều",
+    "back": "Dosis",
+    "kind": "vocabulary",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "pronunciation": "lieu fallend",
+    "example": "Tôi uống đúng liều. = Ich nehme die richtige Dosis.",
+    "note": "Aussprache: lieu fallend · Tôi uống đúng liều. = Ich nehme die richtige Dosis.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5cbb3d3c70f4f80094edc753.mp3",
+      "de": "content/vocab/audio/clips/ac4f29d755d73e3175a5f0c8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  },
+  {
+    "id": "vi-day36-vocab-02",
+    "front": "uống thuốc",
+    "back": "Medizin einnehmen",
+    "kind": "vocabulary",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "pronunciation": "uong steigend, thuoc steigend",
+    "example": "Tôi phải uống thuốc. = Ich muss Medizin einnehmen.",
+    "note": "Aussprache: uong steigend, thuoc steigend · Tôi phải uống thuốc. = Ich muss Medizin einnehmen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3fde3e44d158036ad60fccbb.mp3",
+      "de": "content/vocab/audio/clips/edebaab8e435efa2c48bcf77.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  },
+  {
+    "id": "vi-day36-vocab-03",
+    "front": "giảm",
+    "back": "verringern; lindern",
+    "kind": "vocabulary",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "pronunciation": "ziam fragend",
+    "example": "Thuốc này giảm đau. = Dieses Medikament lindert Schmerzen.",
+    "note": "Aussprache: ziam fragend · Thuốc này giảm đau. = Dieses Medikament lindert Schmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/eb9a73302ce4a9b3857584eb.mp3",
+      "de": "content/vocab/audio/clips/ac335b59a35c2a1c80e147e9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  },
+  {
+    "id": "vi-day36-vocab-04",
+    "front": "đơn thuốc",
+    "back": "Rezept",
+    "kind": "vocabulary",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "pronunciation": "don, thuoc steigend",
+    "example": "Tôi cần đơn thuốc. = Ich brauche ein Rezept.",
+    "note": "Aussprache: don, thuoc steigend · Tôi cần đơn thuốc. = Ich brauche ein Rezept.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7596ce395db162fb8c5eddb1.mp3",
+      "de": "content/vocab/audio/clips/b55b1c5305f92634f0e77dfa.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  },
+  {
+    "id": "vi-day36-vocab-05",
+    "front": "tác dụng phụ",
+    "back": "Nebenwirkung",
+    "kind": "vocabulary",
+    "introduced_day": 36,
+    "introduced_on": "2026-10-05",
+    "pronunciation": "tak steigend, zung schwer, fu schwer",
+    "example": "Thuốc này có tác dụng phụ không? = Hat dieses Medikament Nebenwirkungen?",
+    "note": "Aussprache: tak steigend, zung schwer, fu schwer · Thuốc này có tác dụng phụ không? = Hat dieses Medikament Nebenwirkungen?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/784e5cdd7c2346d9095915e6.mp3",
+      "de": "content/vocab/audio/clips/4c06bb7d2c29e6188073414b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-36-audio-2026-10-05.mp3"
+    ]
+  }
+]
