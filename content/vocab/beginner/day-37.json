@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day37-vocab-01",
+    "front": "xét nghiệm",
+    "back": "Test; medizinische Untersuchung",
+    "kind": "vocabulary",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "pronunciation": "set steigend, ngiem schwer",
+    "example": "Tôi cần xét nghiệm máu. = Ich brauche einen Bluttest.",
+    "note": "Aussprache: set steigend, ngiem schwer · Tôi cần xét nghiệm máu. = Ich brauche einen Bluttest.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/422ce7c81fef8adbc374cc99.mp3",
+      "de": "content/vocab/audio/clips/05b13d1e1c0534746fbb6361.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  },
+  {
+    "id": "vi-day37-vocab-02",
+    "front": "máu",
+    "back": "Blut",
+    "kind": "vocabulary",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "pronunciation": "mau steigend",
+    "example": "Xét nghiệm máu. = Bluttest.",
+    "note": "Aussprache: mau steigend · Xét nghiệm máu. = Bluttest.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/bf589c4a376d94b5e6f1abab.mp3",
+      "de": "content/vocab/audio/clips/54106e5890949c7de76e223c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  },
+  {
+    "id": "vi-day37-vocab-03",
+    "front": "huyết áp",
+    "back": "Blutdruck",
+    "kind": "vocabulary",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "pronunciation": "huyet steigend, ap steigend",
+    "example": "Huyết áp của tôi cao. = Mein Blutdruck ist hoch.",
+    "note": "Aussprache: huyet steigend, ap steigend · Huyết áp của tôi cao. = Mein Blutdruck ist hoch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0cdb6664c13386723116ab3d.mp3",
+      "de": "content/vocab/audio/clips/c9b28995ef2f0a9092286bd5.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  },
+  {
+    "id": "vi-day37-vocab-04",
+    "front": "khó thở",
+    "back": "Atemnot haben; schwer atmen",
+    "kind": "vocabulary",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "pronunciation": "kho steigend, tho fragend",
+    "example": "Tôi bị khó thở. = Ich habe Atemnot.",
+    "note": "Aussprache: kho steigend, tho fragend · Tôi bị khó thở. = Ich habe Atemnot.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b2b8aa5615c5107f2be87a9c.mp3",
+      "de": "content/vocab/audio/clips/4af31c45245bb2b90ccd11d4.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  },
+  {
+    "id": "vi-day37-vocab-05",
+    "front": "chóng mặt",
+    "back": "schwindelig sein",
+    "kind": "vocabulary",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "pronunciation": "tschong steigend, mat schwer",
+    "example": "Tôi chóng mặt. = Mir ist schwindelig.",
+    "note": "Aussprache: tschong steigend, mat schwer · Tôi chóng mặt. = Mir ist schwindelig.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c45a0718d0f7a86956ff44d2.mp3",
+      "de": "content/vocab/audio/clips/b7884cd560edf8b9ad59ad6d.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day37-sentences-01",
+    "front": "Tôi cần xét nghiệm máu.",
+    "back": "Ich brauche einen Bluttest.",
+    "kind": "sentence",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "note": "`cần` steht vor einem Nomen oder Verb und bedeutet \"brauchen\" oder \"müssen\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/105d70263a2b0b0557f73b35.mp3",
+      "de": "content/vocab/audio/clips/e33ee8926fa78faeaddc183f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  },
+  {
+    "id": "vi-day37-sentences-02",
+    "front": "Tôi bị khó thở và chóng mặt.",
+    "back": "Ich habe Atemnot und mir ist schwindelig.",
+    "kind": "sentence",
+    "introduced_day": 37,
+    "introduced_on": "2026-10-06",
+    "note": "`bị` markiert hier unangenehme Zustände; `và` verbindet zwei Beschwerden.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/549db062c533e4b2e1d562d5.mp3",
+      "de": "content/vocab/audio/clips/611cc7086ffa61a86ececd85.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-37-audio-2026-10-06.mp3"
+    ]
+  }
+]
