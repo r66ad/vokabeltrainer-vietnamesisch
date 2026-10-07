@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day38-vocab-01",
+    "front": "triệu chứng",
+    "back": "Symptom; Beschwerden",
+    "kind": "vocabulary",
+    "introduced_day": 38,
+    "introduced_on": "2026-10-07",
+    "pronunciation": "trieu schwer, chung steigend",
+    "example": "Tôi có triệu chứng này. = Ich habe dieses Symptom.",
+    "note": "Aussprache: trieu schwer, chung steigend · Tôi có triệu chứng này. = Ich habe dieses Symptom.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0818ef7df2c334ad216a06c5.mp3",
+      "de": "content/vocab/audio/clips/86924127def14bd505b88fde.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-38-audio-2026-10-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-day38-vocab-02",
+    "front": "nhẹ",
+    "back": "leicht; mild",
+    "kind": "vocabulary",
+    "introduced_day": 38,
+    "introduced_on": "2026-10-07",
+    "pronunciation": "nhe schwer",
+    "example": "Tôi bị nhẹ. = Bei mir ist es mild.",
+    "note": "Aussprache: nhe schwer · Tôi bị nhẹ. = Bei mir ist es mild.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1f3d6754e910e22826b1d5f6.mp3",
+      "de": "content/vocab/audio/clips/b6d8c7459323e19f7a3ae7e4.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-38-audio-2026-10-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-day38-vocab-03",
+    "front": "nặng",
+    "back": "schwer; ernst",
+    "kind": "vocabulary",
+    "introduced_day": 38,
+    "introduced_on": "2026-10-07",
+    "pronunciation": "nang schwer",
+    "example": "Bệnh này nặng không? = Ist diese Krankheit ernst?",
+    "note": "Aussprache: nang schwer · Bệnh này nặng không? = Ist diese Krankheit ernst?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e17b36ba09ff50d83bc50a29.mp3",
+      "de": "content/vocab/audio/clips/e1d7f7ff92b33986b4c9154c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-38-audio-2026-10-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-day38-vocab-04",
+    "front": "kiểm tra",
+    "back": "prüfen; untersuchen",
+    "kind": "vocabulary",
+    "introduced_day": 38,
+    "introduced_on": "2026-10-07",
+    "pronunciation": "kiem fragend, tra",
+    "example": "Bác sĩ kiểm tra huyết áp. = Der Arzt / die Ärztin prüft den Blutdruck.",
+    "note": "Aussprache: kiem fragend, tra · Bác sĩ kiểm tra huyết áp. = Der Arzt / die Ärztin prüft den Blutdruck.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/365f4994271c8daa37801d98.mp3",
+      "de": "content/vocab/audio/clips/303ffd308bd42eb0f37f8a9b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-38-audio-2026-10-07.mp3"
+    ]
+  },
+  {
+    "id": "vi-day38-vocab-05",
+    "front": "cuộc hẹn",
+    "back": "Termin; Verabredung",
+    "kind": "vocabulary",
+    "introduced_day": 38,
+    "introduced_on": "2026-10-07",
+    "pronunciation": "kuok schwer, hen schwer",
+    "example": "Tôi có cuộc hẹn với bác sĩ. = Ich habe einen Termin beim Arzt / bei der Ärztin.",
+    "note": "Aussprache: kuok schwer, hen schwer · Tôi có cuộc hẹn với bác sĩ. = Ich habe einen Termin beim Arzt / bei der Ärztin.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/007fc16a94b35941bd7894c1.mp3",
+      "de": "content/vocab/audio/clips/a8d5c08ea095d0110d6b544e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-38-audio-2026-10-07.mp3"
+    ]
+  }
+]
