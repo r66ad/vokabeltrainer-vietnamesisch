@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day39-vocab-01",
+    "front": "phòng khám",
+    "back": "Arztpraxis; Klinik",
+    "kind": "vocabulary",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "pronunciation": "fong fallend, kham steigend",
+    "example": "Phòng khám ở gần đây. = Die Arztpraxis ist in der Nähe.",
+    "note": "Aussprache: fong fallend, kham steigend · Phòng khám ở gần đây. = Die Arztpraxis ist in der Nähe.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e21598c70a054f175531614f.mp3",
+      "de": "content/vocab/audio/clips/e8c880b3f84c06f423edb79a.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-day39-vocab-02",
+    "front": "y tá",
+    "back": "Krankenpfleger/in; Pflegekraft",
+    "kind": "vocabulary",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "pronunciation": "i, ta steigend",
+    "example": "Y tá giúp tôi. = Die Pflegekraft hilft mir.",
+    "note": "Aussprache: i, ta steigend · Y tá giúp tôi. = Die Pflegekraft hilft mir.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/dfedda2473e48952241ee0ef.mp3",
+      "de": "content/vocab/audio/clips/9da0f112aad42797e91919b1.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-day39-vocab-03",
+    "front": "bảo hiểm y tế",
+    "back": "Krankenversicherung",
+    "kind": "vocabulary",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "pronunciation": "bao fragend, hiem fragend, i, te steigend",
+    "example": "Tôi có bảo hiểm y tế. = Ich habe eine Krankenversicherung.",
+    "note": "Aussprache: bao fragend, hiem fragend, i, te steigend · Tôi có bảo hiểm y tế. = Ich habe eine Krankenversicherung.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0e50915f48c1928442d102c3.mp3",
+      "de": "content/vocab/audio/clips/eda385bac87d0ea4862b5942.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-day39-vocab-04",
+    "front": "dị ứng thuốc",
+    "back": "Medikamentenallergie; gegen ein Medikament allergisch sein",
+    "kind": "vocabulary",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "pronunciation": "zi schwer, ung steigend, thuoc steigend",
+    "example": "Tôi bị dị ứng thuốc. = Ich bin gegen ein Medikament allergisch.",
+    "note": "Aussprache: zi schwer, ung steigend, thuoc steigend · Tôi bị dị ứng thuốc. = Ich bin gegen ein Medikament allergisch.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d6237d1f86b0374c4af98347.mp3",
+      "de": "content/vocab/audio/clips/fdcc5ce610e19a9a71ff07e7.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-day39-vocab-05",
+    "front": "đau lưng",
+    "back": "Rückenschmerzen haben",
+    "kind": "vocabulary",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "pronunciation": "dau, lung",
+    "example": "Tôi đau lưng. = Ich habe Rückenschmerzen.",
+    "note": "Aussprache: dau, lung · Tôi đau lưng. = Ich habe Rückenschmerzen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/aca9d26c89f813bcb6da1876.mp3",
+      "de": "content/vocab/audio/clips/19bf926a08d4fc9f96bbed20.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  }
+]

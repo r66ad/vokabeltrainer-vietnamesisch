@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day39-sentences-01",
+    "front": "Phòng khám ở gần đây không?",
+    "back": "Ist die Arztpraxis in der Nähe?",
+    "kind": "sentence",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "note": "`ở gần đây` heißt \"in der Nähe\"; `không` am Satzende macht daraus eine Ja/Nein-Frage.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1df21ff0e73cd4b6dd94f81a.mp3",
+      "de": "content/vocab/audio/clips/2fa04b3a732f4627d08a0581.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  },
+  {
+    "id": "vi-day39-sentences-02",
+    "front": "Tôi bị dị ứng thuốc này.",
+    "back": "Ich bin gegen dieses Medikament allergisch.",
+    "kind": "sentence",
+    "introduced_day": 39,
+    "introduced_on": "2026-10-08",
+    "note": "`bị` markiert hier einen unangenehmen Zustand; `thuốc này` bedeutet \"dieses Medikament\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c4b554c62e1cd34f601a8c28.mp3",
+      "de": "content/vocab/audio/clips/b9554199a7990ef0749fbcbd.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-39-audio-2026-10-08.mp3"
+    ]
+  }
+]
