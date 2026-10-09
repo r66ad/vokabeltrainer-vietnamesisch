@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day40-vocab-01",
+    "front": "đăng ký",
+    "back": "sich anmelden; registrieren",
+    "kind": "vocabulary",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "pronunciation": "dang ki steigend",
+    "example": "Tôi muốn đăng ký khám bệnh. = Ich möchte mich für eine Untersuchung anmelden.",
+    "note": "Aussprache: dang ki steigend · Tôi muốn đăng ký khám bệnh. = Ich möchte mich für eine Untersuchung anmelden.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/031010dd0d8612440990edfc.mp3",
+      "de": "content/vocab/audio/clips/ce0b756e604cb2fdef4aea46.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-day40-vocab-02",
+    "front": "đợi",
+    "back": "warten",
+    "kind": "vocabulary",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "pronunciation": "doi schwer",
+    "example": "Tôi đợi bác sĩ. = Ich warte auf den Arzt / die Ärztin.",
+    "note": "Aussprache: doi schwer · Tôi đợi bác sĩ. = Ich warte auf den Arzt / die Ärztin.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/15013d702cc3a8e2df559d5c.mp3",
+      "de": "content/vocab/audio/clips/17ad24dc7b4ade06dfef5ef1.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-day40-vocab-03",
+    "front": "gọi",
+    "back": "rufen; anrufen",
+    "kind": "vocabulary",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "pronunciation": "goi schwer",
+    "example": "Bạn gọi y tá giúp tôi được không? = Kannst du bitte die Pflegekraft rufen?",
+    "note": "Aussprache: goi schwer · Bạn gọi y tá giúp tôi được không? = Kannst du bitte die Pflegekraft rufen?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/06996805da4ddc2e159a7342.mp3",
+      "de": "content/vocab/audio/clips/fc98b581427d9e44906ccc78.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-day40-vocab-04",
+    "front": "số",
+    "back": "Nummer; Zahl",
+    "kind": "vocabulary",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "pronunciation": "so steigend",
+    "example": "Số của tôi là ba. = Meine Nummer ist drei.",
+    "note": "Aussprache: so steigend · Số của tôi là ba. = Meine Nummer ist drei.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b4bbbe042a27c08aa02c68b1.mp3",
+      "de": "content/vocab/audio/clips/3466216357813a4a26ce6637.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-day40-vocab-05",
+    "front": "tên",
+    "back": "Name",
+    "kind": "vocabulary",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "pronunciation": "ten",
+    "example": "Tên tôi là Richi. = Mein Name ist Richi.",
+    "note": "Aussprache: ten · Tên tôi là Richi. = Mein Name ist Richi.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4385b4beb38c9af3dbbefb4d.mp3",
+      "de": "content/vocab/audio/clips/f47c5ebc543c0629aec35eb3.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  }
+]

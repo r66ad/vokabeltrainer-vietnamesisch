@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day40-sentences-01",
+    "front": "Tôi muốn đăng ký khám bệnh.",
+    "back": "Ich möchte mich für eine Untersuchung anmelden.",
+    "kind": "sentence",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "note": "`muốn` steht vor dem Verb; `khám bệnh` heißt \"sich medizinisch untersuchen lassen\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/f7acf4b3a9ab1f15fecbf9a7.mp3",
+      "de": "content/vocab/audio/clips/178831461215417fa9291bb5.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  },
+  {
+    "id": "vi-day40-sentences-02",
+    "front": "Bạn gọi y tá giúp tôi được không?",
+    "back": "Kannst du bitte die Pflegekraft für mich rufen?",
+    "kind": "sentence",
+    "introduced_day": 40,
+    "introduced_on": "2026-10-09",
+    "note": "`giúp tôi` macht die Bitte zu \"für mich / mir helfen\"; `được không?` klingt höflich.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e6331bd603ef60017b842420.mp3",
+      "de": "content/vocab/audio/clips/95754de10213036416f9174a.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-40-audio-2026-10-09.mp3"
+    ]
+  }
+]
