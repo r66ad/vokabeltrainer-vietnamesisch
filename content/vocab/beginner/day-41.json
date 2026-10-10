@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day41-vocab-01",
+    "front": "giấy tờ",
+    "back": "Unterlagen; Dokumente",
+    "kind": "vocabulary",
+    "introduced_day": 41,
+    "introduced_on": "2026-10-10",
+    "pronunciation": "zai fragend, to fallend",
+    "example": "Tôi có giấy tờ. = Ich habe Unterlagen.",
+    "note": "Aussprache: zai fragend, to fallend · Tôi có giấy tờ. = Ich habe Unterlagen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/a3e7e68ab67b14ea8b694b6b.mp3",
+      "de": "content/vocab/audio/clips/1c41d751f27dc36e452e0f0a.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-41-audio-2026-10-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-day41-vocab-02",
+    "front": "hộ chiếu",
+    "back": "Reisepass",
+    "kind": "vocabulary",
+    "introduced_day": 41,
+    "introduced_on": "2026-10-10",
+    "pronunciation": "ho schwer, tschieu steigend",
+    "example": "Hộ chiếu của tôi ở đây. = Mein Reisepass ist hier.",
+    "note": "Aussprache: ho schwer, tschieu steigend · Hộ chiếu của tôi ở đây. = Mein Reisepass ist hier.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/45e1e8b479c50646f68699f9.mp3",
+      "de": "content/vocab/audio/clips/7eeb2f2fab2f33ae7f78b0ba.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-41-audio-2026-10-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-day41-vocab-03",
+    "front": "địa chỉ",
+    "back": "Adresse",
+    "kind": "vocabulary",
+    "introduced_day": 41,
+    "introduced_on": "2026-10-10",
+    "pronunciation": "dia schwer, tschi fragend",
+    "example": "Địa chỉ của bạn là gì? = Wie lautet deine Adresse?",
+    "note": "Aussprache: dia schwer, tschi fragend · Địa chỉ của bạn là gì? = Wie lautet deine Adresse?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9ef99ac599d4ec4cbe11f9aa.mp3",
+      "de": "content/vocab/audio/clips/ba15a6db98d38a813d209b2b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-41-audio-2026-10-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-day41-vocab-04",
+    "front": "mẫu",
+    "back": "Formular; Muster",
+    "kind": "vocabulary",
+    "introduced_day": 41,
+    "introduced_on": "2026-10-10",
+    "pronunciation": "mau fragend",
+    "example": "Tôi cần mẫu này. = Ich brauche dieses Formular.",
+    "note": "Aussprache: mau fragend · Tôi cần mẫu này. = Ich brauche dieses Formular.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/4be6f317ff4eb1744a46f9bb.mp3",
+      "de": "content/vocab/audio/clips/7ae952705e7375b0bbc83e88.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-41-audio-2026-10-10.mp3"
+    ]
+  },
+  {
+    "id": "vi-day41-vocab-05",
+    "front": "ký",
+    "back": "unterschreiben",
+    "kind": "vocabulary",
+    "introduced_day": 41,
+    "introduced_on": "2026-10-10",
+    "pronunciation": "ki steigend",
+    "example": "Tôi ký ở đâu? = Wo unterschreibe ich?",
+    "note": "Aussprache: ki steigend · Tôi ký ở đâu? = Wo unterschreibe ich?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/3e456288c8c72c05cc6d9e0c.mp3",
+      "de": "content/vocab/audio/clips/5ffe850cee8ca810d0ab389c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-41-audio-2026-10-10.mp3"
+    ]
+  }
+]
