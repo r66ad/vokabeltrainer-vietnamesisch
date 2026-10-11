@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day42-sentences-01",
+    "front": "Tôi cần nộp giấy tờ ở đâu?",
+    "back": "Wo muss ich die Unterlagen einreichen?",
+    "kind": "sentence",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "note": "`nộp` bedeutet \"einreichen/abgeben\"; `ở đâu` steht oft am Satzende und fragt nach dem Ort.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/10904377ab8784577dfb3e57.mp3",
+      "de": "content/vocab/audio/clips/ecb8ee222bcdbbfc91f11bcc.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-day42-sentences-02",
+    "front": "Lệ phí là bao nhiêu?",
+    "back": "Wie hoch ist die Gebühr?",
+    "kind": "sentence",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "note": "`bao nhiêu` fragt nach Menge oder Preis; mit `lệ phí` fragst du nach der Gebühr.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c4744418da5634c83bd8eb20.mp3",
+      "de": "content/vocab/audio/clips/10d22b8437192143cff22ef6.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  }
+]

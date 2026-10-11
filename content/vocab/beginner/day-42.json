@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day42-vocab-01",
+    "front": "lệ phí",
+    "back": "Gebühr",
+    "kind": "vocabulary",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "pronunciation": "le schwer, fi steigend",
+    "example": "Lệ phí là bao nhiêu? = Wie hoch ist die Gebühr?",
+    "note": "Aussprache: le schwer, fi steigend · Lệ phí là bao nhiêu? = Wie hoch ist die Gebühr?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/e6fdc71f26664b49a3090b94.mp3",
+      "de": "content/vocab/audio/clips/4db7b9403d5ae7477dd3b107.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-day42-vocab-02",
+    "front": "biên lai",
+    "back": "Quittung; Beleg",
+    "kind": "vocabulary",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "pronunciation": "bien, lai",
+    "example": "Tôi cần biên lai. = Ich brauche eine Quittung.",
+    "note": "Aussprache: bien, lai · Tôi cần biên lai. = Ich brauche eine Quittung.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/7143b754cdb304b18d61d8c7.mp3",
+      "de": "content/vocab/audio/clips/4e5a6379960deb54c5defedf.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-day42-vocab-03",
+    "front": "bản sao",
+    "back": "Kopie",
+    "kind": "vocabulary",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "pronunciation": "ban fragend, sao",
+    "example": "Tôi có bản sao hộ chiếu. = Ich habe eine Kopie des Reisepasses.",
+    "note": "Aussprache: ban fragend, sao · Tôi có bản sao hộ chiếu. = Ich habe eine Kopie des Reisepasses.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8faabdc05a9cca87dc06d417.mp3",
+      "de": "content/vocab/audio/clips/d251cb39eb65178959455f20.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-day42-vocab-04",
+    "front": "ảnh thẻ",
+    "back": "Passfoto; Ausweisfoto",
+    "kind": "vocabulary",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "pronunciation": "anh fragend, the fragend",
+    "example": "Tôi cần ảnh thẻ. = Ich brauche ein Passfoto.",
+    "note": "Aussprache: anh fragend, the fragend · Tôi cần ảnh thẻ. = Ich brauche ein Passfoto.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/a558cc2911327800df9576b8.mp3",
+      "de": "content/vocab/audio/clips/b4105320596a2a0099f0e927.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  },
+  {
+    "id": "vi-day42-vocab-05",
+    "front": "nộp",
+    "back": "einreichen; abgeben",
+    "kind": "vocabulary",
+    "introduced_day": 42,
+    "introduced_on": "2026-10-11",
+    "pronunciation": "nop schwer",
+    "example": "Tôi nộp giấy tờ ở đâu? = Wo reiche ich die Unterlagen ein?",
+    "note": "Aussprache: nop schwer · Tôi nộp giấy tờ ở đâu? = Wo reiche ich die Unterlagen ein?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/053faf95a6643cb1efee64f4.mp3",
+      "de": "content/vocab/audio/clips/3d93f13ba9e08139a38bd57b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-42-audio-2026-10-11.mp3"
+    ]
+  }
+]
