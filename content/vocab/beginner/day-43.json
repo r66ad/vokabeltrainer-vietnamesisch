@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day43-vocab-01",
+    "front": "thị thực",
+    "back": "Visum",
+    "kind": "vocabulary",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "pronunciation": "thi schwer, thuc schwer",
+    "example": "Tôi cần thị thực. = Ich brauche ein Visum.",
+    "note": "Aussprache: thi schwer, thuc schwer · Tôi cần thị thực. = Ich brauche ein Visum.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c163bade4ae116de40255969.mp3",
+      "de": "content/vocab/audio/clips/a077f6b3d34b9ffba1a9e72e.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-day43-vocab-02",
+    "front": "giấy phép cư trú",
+    "back": "Aufenthaltserlaubnis",
+    "kind": "vocabulary",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "pronunciation": "zai fragend, fep steigend, ku tru steigend",
+    "example": "Giấy phép cư trú của tôi còn hiệu lực. = Meine Aufenthaltserlaubnis ist noch gültig.",
+    "note": "Aussprache: zai fragend, fep steigend, ku tru steigend · Giấy phép cư trú của tôi còn hiệu lực. = Meine Aufenthaltserlaubnis ist noch gültig.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d97bcdc28c41abc44dd67440.mp3",
+      "de": "content/vocab/audio/clips/2faf5e5c394e83de0487fa89.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-day43-vocab-03",
+    "front": "hết hạn",
+    "back": "ablaufen; abgelaufen sein",
+    "kind": "vocabulary",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "pronunciation": "het steigend, han schwer",
+    "example": "Thị thực của tôi hết hạn ngày mai. = Mein Visum läuft morgen ab.",
+    "note": "Aussprache: het steigend, han schwer · Thị thực của tôi hết hạn ngày mai. = Mein Visum läuft morgen ab.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/307cc14ffb6ce41d10ddc94e.mp3",
+      "de": "content/vocab/audio/clips/d9a467c38318cda376912e37.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-day43-vocab-04",
+    "front": "gia hạn",
+    "back": "verlängern",
+    "kind": "vocabulary",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "pronunciation": "za han schwer",
+    "example": "Tôi muốn gia hạn thị thực. = Ich möchte das Visum verlängern.",
+    "note": "Aussprache: za han schwer · Tôi muốn gia hạn thị thực. = Ich möchte das Visum verlängern.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/236ef926d2a37487ca70a336.mp3",
+      "de": "content/vocab/audio/clips/2845ae1d6d0d985d94b13b37.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-day43-vocab-05",
+    "front": "hợp lệ",
+    "back": "gültig; rechtmäßig",
+    "kind": "vocabulary",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "pronunciation": "hop schwer, le schwer",
+    "example": "Hộ chiếu này hợp lệ không? = Ist dieser Reisepass gültig?",
+    "note": "Aussprache: hop schwer, le schwer · Hộ chiếu này hợp lệ không? = Ist dieser Reisepass gültig?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/d6a0d90c3ec0a1156eee08ee.mp3",
+      "de": "content/vocab/audio/clips/51876f6bc24bf441f2c9fba8.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  }
+]

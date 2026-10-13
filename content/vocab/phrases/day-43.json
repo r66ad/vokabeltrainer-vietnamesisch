@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day43-sentences-01",
+    "front": "Tôi muốn gia hạn thị thực.",
+    "back": "Ich möchte das Visum verlängern.",
+    "kind": "sentence",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "note": "`muốn` steht vor dem Verb; `gia hạn` bedeutet \"verlängern\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/b77f3f9d9557aad1caffd690.mp3",
+      "de": "content/vocab/audio/clips/7d394313d54a4b58cca7e657.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  },
+  {
+    "id": "vi-day43-sentences-02",
+    "front": "Giấy phép cư trú của tôi hết hạn khi nào?",
+    "back": "Wann läuft meine Aufenthaltserlaubnis ab?",
+    "kind": "sentence",
+    "introduced_day": 43,
+    "introduced_on": "2026-10-13",
+    "note": "`của tôi` steht nach dem Nomen für \"mein/meine\"; `khi nào` fragt nach dem Zeitpunkt.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/39793bd818a1f8bb032bfa08.mp3",
+      "de": "content/vocab/audio/clips/b05c03505e68352c7ee479ed.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-43-audio-2026-10-13.mp3"
+    ]
+  }
+]
