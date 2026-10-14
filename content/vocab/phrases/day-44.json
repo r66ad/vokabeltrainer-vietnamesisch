@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day44-sentences-01",
+    "front": "Tôi cần nộp hồ sơ ở đại sứ quán.",
+    "back": "Ich muss die Unterlagen bei der Botschaft einreichen.",
+    "kind": "sentence",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "note": "`ở` kann bei Orten auch \"bei/in/an\" bedeuten; `nộp hồ sơ` heißt \"Unterlagen einreichen\".",
+    "audio": {
+      "vi": "content/vocab/audio/clips/1e4eb2ea2f4bdf355ad24d44.mp3",
+      "de": "content/vocab/audio/clips/389d3e3d0da8de5022a2d03f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day44-sentences-02",
+    "front": "Bạn có thể chứng minh địa chỉ được không?",
+    "back": "Können Sie die Adresse nachweisen?",
+    "kind": "sentence",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "note": "`có thể ... được không?` ist eine höfliche Möglichkeitsfrage; das Verb steht in der Mitte.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8317b7a441e60d3ad3317915.mp3",
+      "de": "content/vocab/audio/clips/accba51369cb0c41fc4de2e7.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day44-vocab-01",
+    "front": "đại sứ quán",
+    "back": "Botschaft",
+    "kind": "vocabulary",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "pronunciation": "dai schwer, su steigend, kwan steigend",
+    "example": "Đại sứ quán ở đâu? = Wo ist die Botschaft?",
+    "note": "Aussprache: dai schwer, su steigend, kwan steigend · Đại sứ quán ở đâu? = Wo ist die Botschaft?",
+    "audio": {
+      "vi": "content/vocab/audio/clips/5a1b26db82e8262a1884ff19.mp3",
+      "de": "content/vocab/audio/clips/f2097aecbd87e28ddc49e148.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day44-vocab-02",
+    "front": "lãnh sự quán",
+    "back": "Konsulat",
+    "kind": "vocabulary",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "pronunciation": "lanh fragend, su schwer, kwan steigend",
+    "example": "Tôi cần đến lãnh sự quán. = Ich muss zum Konsulat gehen.",
+    "note": "Aussprache: lanh fragend, su schwer, kwan steigend · Tôi cần đến lãnh sự quán. = Ich muss zum Konsulat gehen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8a859beef9f657f9704fb6f7.mp3",
+      "de": "content/vocab/audio/clips/23de59acf1a1ca200a7e7e29.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day44-vocab-03",
+    "front": "hồ sơ",
+    "back": "Akte; Unterlagen; Antrag",
+    "kind": "vocabulary",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "pronunciation": "ho fallend, so",
+    "example": "Tôi nộp hồ sơ hôm nay. = Ich reiche die Unterlagen heute ein.",
+    "note": "Aussprache: ho fallend, so · Tôi nộp hồ sơ hôm nay. = Ich reiche die Unterlagen heute ein.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/36b418fca9d07fdf26acbbc5.mp3",
+      "de": "content/vocab/audio/clips/15f8fcb0afa42a69a86257c5.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day44-vocab-04",
+    "front": "phỏng vấn",
+    "back": "Interview; Gespräch",
+    "kind": "vocabulary",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "pronunciation": "fong fragend, van steigend",
+    "example": "Tôi có phỏng vấn ngày mai. = Ich habe morgen ein Interview.",
+    "note": "Aussprache: fong fragend, van steigend · Tôi có phỏng vấn ngày mai. = Ich habe morgen ein Interview.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/832b797a4ec57a05b3989a14.mp3",
+      "de": "content/vocab/audio/clips/b13d136b1458db554f153717.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  },
+  {
+    "id": "vi-day44-vocab-05",
+    "front": "chứng minh",
+    "back": "nachweisen; beweisen",
+    "kind": "vocabulary",
+    "introduced_day": 44,
+    "introduced_on": "2026-10-14",
+    "pronunciation": "chung steigend, minh",
+    "example": "Tôi cần chứng minh địa chỉ. = Ich muss die Adresse nachweisen.",
+    "note": "Aussprache: chung steigend, minh · Tôi cần chứng minh địa chỉ. = Ich muss die Adresse nachweisen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/0911844affa1ccce15105483.mp3",
+      "de": "content/vocab/audio/clips/9ca9314100ba25b4b965160b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-44-audio-2026-10-14.mp3"
+    ]
+  }
+]
