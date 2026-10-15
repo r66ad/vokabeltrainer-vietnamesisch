@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo_id": "local/vokabeltrainer",
   "device_id": null,
-  "updated_at": "2026-10-02T07:06:35.384Z",
+  "updated_at": "2026-10-15T06:25:57.017Z",
   "items": {
     "vocab-hello": {
       "state": "learned",
@@ -241,29 +241,29 @@
     "vi-day02-vocab-05": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:54:30.744Z",
-      "next_review_at": "2026-09-23T22:04:30.744Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-06T08:14:30.055Z",
+      "next_review_at": "2026-10-06T08:24:30.055Z"
     },
     "vi-day03-vocab-01": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:55:40.208Z",
-      "next_review_at": "2026-09-23T22:05:40.208Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:23:19.558Z",
+      "next_review_at": "2026-10-15T06:33:19.558Z"
     },
     "vi-day03-vocab-02": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:55:46.290Z",
-      "next_review_at": "2026-09-23T22:05:46.290Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:23:51.741Z",
+      "next_review_at": "2026-10-15T06:33:51.741Z"
     },
     "vi-day03-vocab-03": {
       "state": "learned",
@@ -277,83 +277,83 @@
     "vi-day03-vocab-04": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:56:10.649Z",
-      "next_review_at": "2026-09-23T22:06:10.649Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:23:56.639Z",
+      "next_review_at": "2026-10-15T06:33:56.639Z"
     },
     "vi-day03-vocab-05": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:56:46.941Z",
-      "next_review_at": "2026-09-23T22:06:46.941Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:24:17.527Z",
+      "next_review_at": "2026-10-15T06:34:17.527Z"
     },
     "vi-day04-vocab-01": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:57:02.674Z",
-      "next_review_at": "2026-09-23T22:07:02.674Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:24:32.635Z",
+      "next_review_at": "2026-10-15T06:34:32.635Z"
     },
     "vi-day04-vocab-02": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:57:22.440Z",
-      "next_review_at": "2026-09-23T22:07:22.440Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:24:41.856Z",
+      "next_review_at": "2026-10-15T06:34:41.856Z"
     },
     "vi-day04-vocab-03": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:57:27.262Z",
-      "next_review_at": "2026-09-23T22:07:27.262Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:24:48.523Z",
+      "next_review_at": "2026-10-15T06:34:48.523Z"
     },
     "vi-day04-vocab-04": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:57:53.546Z",
-      "next_review_at": "2026-09-23T22:07:53.546Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:24:59.711Z",
+      "next_review_at": "2026-10-15T06:34:59.711Z"
     },
     "vi-day04-vocab-05": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:57:58.905Z",
-      "next_review_at": "2026-09-23T22:07:58.905Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:25:37.874Z",
+      "next_review_at": "2026-10-15T06:35:37.874Z"
     },
     "vi-day05-vocab-01": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:58:06.911Z",
-      "next_review_at": "2026-09-23T22:08:06.911Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:25:40.902Z",
+      "next_review_at": "2026-10-15T06:35:40.902Z"
     },
     "vi-day05-vocab-02": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-09-23T21:58:13.780Z",
-      "next_review_at": "2026-09-23T22:08:13.780Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-15T06:25:57.017Z",
+      "next_review_at": "2026-10-15T06:35:57.017Z"
     },
     "vi-day05-vocab-03": {
       "state": "learning",
@@ -574,29 +574,146 @@
     "vi-day33-vocab-01": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-10-02T07:06:15.478Z",
-      "next_review_at": "2026-10-02T07:16:15.478Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-03T08:47:48.711Z",
+      "next_review_at": "2026-10-03T08:57:48.711Z"
     },
     "vi-day33-vocab-02": {
       "state": "learning",
       "step": 0,
-      "review_count": 1,
+      "review_count": 2,
       "correct_count": 0,
-      "wrong_count": 1,
-      "last_reviewed_at": "2026-10-02T07:06:29.810Z",
-      "next_review_at": "2026-10-02T07:16:29.810Z"
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-03T08:48:48.077Z",
+      "next_review_at": "2026-10-03T08:58:48.077Z"
     },
     "vi-day33-vocab-03": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
+      "last_reviewed_at": "2026-10-03T08:48:56.896Z",
+      "next_review_at": "2026-10-03T08:58:56.896Z"
+    },
+    "vi-day34-vocab-01": {
       "state": "learning",
       "step": 0,
       "review_count": 1,
       "correct_count": 0,
       "wrong_count": 1,
-      "last_reviewed_at": "2026-10-02T07:06:35.384Z",
-      "next_review_at": "2026-10-02T07:16:35.384Z"
+      "last_reviewed_at": "2026-10-03T07:22:52.928Z",
+      "next_review_at": "2026-10-03T07:32:52.928Z"
+    },
+    "vi-day34-vocab-02": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T07:22:59.959Z",
+      "next_review_at": "2026-10-03T07:32:59.959Z"
+    },
+    "vi-day34-vocab-03": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T07:23:07.135Z",
+      "next_review_at": "2026-10-03T07:33:07.135Z"
+    },
+    "vi-day34-vocab-04": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T07:23:18.726Z",
+      "next_review_at": "2026-10-03T07:33:18.726Z"
+    },
+    "vi-day34-vocab-05": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T07:23:24.277Z",
+      "next_review_at": "2026-10-03T07:33:24.277Z"
+    },
+    "vi-day33-vocab-04": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T08:49:41.003Z",
+      "next_review_at": "2026-10-03T08:59:41.003Z"
+    },
+    "vi-day33-vocab-05": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-03T08:50:05.326Z",
+      "next_review_at": "2026-10-03T09:00:05.326Z"
+    },
+    "vi-day37-vocab-01": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-06T08:13:09.640Z",
+      "next_review_at": "2026-10-06T08:23:09.640Z"
+    },
+    "vi-day37-vocab-02": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-06T08:13:17.723Z",
+      "next_review_at": "2026-10-06T08:23:17.723Z"
+    },
+    "vi-day37-vocab-03": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-06T08:13:35.107Z",
+      "next_review_at": "2026-10-06T08:23:35.107Z"
+    },
+    "vi-day37-vocab-04": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-06T08:13:50.389Z",
+      "next_review_at": "2026-10-06T08:23:50.389Z"
+    },
+    "vi-day37-vocab-05": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-06T08:14:07.836Z",
+      "next_review_at": "2026-10-06T08:24:07.836Z"
+    },
+    "vi-day42-vocab-01": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-10-11T07:04:30.201Z",
+      "next_review_at": "2026-10-11T07:14:30.201Z"
     }
   }
 }
