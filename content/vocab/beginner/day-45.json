@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vi-day45-vocab-01",
+    "front": "ngủ",
+    "back": "schlafen",
+    "kind": "vocabulary",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "pronunciation": "ngu, fragend; ng wie in singen",
+    "example": "Tôi muốn ngủ. = Ich möchte schlafen.",
+    "note": "Aussprache: ngu, fragend; ng wie in singen · Tôi muốn ngủ. = Ich möchte schlafen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/8799556ad38510480a41acfb.mp3",
+      "de": "content/vocab/audio/clips/4d3086881e628e9a89252c5f.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day45-vocab-02",
+    "front": "dậy",
+    "back": "aufstehen; aufwachen",
+    "kind": "vocabulary",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "pronunciation": "sai, kurz und tief; s stimmhaft",
+    "example": "Tôi dậy lúc sáu giờ. = Ich stehe um sechs Uhr auf.",
+    "note": "Aussprache: sai, kurz und tief; s stimmhaft · Tôi dậy lúc sáu giờ. = Ich stehe um sechs Uhr auf.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/c1342108205d7bb2483c45cc.mp3",
+      "de": "content/vocab/audio/clips/2f04f0642411b2e37b5c9e96.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day45-vocab-03",
+    "front": "tắm",
+    "back": "duschen; baden",
+    "kind": "vocabulary",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "pronunciation": "tam, kurzes a, steigend",
+    "example": "Tôi tắm mỗi ngày. = Ich dusche jeden Tag.",
+    "note": "Aussprache: tam, kurzes a, steigend · Tôi tắm mỗi ngày. = Ich dusche jeden Tag.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/da431329d5b30f508ba8b4fa.mp3",
+      "de": "content/vocab/audio/clips/44cc09940b9a60fee5e6bea9.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day45-vocab-04",
+    "front": "rửa",
+    "back": "waschen",
+    "kind": "vocabulary",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "pronunciation": "sua, fragend; s stimmhaft, u ungerundet",
+    "example": "Tôi rửa tay. = Ich wasche mir die Hände.",
+    "note": "Aussprache: sua, fragend; s stimmhaft, u ungerundet · Tôi rửa tay. = Ich wasche mir die Hände.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/9fc92ac394971bb2781454e5.mp3",
+      "de": "content/vocab/audio/clips/530d6673e92b137051f65d22.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day45-vocab-05",
+    "front": "nghỉ ngơi",
+    "back": "sich ausruhen",
+    "kind": "vocabulary",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "pronunciation": "ngi fragend, ngoi eben; ng wie in singen",
+    "example": "Tôi cần nghỉ ngơi. = Ich muss mich ausruhen.",
+    "note": "Aussprache: ngi fragend, ngoi eben; ng wie in singen · Tôi cần nghỉ ngơi. = Ich muss mich ausruhen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/edfa5e65ccce6f4e1bb6547e.mp3",
+      "de": "content/vocab/audio/clips/83282f18e8f376004373295b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  }
+]

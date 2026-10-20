@@ -1,0 +1,287 @@
+{
+  "day": 45,
+  "date": "2026-10-20",
+  "pause_seconds": 0.5,
+  "provider": "macos-say",
+  "fallback_reason": "OpenClaw Microsoft test requests for both voices failed with HTTP 403; OpenAI test failed: not configured.",
+  "segments": [
+    {
+      "index": 1,
+      "language": "de",
+      "text": "schlafen",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-4462b908892682efb3506897.mp3"
+    },
+    {
+      "index": 2,
+      "language": "vi",
+      "text": "ngủ",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-c715f734998be0f35f9bbdf0.mp3"
+    },
+    {
+      "index": 3,
+      "language": "de",
+      "text": "Ich möchte schlafen.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-920f490216b98e05cb36a97e.mp3"
+    },
+    {
+      "index": 4,
+      "language": "vi",
+      "text": "Tôi muốn ngủ.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-d3f7b6a4999ec6f4dd4678fe.mp3"
+    },
+    {
+      "index": 5,
+      "language": "de",
+      "text": "aufstehen; aufwachen",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-72487184d5bfe9631be38146.mp3"
+    },
+    {
+      "index": 6,
+      "language": "vi",
+      "text": "dậy",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-8ce67232589aee09f28e83c6.mp3"
+    },
+    {
+      "index": 7,
+      "language": "de",
+      "text": "Ich stehe um sechs Uhr auf.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-f2d140132ce257990e5b2a3d.mp3"
+    },
+    {
+      "index": 8,
+      "language": "vi",
+      "text": "Tôi dậy lúc sáu giờ.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-db5af91d7b0ecf12da5ee7eb.mp3"
+    },
+    {
+      "index": 9,
+      "language": "de",
+      "text": "duschen; baden",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-8bd20091c2826acbe1e56bee.mp3"
+    },
+    {
+      "index": 10,
+      "language": "vi",
+      "text": "tắm",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-92849f0982b83c88b64615cf.mp3"
+    },
+    {
+      "index": 11,
+      "language": "de",
+      "text": "Ich dusche jeden Tag.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-ce578474e5e4e53878e15799.mp3"
+    },
+    {
+      "index": 12,
+      "language": "vi",
+      "text": "Tôi tắm mỗi ngày.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-261b97e32707e5c65eb4bcca.mp3"
+    },
+    {
+      "index": 13,
+      "language": "de",
+      "text": "waschen",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-cc9c548d79c463f6a6499a77.mp3"
+    },
+    {
+      "index": 14,
+      "language": "vi",
+      "text": "rửa",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-ceac719c0f6c75449fc55d03.mp3"
+    },
+    {
+      "index": 15,
+      "language": "de",
+      "text": "Ich wasche mir die Hände.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-451d1a894d1002a2f2498ef6.mp3"
+    },
+    {
+      "index": 16,
+      "language": "vi",
+      "text": "Tôi rửa tay.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-0ce7dffea81b781477103e12.mp3"
+    },
+    {
+      "index": 17,
+      "language": "de",
+      "text": "sich ausruhen",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-bd355170e27f8f4c7e48b27e.mp3"
+    },
+    {
+      "index": 18,
+      "language": "vi",
+      "text": "nghỉ ngơi",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-73162f93c1d050ab322decf3.mp3"
+    },
+    {
+      "index": 19,
+      "language": "de",
+      "text": "Ich muss mich ausruhen.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-f53f9f51e8a520af3e58c7ee.mp3"
+    },
+    {
+      "index": 20,
+      "language": "vi",
+      "text": "Tôi cần nghỉ ngơi.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-31fcc765eb1dfa99a9027725.mp3"
+    },
+    {
+      "index": 21,
+      "language": "de",
+      "text": "Heute Morgen stehe ich um sechs Uhr auf und dusche danach.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-6083ef29a6b3a403e45ed9b5.mp3"
+    },
+    {
+      "index": 22,
+      "language": "vi",
+      "text": "Sáng nay tôi dậy lúc sáu giờ rồi tắm.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-35f6a18237b8e0a3c5316aa3.mp3"
+    },
+    {
+      "index": 23,
+      "language": "de",
+      "text": "Ich möchte mich ausruhen und dann schlafen gehen.",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/de-macos-0344d97ae466358cf2710840.mp3"
+    },
+    {
+      "index": 24,
+      "language": "vi",
+      "text": "Tôi muốn nghỉ ngơi rồi đi ngủ.",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "cache": "/Users/richi/.openclaw/.openclaw/workspace-vietnam/learning/audio/tts-cache/vi-macos-c9a089caa28b8bbe7bef31c6.mp3"
+    }
+  ],
+  "card_clips": [
+    {
+      "file": "content/vocab/audio/clips/4d3086881e628e9a89252c5f.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "schlafen"
+    },
+    {
+      "file": "content/vocab/audio/clips/8799556ad38510480a41acfb.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "ngủ"
+    },
+    {
+      "file": "content/vocab/audio/clips/2f04f0642411b2e37b5c9e96.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "aufstehen; aufwachen"
+    },
+    {
+      "file": "content/vocab/audio/clips/c1342108205d7bb2483c45cc.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "dậy"
+    },
+    {
+      "file": "content/vocab/audio/clips/44cc09940b9a60fee5e6bea9.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "duschen; baden"
+    },
+    {
+      "file": "content/vocab/audio/clips/da431329d5b30f508ba8b4fa.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "tắm"
+    },
+    {
+      "file": "content/vocab/audio/clips/530d6673e92b137051f65d22.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "waschen"
+    },
+    {
+      "file": "content/vocab/audio/clips/9fc92ac394971bb2781454e5.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "rửa"
+    },
+    {
+      "file": "content/vocab/audio/clips/83282f18e8f376004373295b.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "sich ausruhen"
+    },
+    {
+      "file": "content/vocab/audio/clips/edfa5e65ccce6f4e1bb6547e.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "nghỉ ngơi"
+    },
+    {
+      "file": "content/vocab/audio/clips/20f0a751d85636193b4cd59b.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "Heute Morgen stehe ich um sechs Uhr auf und dusche danach."
+    },
+    {
+      "file": "content/vocab/audio/clips/53a745ee8c414d44549ada14.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "Sáng nay tôi dậy lúc sáu giờ rồi tắm."
+    },
+    {
+      "file": "content/vocab/audio/clips/3416232de57b1f4dc0ec553c.mp3",
+      "provider": "macos-say",
+      "voice": "Anna",
+      "text": "Ich möchte mich ausruhen und dann schlafen gehen."
+    },
+    {
+      "file": "content/vocab/audio/clips/6429e4677cad8619cc3503aa.mp3",
+      "provider": "macos-say",
+      "voice": "Linh",
+      "text": "Tôi muốn nghỉ ngơi rồi đi ngủ."
+    }
+  ]
+}

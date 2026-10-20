@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vi-day45-sentences-01",
+    "front": "Sáng nay tôi dậy lúc sáu giờ rồi tắm.",
+    "back": "Heute Morgen stehe ich um sechs Uhr auf und dusche danach.",
+    "kind": "sentence",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "note": "`lúc` steht vor der Uhrzeit; `rồi` verbindet aufeinanderfolgende Handlungen: und dann.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/53a745ee8c414d44549ada14.mp3",
+      "de": "content/vocab/audio/clips/20f0a751d85636193b4cd59b.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  },
+  {
+    "id": "vi-day45-sentences-02",
+    "front": "Tôi muốn nghỉ ngơi rồi đi ngủ.",
+    "back": "Ich möchte mich ausruhen und dann schlafen gehen.",
+    "kind": "sentence",
+    "introduced_day": 45,
+    "introduced_on": "2026-10-20",
+    "note": "`muốn` steht vor dem Verb; `đi ngủ` bedeutet schlafen gehen.",
+    "audio": {
+      "vi": "content/vocab/audio/clips/6429e4677cad8619cc3503aa.mp3",
+      "de": "content/vocab/audio/clips/3416232de57b1f4dc0ec553c.mp3"
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-45-audio-2026-10-20.mp3"
+    ]
+  }
+]
