@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day47-sentences-01",
+    "front": "Tôi muốn mua một cái áo màu đỏ.",
+    "back": "Ich möchte ein rotes Oberteil kaufen.",
+    "kind": "sentence",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-12d1e7914ef6c932f28696e8.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-cf84315b896b63b425f0d3b4.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte ein rotes Oberteil kaufen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn mua một cái áo màu đỏ.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "note": "Die Farbangabe steht nach dem Nomen: `áo màu đỏ` = rotes Oberteil."
+  },
+  {
+    "id": "vi-day47-sentences-02",
+    "front": "Bạn có mũ màu đen không?",
+    "back": "Haben Sie einen schwarzen Hut?",
+    "kind": "sentence",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-20e6979580631f7d9e356e89.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-e0d2290adfff90333c33a312.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Haben Sie einen schwarzen Hut?",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Bạn có mũ màu đen không?",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "note": "`có` + Objekt + `không?` fragt, ob jemand etwas hat."
+  }
+]

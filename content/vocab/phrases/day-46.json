@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day46-sentences-01",
+    "front": "Hôm nay tôi mặc áo này.",
+    "back": "Heute trage ich dieses Oberteil.",
+    "kind": "sentence",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6bcc382665c7dfac8fdc650c.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-d82b786980e91a2b66ef3530.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Heute trage ich dieses Oberteil.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Hôm nay tôi mặc áo này.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "note": "`mặc` steht vor Kleidung; `này` steht nach dem Nomen: `áo này` = dieses Oberteil."
+  },
+  {
+    "id": "vi-day46-sentences-02",
+    "front": "Tôi muốn mua một đôi giày.",
+    "back": "Ich möchte ein Paar Schuhe kaufen.",
+    "kind": "sentence",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-952b467877d3b5db9251ff37.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-91cea1af7e3f6a8551ee50d4.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte ein Paar Schuhe kaufen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn mua một đôi giày.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "note": "`một đôi` bedeutet ein Paar; `một đôi giày` = ein Paar Schuhe."
+  }
+]

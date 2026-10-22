@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day46-vocab-01",
+    "front": "áo",
+    "back": "Oberteil; Hemd",
+    "kind": "vocabulary",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6842478e0a68d4a52a0def7b.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-799a7690b516c038e5211c1a.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Oberteil; Hemd",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "áo",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "pronunciation": "ao, steigend",
+    "example": "Áo này đẹp. = Dieses Oberteil ist schön.",
+    "note": "Aussprache: ao, steigend · Áo này đẹp. = Dieses Oberteil ist schön."
+  },
+  {
+    "id": "vi-day46-vocab-02",
+    "front": "quần",
+    "back": "Hose",
+    "kind": "vocabulary",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-15993b12cd63b8a186bc8301.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-fedf80aca22e26836d1b1672.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Hose",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "quần",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "pronunciation": "kuan, kurzes a, fallend",
+    "example": "Tôi mua quần. = Ich kaufe eine Hose.",
+    "note": "Aussprache: kuan, kurzes a, fallend · Tôi mua quần. = Ich kaufe eine Hose."
+  },
+  {
+    "id": "vi-day46-vocab-03",
+    "front": "mặc",
+    "back": "anziehen; tragen (Kleidung)",
+    "kind": "vocabulary",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-75b5c501d01da1566202eed1.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-c4a089055add5cc58981a36b.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "anziehen; tragen (Kleidung)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "mặc",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "pronunciation": "mak, kurzes a, tief und knapp; k nicht lösen",
+    "example": "Tôi mặc áo này. = Ich trage dieses Oberteil.",
+    "note": "Aussprache: mak, kurzes a, tief und knapp; k nicht lösen · Tôi mặc áo này. = Ich trage dieses Oberteil."
+  },
+  {
+    "id": "vi-day46-vocab-04",
+    "front": "giày",
+    "back": "Schuhe; Schuh",
+    "kind": "vocabulary",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d3b07946c6e570e421839452.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2e5aedfd4a2c86f4dbe32eea.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Schuhe; Schuh",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "giày",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "pronunciation": "sai, fallend; s stimmhaft",
+    "example": "Giày này đẹp. = Diese Schuhe sind schön.",
+    "note": "Aussprache: sai, fallend; s stimmhaft · Giày này đẹp. = Diese Schuhe sind schön."
+  },
+  {
+    "id": "vi-day46-vocab-05",
+    "front": "mũ",
+    "back": "Hut; Mütze",
+    "kind": "vocabulary",
+    "introduced_day": 46,
+    "introduced_on": "2026-10-21",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6f83bffd1287484ff4fe45c9.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-5d8f8fb33f4a5086c76e2773.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Hut; Mütze",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "mũ",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-46-audio-2026-10-21.mp3"
+    ],
+    "pronunciation": "mu, gebrochen steigend",
+    "example": "Tôi có một cái mũ. = Ich habe einen Hut.",
+    "note": "Aussprache: mu, gebrochen steigend · Tôi có một cái mũ. = Ich habe einen Hut."
+  }
+]

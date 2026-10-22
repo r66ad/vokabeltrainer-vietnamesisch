@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day47-vocab-01",
+    "front": "màu",
+    "back": "Farbe",
+    "kind": "vocabulary",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-fc2a65ea96bc3fce168dd836.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-5129386586de1f5b873f2e64.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Farbe",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "màu",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "pronunciation": "mau, fallend",
+    "example": "Tôi thích màu này. = Ich mag diese Farbe.",
+    "note": "Aussprache: mau, fallend · Tôi thích màu này. = Ich mag diese Farbe."
+  },
+  {
+    "id": "vi-day47-vocab-02",
+    "front": "đỏ",
+    "back": "rot",
+    "kind": "vocabulary",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ee223c3115db03fcd330c0c2.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-4fd286425508d59a183d74eb.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "rot",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đỏ",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "pronunciation": "do, fragend",
+    "example": "Áo này màu đỏ. = Dieses Oberteil ist rot.",
+    "note": "Aussprache: do, fragend · Áo này màu đỏ. = Dieses Oberteil ist rot."
+  },
+  {
+    "id": "vi-day47-vocab-03",
+    "front": "đen",
+    "back": "schwarz",
+    "kind": "vocabulary",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-fb1cf9f76bac152c52ad4540.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-7217ac029c4de224b8e56fd5.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "schwarz",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đen",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "pronunciation": "den, eben",
+    "example": "Quần này màu đen. = Diese Hose ist schwarz.",
+    "note": "Aussprache: den, eben · Quần này màu đen. = Diese Hose ist schwarz."
+  },
+  {
+    "id": "vi-day47-vocab-04",
+    "front": "trắng",
+    "back": "weiß",
+    "kind": "vocabulary",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3572686fd491eb5a5f4b75ff.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-96010d3d6043d13040805725.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "weiß",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "trắng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "pronunciation": "tschang, kurzes a, steigend",
+    "example": "Giày này màu trắng. = Diese Schuhe sind weiß.",
+    "note": "Aussprache: tschang, kurzes a, steigend · Giày này màu trắng. = Diese Schuhe sind weiß."
+  },
+  {
+    "id": "vi-day47-vocab-05",
+    "front": "xanh",
+    "back": "blau; grün (je nach Kontext)",
+    "kind": "vocabulary",
+    "introduced_day": 47,
+    "introduced_on": "2026-10-22",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-8dcfc2399a013a21a8d488bf.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-9625c1131aee5e19dec453eb.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "blau; grün (je nach Kontext)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "xanh",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-47-audio-2026-10-22.mp3"
+    ],
+    "pronunciation": "sanh, eben",
+    "example": "Tôi thích màu xanh. = Ich mag Blau oder Grün.",
+    "note": "Aussprache: sanh, eben · Tôi thích màu xanh. = Ich mag Blau oder Grün."
+  }
+]
