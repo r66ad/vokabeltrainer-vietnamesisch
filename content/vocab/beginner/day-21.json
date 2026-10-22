@@ -28,11 +28,23 @@
     "example": "Bố tôi uống cà phê. = Mein Vater trinkt Kaffee.",
     "note": "Aussprache: bo steigend · Bố tôi uống cà phê. = Mein Vater trinkt Kaffee.",
     "audio": {
-      "vi": "content/vocab/audio/clips/1535d36797a430918f5a189e.mp3"
+      "vi": "content/vocab/audio/clips/1535d36797a430918f5a189e.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0ce4a649ef5f17765c474947.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Vater; Papa",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day21-vocab-03",
@@ -45,11 +57,23 @@
     "example": "Mẹ tôi nấu ăn. = Meine Mutter kocht.",
     "note": "Aussprache: me schwer · Mẹ tôi nấu ăn. = Meine Mutter kocht.",
     "audio": {
-      "vi": "content/vocab/audio/clips/fcc12bf03eac0723774e04f6.mp3"
+      "vi": "content/vocab/audio/clips/fcc12bf03eac0723774e04f6.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-bf7431539dbc81f65e081211.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Mutter; Mama",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day21-vocab-04",
@@ -62,11 +86,23 @@
     "example": "Anh tôi học tiếng Việt. = Mein älterer Bruder lernt Vietnamesisch.",
     "note": "Aussprache: anh · Anh tôi học tiếng Việt. = Mein älterer Bruder lernt Vietnamesisch.",
     "audio": {
-      "vi": "content/vocab/audio/clips/91630726886cb62cd0d23687.mp3"
+      "vi": "content/vocab/audio/clips/91630726886cb62cd0d23687.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-e1588c3e1b549e0ba9724762.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "älterer Bruder; ich/du je nach Rolle",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day21-vocab-05",
@@ -79,10 +115,22 @@
     "example": "Chị tôi sống ở thành phố. = Meine ältere Schwester wohnt in der Stadt.",
     "note": "Aussprache: chi schwer · Chị tôi sống ở thành phố. = Meine ältere Schwester wohnt in der Stadt.",
     "audio": {
-      "vi": "content/vocab/audio/clips/1f1515df0f74ef4e9bd7792e.mp3"
+      "vi": "content/vocab/audio/clips/1f1515df0f74ef4e9bd7792e.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-13c2d889854d075309e45aa1.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-21-audio-2026-09-20.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "ältere Schwester; ich/du je nach Rolle",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

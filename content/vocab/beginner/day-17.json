@@ -46,11 +46,23 @@
     "example": "Sáng nay tôi học. = Heute Morgen lerne ich.",
     "note": "Aussprache: sang steigend · Sáng nay tôi học. = Heute Morgen lerne ich.",
     "audio": {
-      "vi": "content/vocab/audio/clips/c01fb5b4c821c791f2e2d8d1.mp3"
+      "vi": "content/vocab/audio/clips/c01fb5b4c821c791f2e2d8d1.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-e8f6736bb824eb1d675df05f.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Morgen; Vormittag",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day17-vocab-04",
@@ -81,10 +93,22 @@
     "example": "Tối nay bạn làm gì? = Was machst du heute Abend?",
     "note": "Aussprache: toi steigend · Tối nay bạn làm gì? = Was machst du heute Abend?",
     "audio": {
-      "vi": "content/vocab/audio/clips/d5ee29a9c4402a655e9f4ecb.mp3"
+      "vi": "content/vocab/audio/clips/d5ee29a9c4402a655e9f4ecb.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-07c21d3b5ec991cf2e551525.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-17-audio-2026-09-16.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Abend; dunkel",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

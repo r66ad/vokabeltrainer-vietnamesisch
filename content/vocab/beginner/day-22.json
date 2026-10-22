@@ -10,11 +10,23 @@
     "example": "Em tôi học tiếng Việt. = Mein jüngeres Geschwister lernt Vietnamesisch.",
     "note": "Aussprache: em · Em tôi học tiếng Việt. = Mein jüngeres Geschwister lernt Vietnamesisch.",
     "audio": {
-      "vi": "content/vocab/audio/clips/2ac0c256389f7fae259f8e70.mp3"
+      "vi": "content/vocab/audio/clips/2ac0c256389f7fae259f8e70.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-859a3abe4841f4e6d0c37434.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-22-audio-2026-09-21.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "jüngeres Geschwister; ich/du je nach Rolle",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day22-vocab-02",

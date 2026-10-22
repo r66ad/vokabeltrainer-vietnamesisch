@@ -8,11 +8,23 @@
     "introduced_on": "2026-09-19",
     "note": "Für Wetter nutzt man oft `trời` als Subjekt: trời nóng = es ist heiß.",
     "audio": {
-      "vi": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3"
+      "vi": "content/vocab/audio/clips/370ffbe5ecbd71d9ff669d68.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-e5cfcf3e9b267aa489422239.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Heute ist es heiß.",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day20-sentences-02",
@@ -23,10 +35,22 @@
     "introduced_on": "2026-09-19",
     "note": "`hơi` steht vor einem Adjektiv und schwächt es ab: etwas/ein bisschen.",
     "audio": {
-      "vi": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3"
+      "vi": "content/vocab/audio/clips/1e75c7987938d00d30f5ce62.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-598ec7e2acef8f462bcb9022.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich bin ein bisschen müde.",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

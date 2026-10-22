@@ -46,11 +46,23 @@
     "example": "Bạn mang nước được không? = Kannst du Wasser mitbringen?",
     "note": "Aussprache: mang · Bạn mang nước được không? = Kannst du Wasser mitbringen?",
     "audio": {
-      "vi": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3"
+      "vi": "content/vocab/audio/clips/812b295e1ff4eff392f88c08.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-a519899980e61626394845a7.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/2026-09-22-tag-23.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "bringen; tragen; mitbringen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day23-vocab-04",

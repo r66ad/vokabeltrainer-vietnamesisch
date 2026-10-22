@@ -10,11 +10,23 @@
     "example": "Tôi vào nhà. = Ich gehe ins Haus.",
     "note": "Aussprache: vao fallend · Tôi vào nhà. = Ich gehe ins Haus.",
     "audio": {
-      "vi": "content/vocab/audio/clips/c46468ff5ae153fdea948cc3.mp3"
+      "vi": "content/vocab/audio/clips/c46468ff5ae153fdea948cc3.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-e51d070c5cee0cea3e6bf2d2.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "hineingehen; in",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day18-vocab-02",
@@ -27,11 +39,23 @@
     "example": "Tôi ra ngoài. = Ich gehe nach draußen.",
     "note": "Aussprache: ra · Tôi ra ngoài. = Ich gehe nach draußen.",
     "audio": {
-      "vi": "content/vocab/audio/clips/5f2367f311e1dcb2c982e13e.mp3"
+      "vi": "content/vocab/audio/clips/5f2367f311e1dcb2c982e13e.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-8659d4305793c640b6e252a9.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "hinausgehen; heraus",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day18-vocab-03",
@@ -44,11 +68,23 @@
     "example": "Tôi lên xe. = Ich steige ins Fahrzeug.",
     "note": "Aussprache: len steigend · Tôi lên xe. = Ich steige ins Fahrzeug.",
     "audio": {
-      "vi": "content/vocab/audio/clips/91a891c9e413c8d6577fcd7d.mp3"
+      "vi": "content/vocab/audio/clips/91a891c9e413c8d6577fcd7d.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-4311285f31f57ad32644895d.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "hinaufgehen; hoch",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day18-vocab-04",
@@ -61,11 +97,23 @@
     "example": "Bạn xuống xe. = Du steigst aus dem Fahrzeug aus.",
     "note": "Aussprache: xuong steigend · Bạn xuống xe. = Du steigst aus dem Fahrzeug aus.",
     "audio": {
-      "vi": "content/vocab/audio/clips/6c085334d8c0dab854b980f8.mp3"
+      "vi": "content/vocab/audio/clips/6c085334d8c0dab854b980f8.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-dbb94f9001bf7a3d2b17eeec.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "hinuntergehen; runter",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day18-vocab-05",
@@ -78,10 +126,22 @@
     "example": "Tôi về nhà bây giờ. = Ich gehe jetzt nach Hause.",
     "note": "Aussprache: ve fallend · Tôi về nhà bây giờ. = Ich gehe jetzt nach Hause.",
     "audio": {
-      "vi": "content/vocab/audio/clips/7f6da36441a27b14aa74d44b.mp3"
+      "vi": "content/vocab/audio/clips/7f6da36441a27b14aa74d44b.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d6b24682eff6b08bc71f39ef.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-18-audio-2026-09-17.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "zurückgehen; nach Hause gehen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

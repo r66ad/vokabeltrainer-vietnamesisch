@@ -8,11 +8,23 @@
     "introduced_on": "2026-09-23",
     "note": "Vietnamesische Nomen werden oft direkt kombiniert: `trạm xe buýt` = Bus-Haltestelle.",
     "audio": {
-      "vi": "content/vocab/audio/clips/40c9a73d4db2284922cfaa28.mp3"
+      "vi": "content/vocab/audio/clips/40c9a73d4db2284922cfaa28.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-a5b149a23d171cf7d4c82fc0.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Wo ist die Bushaltestelle?",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day24-sentences-02",
@@ -23,10 +35,22 @@
     "introduced_on": "2026-09-23",
     "note": "`muốn` steht vor dem Verb; danach folgt das Objekt: möchten + kaufen + Ticket.",
     "audio": {
-      "vi": "content/vocab/audio/clips/d258d8ab6ac2bc482e33c9b3.mp3"
+      "vi": "content/vocab/audio/clips/d258d8ab6ac2bc482e33c9b3.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-29d9543d5e616c4264dd2dd3.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-24-audio-2026-09-23.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte ein Ticket kaufen.",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

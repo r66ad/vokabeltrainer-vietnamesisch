@@ -10,12 +10,24 @@
     "example": "Bây giờ là mấy giờ? = Wie spät ist es jetzt?",
     "note": "Aussprache: zo · Bây giờ là mấy giờ? = Wie spät ist es jetzt?",
     "audio": {
-      "vi": "content/vocab/audio/clips/d3b21b66487e4f93dd27c8ac.mp3"
+      "vi": "content/vocab/audio/clips/d3b21b66487e4f93dd27c8ac.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-fc9a13fe366f4df57bd581b9.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-16-audio-2026-09-15-complete.mp3",
       "content/vocab/audio/lessons/tag-16-audio-2026-09-15.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Stunde; Uhrzeit",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day16-vocab-02",

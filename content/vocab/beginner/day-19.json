@@ -10,11 +10,23 @@
     "example": "Tôi ngồi ở đây. = Ich sitze hier.",
     "note": "Aussprache: ngoi fallend · Tôi ngồi ở đây. = Ich sitze hier.",
     "audio": {
-      "vi": "content/vocab/audio/clips/3b3d1ac5d2c24a07518dc405.mp3"
+      "vi": "content/vocab/audio/clips/3b3d1ac5d2c24a07518dc405.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3cd8918f112dd305ec4c8dbe.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "sitzen; sich setzen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day19-vocab-02",
@@ -27,11 +39,23 @@
     "example": "Bạn đứng ở đó. = Du stehst dort.",
     "note": "Aussprache: dung steigend · Bạn đứng ở đó. = Du stehst dort.",
     "audio": {
-      "vi": "content/vocab/audio/clips/27b601b390bfe6ab13c15870.mp3"
+      "vi": "content/vocab/audio/clips/27b601b390bfe6ab13c15870.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-22348f95d55cb7d169ce2de7.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "stehen; aufstehen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day19-vocab-03",
@@ -62,11 +86,23 @@
     "example": "Tôi gặp bạn hôm nay. = Ich treffe dich heute.",
     "note": "Aussprache: gap schwer · Tôi gặp bạn hôm nay. = Ich treffe dich heute.",
     "audio": {
-      "vi": "content/vocab/audio/clips/3de8d10018348fe5e75512dd.mp3"
+      "vi": "content/vocab/audio/clips/3de8d10018348fe5e75512dd.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1cc9df5ae73172706cbff60d.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "treffen; begegnen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day19-vocab-05",
@@ -79,10 +115,22 @@
     "example": "Hẹn gặp lại. = Bis bald / Auf Wiedersehen.",
     "note": "Aussprache: hen schwer · Hẹn gặp lại. = Bis bald / Auf Wiedersehen.",
     "audio": {
-      "vi": "content/vocab/audio/clips/7945ed51b177024e7781ad9d.mp3"
+      "vi": "content/vocab/audio/clips/7945ed51b177024e7781ad9d.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-a8e2139741f1ce51bedaf263.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "verabreden; Termin",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

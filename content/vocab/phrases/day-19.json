@@ -8,11 +8,23 @@
     "introduced_on": "2026-09-18",
     "note": "`đang` markiert die laufende Handlung: gerade warten.",
     "audio": {
-      "vi": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3"
+      "vi": "content/vocab/audio/clips/632b24013796417b644f89c7.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ccf0dc294b3652f24fa37920.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich warte gerade auf dich.",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day19-sentences-02",
@@ -23,10 +35,22 @@
     "introduced_on": "2026-09-18",
     "note": "Wörtlich etwa: verabredet, sich wieder zu treffen.",
     "audio": {
-      "vi": "content/vocab/audio/clips/6b1c12574fe91bb9c730c1a0.mp3"
+      "vi": "content/vocab/audio/clips/6b1c12574fe91bb9c730c1a0.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-cf00308cd4fab7ce87f24264.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-19-audio-2026-09-18.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bis bald / Auf Wiedersehen.",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

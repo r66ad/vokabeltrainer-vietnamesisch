@@ -10,11 +10,23 @@
     "example": "Thành phố này lớn. = Diese Stadt ist groß.",
     "note": "Aussprache: lon steigend · Thành phố này lớn. = Diese Stadt ist groß.",
     "audio": {
-      "vi": "content/vocab/audio/clips/294fa8d3a339959a4aa7af4c.mp3"
+      "vi": "content/vocab/audio/clips/294fa8d3a339959a4aa7af4c.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-50ac38e42868f659875fc659.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "groß; erwachsen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day20-vocab-02",
@@ -45,11 +57,23 @@
     "example": "Hôm nay trời nóng. = Heute ist es heiß.",
     "note": "Aussprache: nong steigend · Hôm nay trời nóng. = Heute ist es heiß.",
     "audio": {
-      "vi": "content/vocab/audio/clips/f81b24bf4ef8ec3ffa58a601.mp3"
+      "vi": "content/vocab/audio/clips/f81b24bf4ef8ec3ffa58a601.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-59d78bfdf934d3b625ae128f.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "heiß; warm",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day20-vocab-04",
@@ -80,10 +104,22 @@
     "example": "Tôi hơi mệt. = Ich bin ein bisschen müde.",
     "note": "Aussprache: met schwer · Tôi hơi mệt. = Ich bin ein bisschen müde.",
     "audio": {
-      "vi": "content/vocab/audio/clips/723260acac9420437730c2d5.mp3"
+      "vi": "content/vocab/audio/clips/723260acac9420437730c2d5.mp3",
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-41e76e943fea933058bbdfcb.mp3"
     },
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-20-audio-2026-09-19.mp3"
-    ]
+    ],
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "müde; erschöpft",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]

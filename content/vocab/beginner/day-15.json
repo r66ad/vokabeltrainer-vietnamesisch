@@ -11,7 +11,31 @@
     "note": "Aussprache: bai zo · Bây giờ tôi học. = Jetzt lerne ich.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
-    ]
+    ],
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-aabf3b2eef1e4e5c350876a3.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-4be85754f0fecdd2ac887746.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "jetzt",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bây giờ",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day15-vocab-02",
@@ -25,7 +49,31 @@
     "note": "Aussprache: sau · Hẹn gặp lại sau. = Bis später.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
-    ]
+    ],
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-09b8615029b6267d4866aa5f.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-9e194b8f4eebb587640bad48.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "nach; später; hinten",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sau",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day15-vocab-03",
@@ -39,7 +87,31 @@
     "note": "Aussprache: tsuoc steigend · Trước nhà. = Vor dem Haus.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
-    ]
+    ],
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1a7bd072df4efb7f45574cd7.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-0afb9ddc2d4622d744b4a6d1.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "vor; vorher; vorne",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "trước",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day15-vocab-04",
@@ -53,7 +125,31 @@
     "note": "Aussprache: kan fallend · Tôi cần nước. = Ich brauche Wasser.",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
-    ]
+    ],
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1df2e248f3aa794689b3153d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-e1f3614335599c41c1576e70.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "brauchen; müssen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "cần",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   },
   {
     "id": "vi-day15-vocab-05",
@@ -67,6 +163,30 @@
     "note": "Aussprache: zup steigend · Bạn giúp tôi được không? = Kannst du mir helfen?",
     "lesson_audio": [
       "content/vocab/audio/lessons/tag-15-audio-2026-09-14.mp3"
-    ]
+    ],
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-14c6010555327d83bd578f69.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-d7beac2f31a0ba3be2562247.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "helfen",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "giúp",
+        "label": "KI-generiert",
+        "generated_on": "2026-10-22"
+      }
+    }
   }
 ]
