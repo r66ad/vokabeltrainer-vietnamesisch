@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day48-vocab-01",
+    "front": "đắt",
+    "back": "teuer",
+    "kind": "vocabulary",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3f83ebf51dc137f8b3669b91.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-0c9c25dc1a1a44d34cbad4bc.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "teuer",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đắt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "pronunciation": "dat, kurzes a, steigend; t nicht lösen",
+    "example": "Áo này đắt quá. = Dieses Oberteil ist zu teuer.",
+    "note": "Aussprache: dat, kurzes a, steigend; t nicht lösen · Áo này đắt quá. = Dieses Oberteil ist zu teuer."
+  },
+  {
+    "id": "vi-day48-vocab-02",
+    "front": "rẻ",
+    "back": "günstig; billig",
+    "kind": "vocabulary",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ed85f7746e1d63b50b193678.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f3c6a0d98506d806bd928502.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "günstig; billig",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "rẻ",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "pronunciation": "sä, fragend; s stimmhaft",
+    "example": "Mũ này rất rẻ. = Dieser Hut ist sehr günstig.",
+    "note": "Aussprache: sä, fragend; s stimmhaft · Mũ này rất rẻ. = Dieser Hut ist sehr günstig."
+  },
+  {
+    "id": "vi-day48-vocab-03",
+    "front": "thử",
+    "back": "ausprobieren; anprobieren",
+    "kind": "vocabulary",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-17acc8cd88c4de6615962811.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-3d737a58111c1acbd744b091.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "ausprobieren; anprobieren",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "thử",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "pronunciation": "thu, fragend; t mit Luft, u ungerundet",
+    "example": "Tôi muốn thử áo này. = Ich möchte dieses Oberteil anprobieren.",
+    "note": "Aussprache: thu, fragend; t mit Luft, u ungerundet · Tôi muốn thử áo này. = Ich möchte dieses Oberteil anprobieren."
+  },
+  {
+    "id": "vi-day48-vocab-04",
+    "front": "vừa",
+    "back": "passen; passend",
+    "kind": "vocabulary",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5bec5038c535ae1f98923216.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-3b95dbc1f072b0c6e577acc2.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "passen; passend",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "vừa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "pronunciation": "wua, fallend; w wie in Wasser, u ungerundet",
+    "example": "Áo này vừa với tôi. = Dieses Oberteil passt mir.",
+    "note": "Aussprache: wua, fallend; w wie in Wasser, u ungerundet · Áo này vừa với tôi. = Dieses Oberteil passt mir."
+  },
+  {
+    "id": "vi-day48-vocab-05",
+    "front": "chật",
+    "back": "eng; zu eng",
+    "kind": "vocabulary",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-fdcfd86c266f86e2c97279df.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-ea5ac6b7cf4a89cdbcb840fc.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "eng; zu eng",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "chật",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "pronunciation": "tschat, kurzes zentrales a, tief und knapp; t nicht lösen",
+    "example": "Quần này chật quá. = Diese Hose ist zu eng.",
+    "note": "Aussprache: tschat, kurzes zentrales a, tief und knapp; t nicht lösen · Quần này chật quá. = Diese Hose ist zu eng."
+  }
+]

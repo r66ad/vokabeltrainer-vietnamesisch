@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day48-sentences-01",
+    "front": "Tôi thử áo này được không?",
+    "back": "Darf ich dieses Oberteil anprobieren?",
+    "kind": "sentence",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5230ae462d9d6b04d592d36d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-64aef13822e8f8ad440231c0.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Darf ich dieses Oberteil anprobieren?",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi thử áo này được không?",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "note": "`được không?` am Satzende bildet eine höfliche Frage nach Erlaubnis."
+  },
+  {
+    "id": "vi-day48-sentences-02",
+    "front": "Áo này đẹp nhưng hơi chật.",
+    "back": "Dieses Oberteil ist schön, aber etwas eng.",
+    "kind": "sentence",
+    "introduced_day": 48,
+    "introduced_on": "2026-10-23",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-558cd0d44758ba152066817f.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b9b9820f82e984288ded04ee.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Dieses Oberteil ist schön, aber etwas eng.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Áo này đẹp nhưng hơi chật.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-48-audio-2026-10-23.mp3"
+    ],
+    "note": "`nhưng` = aber; `hơi` vor einem Adjektiv = etwas/ein bisschen."
+  }
+]
