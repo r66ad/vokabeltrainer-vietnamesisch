@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day49-sentences-01",
+    "front": "Tôi muốn thanh toán bằng thẻ ngân hàng.",
+    "back": "Ich möchte mit Bankkarte bezahlen.",
+    "kind": "sentence",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "note": "`bằng` steht vor dem Zahlungsmittel: `bằng thẻ ngân hàng` = mit Bankkarte.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5ce04f09fe36283c0299d28f.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-4276ddfc78600dd89f4c4b8e.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte mit Bankkarte bezahlen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn thanh toán bằng thẻ ngân hàng.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day49-sentences-02",
+    "front": "Tôi thanh toán bằng tiền mặt.",
+    "back": "Ich bezahle bar.",
+    "kind": "sentence",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "note": "`bằng tiền mặt` bedeutet mit Bargeld, also bar; das Verb wird nicht konjugiert.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-7d0c5e4f70e8613ef8d43533.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-709607a9b44e14983c111cce.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich bezahle bar.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi thanh toán bằng tiền mặt.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  }
+]

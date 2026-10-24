@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day49-vocab-01",
+    "front": "thanh toán",
+    "back": "bezahlen; abrechnen",
+    "kind": "vocabulary",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "pronunciation": "thanh eben, toan steigend; th mit Luft",
+    "example": "Tôi muốn thanh toán. = Ich möchte bezahlen.",
+    "note": "Aussprache: thanh eben, toan steigend; th mit Luft · Tôi muốn thanh toán. = Ich möchte bezahlen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-cb5b74443c249eb9ef8f5492.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f50e21f982264d2e848a8ebc.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "bezahlen; abrechnen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "thanh toán",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day49-vocab-02",
+    "front": "tiền mặt",
+    "back": "Bargeld",
+    "kind": "vocabulary",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "pronunciation": "tien fallend, mat tief und knapp; kurzes a, t nicht lösen",
+    "example": "Tôi có tiền mặt. = Ich habe Bargeld.",
+    "note": "Aussprache: tien fallend, mat tief und knapp; kurzes a, t nicht lösen · Tôi có tiền mặt. = Ich habe Bargeld.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3c6838a928bea275ff052cbe.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-badba7f3e38bd5831f1bd18c.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bargeld",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "tiền mặt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day49-vocab-03",
+    "front": "thẻ ngân hàng",
+    "back": "Bankkarte",
+    "kind": "vocabulary",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "pronunciation": "thä fragend, ngan eben, hang fallend; th mit Luft",
+    "example": "Tôi có thẻ ngân hàng. = Ich habe eine Bankkarte.",
+    "note": "Aussprache: thä fragend, ngan eben, hang fallend; th mit Luft · Tôi có thẻ ngân hàng. = Ich habe eine Bankkarte.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-fb84e71ebb1451ba65d754cb.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b5460c44936ee36853a51724.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bankkarte",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "thẻ ngân hàng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day49-vocab-04",
+    "front": "trả lại",
+    "back": "zurückgeben",
+    "kind": "vocabulary",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "pronunciation": "tscha fragend, lai tief und knapp",
+    "example": "Tôi muốn trả lại áo này. = Ich möchte dieses Oberteil zurückgeben.",
+    "note": "Aussprache: tscha fragend, lai tief und knapp · Tôi muốn trả lại áo này. = Ich möchte dieses Oberteil zurückgeben.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-18e45cb9c51668235b7594a3.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f7a1b185d4dab82db4b77270.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "zurückgeben",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "trả lại",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  },
+  {
+    "id": "vi-day49-vocab-05",
+    "front": "túi",
+    "back": "Tasche; Tüte",
+    "kind": "vocabulary",
+    "introduced_day": 49,
+    "introduced_on": "2026-10-24",
+    "pronunciation": "tui steigend",
+    "example": "Tôi cần một cái túi. = Ich brauche eine Tüte.",
+    "note": "Aussprache: tui steigend · Tôi cần một cái túi. = Ich brauche eine Tüte.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-567ec9cb14fa5a1d97a412f1.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-1209ec8bc5932162fe786999.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Tasche; Tüte",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "túi",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3"
+    ]
+  }
+]

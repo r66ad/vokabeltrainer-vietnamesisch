@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "source": "vietnamese-review.md",
-  "source_sha256": "24e5966bf9d247e74f552e9f5ffd6302101966a90c1cb77357d2adb159dc261e",
+  "source_sha256": "d02b665c2fcd467a71c9f44c6af220390120fdb3cf0415f669aa6ceedb0962c1",
   "start_date": "2026-09-02",
-  "last_introduced_day": 45,
-  "last_introduced_on": "2026-10-20",
+  "last_introduced_day": 49,
+  "last_introduced_on": "2026-10-24",
   "status_in_source": "Gelernte Karten",
   "srs_import_note": "Die Quelle dokumentiert eingeführte/gelernte Karten und einzelne Korrekturen, aber keine vollständigen Bewertungszähler oder Fälligkeiten. Diese wurden nicht erfunden; progress.json enthält weiterhin nur echte App-Bewertungen.",
   "introduced_cards": [
@@ -1557,6 +1557,41 @@
       "id": "vi-day45-sentences-02",
       "day": 45,
       "date": "2026-10-20"
+    },
+    {
+      "id": "vi-day49-vocab-01",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-vocab-02",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-vocab-03",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-vocab-04",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-vocab-05",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-sentences-01",
+      "day": 49,
+      "date": "2026-10-24"
+    },
+    {
+      "id": "vi-day49-sentences-02",
+      "day": 49,
+      "date": "2026-10-24"
     }
   ],
   "corrections": [

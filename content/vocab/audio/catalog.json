@@ -4516,5 +4516,11 @@
     "sha256": "dac9d7efdd124ade6d9eee2342927e053b8955addfaa90ea6c00f22163a3e911",
     "day": 45,
     "transcript": "01\tde\tAnna\tschlafen\n02\tvi\tLinh\tngủ\n03\tde\tAnna\tIch möchte schlafen.\n04\tvi\tLinh\tTôi muốn ngủ.\n05\tde\tAnna\taufstehen; aufwachen\n06\tvi\tLinh\tdậy\n07\tde\tAnna\tIch stehe um sechs Uhr auf.\n08\tvi\tLinh\tTôi dậy lúc sáu giờ.\n09\tde\tAnna\tduschen; baden\n10\tvi\tLinh\ttắm\n11\tde\tAnna\tIch dusche jeden Tag.\n12\tvi\tLinh\tTôi tắm mỗi ngày.\n13\tde\tAnna\twaschen\n14\tvi\tLinh\trửa\n15\tde\tAnna\tIch wasche mir die Hände.\n16\tvi\tLinh\tTôi rửa tay.\n17\tde\tAnna\tsich ausruhen\n18\tvi\tLinh\tnghỉ ngơi\n19\tde\tAnna\tIch muss mich ausruhen.\n20\tvi\tLinh\tTôi cần nghỉ ngơi.\n21\tde\tAnna\tHeute Morgen stehe ich um sechs Uhr auf und dusche danach.\n22\tvi\tLinh\tSáng nay tôi dậy lúc sáu giờ rồi tắm.\n23\tde\tAnna\tIch möchte mich ausruhen und dann schlafen gehen.\n24\tvi\tLinh\tTôi muốn nghỉ ngơi rồi đi ngủ.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-49-audio-2026-10-24.mp3",
+    "sha256": "7788bcd8967f7f3396fcd86947d2d5d24397c9b321b8226e2600d9df018d67c4",
+    "day": 49,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tbezahlen; abrechnen\n2\tvi\tthanh toán\n3\tde\tIch möchte bezahlen.\n4\tvi\tTôi muốn thanh toán.\n5\tde\tBargeld\n6\tvi\ttiền mặt\n7\tde\tIch habe Bargeld.\n8\tvi\tTôi có tiền mặt.\n9\tde\tBankkarte\n10\tvi\tthẻ ngân hàng\n11\tde\tIch habe eine Bankkarte.\n12\tvi\tTôi có thẻ ngân hàng.\n13\tde\tzurückgeben\n14\tvi\ttrả lại\n15\tde\tIch möchte dieses Oberteil zurückgeben.\n16\tvi\tTôi muốn trả lại áo này.\n17\tde\tTasche; Tüte\n18\tvi\ttúi\n19\tde\tIch brauche eine Tüte.\n20\tvi\tTôi cần một cái túi.\n21\tde\tIch möchte mit Bankkarte bezahlen.\n22\tvi\tTôi muốn thanh toán bằng thẻ ngân hàng.\n23\tde\tIch bezahle bar.\n24\tvi\tTôi thanh toán bằng tiền mặt.\n"
   }
 ]
