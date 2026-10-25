@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day50-vocab-01",
+    "front": "rau",
+    "back": "Gemüse",
+    "kind": "vocabulary",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "pronunciation": "sau, eben; s stimmhaft",
+    "example": "Tôi mua rau. = Ich kaufe Gemüse.",
+    "note": "Aussprache: sau, eben; s stimmhaft · Tôi mua rau. = Ich kaufe Gemüse.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-f9f7849824804768e2654fa7.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-c306f546dd1ba3650d52f5df.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Gemüse",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "rau",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day50-vocab-02",
+    "front": "thịt",
+    "back": "Fleisch",
+    "kind": "vocabulary",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "pronunciation": "thit, tief und knapp; th mit Luft, t nicht lösen",
+    "example": "Tôi không ăn thịt. = Ich esse kein Fleisch.",
+    "note": "Aussprache: thit, tief und knapp; th mit Luft, t nicht lösen · Tôi không ăn thịt. = Ich esse kein Fleisch.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-afd420bf70f3d3d1c75f248d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b763f298c4a32833239c2103.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Fleisch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "thịt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day50-vocab-03",
+    "front": "cá",
+    "back": "Fisch",
+    "kind": "vocabulary",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "pronunciation": "ka, steigend",
+    "example": "Tôi thích ăn cá. = Ich esse gern Fisch.",
+    "note": "Aussprache: ka, steigend · Tôi thích ăn cá. = Ich esse gern Fisch.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d71ae17a6f062a2ecf72c34c.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-00d6024d7266cff698d850da.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Fisch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "cá",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day50-vocab-04",
+    "front": "trứng",
+    "back": "Ei; Eier",
+    "kind": "vocabulary",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "pronunciation": "tschung, steigend; u ungerundet, ng am Ende",
+    "example": "Tôi mua trứng. = Ich kaufe Eier.",
+    "note": "Aussprache: tschung, steigend; u ungerundet, ng am Ende · Tôi mua trứng. = Ich kaufe Eier.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0e00532a3701aecceb9124f0.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-fd3d1a60fb3230407f817884.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ei; Eier",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "trứng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day50-vocab-05",
+    "front": "sữa",
+    "back": "Milch",
+    "kind": "vocabulary",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "pronunciation": "sua, gebrochen steigend; s stimmlos, u ungerundet",
+    "example": "Tôi uống sữa. = Ich trinke Milch.",
+    "note": "Aussprache: sua, gebrochen steigend; s stimmlos, u ungerundet · Tôi uống sữa. = Ich trinke Milch.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-b2458298abc24940a68291f8.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f75898ec5879b431a3873500.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Milch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sữa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day50-sentences-01",
+    "front": "Tôi muốn mua rau và trứng.",
+    "back": "Ich möchte Gemüse und Eier kaufen.",
+    "kind": "sentence",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "note": "`và` verbindet Nomen: `rau và trứng` = Gemüse und Eier.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-f0346490396f06bd0b185765.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-ed1a937349cbe1bd339f6a13.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte Gemüse und Eier kaufen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn mua rau và trứng.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  },
+  {
+    "id": "vi-day50-sentences-02",
+    "front": "Tôi không ăn thịt, nhưng tôi ăn cá.",
+    "back": "Ich esse kein Fleisch, aber ich esse Fisch.",
+    "kind": "sentence",
+    "introduced_day": 50,
+    "introduced_on": "2026-10-25",
+    "note": "`không` steht vor dem Verb; `nhưng` verbindet gegensätzliche Aussagen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ab527df596a3f6a7f6a12aaa.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-49e6584941bf2222c1f039dd.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich esse kein Fleisch, aber ich esse Fisch.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi không ăn thịt, nhưng tôi ăn cá.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3"
+    ]
+  }
+]

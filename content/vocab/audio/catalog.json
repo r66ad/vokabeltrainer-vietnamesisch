@@ -4522,5 +4522,11 @@
     "sha256": "7788bcd8967f7f3396fcd86947d2d5d24397c9b321b8226e2600d9df018d67c4",
     "day": 49,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tbezahlen; abrechnen\n2\tvi\tthanh toán\n3\tde\tIch möchte bezahlen.\n4\tvi\tTôi muốn thanh toán.\n5\tde\tBargeld\n6\tvi\ttiền mặt\n7\tde\tIch habe Bargeld.\n8\tvi\tTôi có tiền mặt.\n9\tde\tBankkarte\n10\tvi\tthẻ ngân hàng\n11\tde\tIch habe eine Bankkarte.\n12\tvi\tTôi có thẻ ngân hàng.\n13\tde\tzurückgeben\n14\tvi\ttrả lại\n15\tde\tIch möchte dieses Oberteil zurückgeben.\n16\tvi\tTôi muốn trả lại áo này.\n17\tde\tTasche; Tüte\n18\tvi\ttúi\n19\tde\tIch brauche eine Tüte.\n20\tvi\tTôi cần một cái túi.\n21\tde\tIch möchte mit Bankkarte bezahlen.\n22\tvi\tTôi muốn thanh toán bằng thẻ ngân hàng.\n23\tde\tIch bezahle bar.\n24\tvi\tTôi thanh toán bằng tiền mặt.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-50-audio-2026-10-25.mp3",
+    "sha256": "f14c6534d81ebf0777d3331f10fb6c9d7216a1385fec1be7da2f17339988f72a",
+    "day": 50,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tGemüse\n2\tvi\trau\n3\tde\tIch kaufe Gemüse.\n4\tvi\tTôi mua rau.\n5\tde\tFleisch\n6\tvi\tthịt\n7\tde\tIch esse kein Fleisch.\n8\tvi\tTôi không ăn thịt.\n9\tde\tFisch\n10\tvi\tcá\n11\tde\tIch esse gern Fisch.\n12\tvi\tTôi thích ăn cá.\n13\tde\tEi; Eier\n14\tvi\ttrứng\n15\tde\tIch kaufe Eier.\n16\tvi\tTôi mua trứng.\n17\tde\tMilch\n18\tvi\tsữa\n19\tde\tIch trinke Milch.\n20\tvi\tTôi uống sữa.\n21\tde\tIch möchte Gemüse und Eier kaufen.\n22\tvi\tTôi muốn mua rau và trứng.\n23\tde\tIch esse kein Fleisch, aber ich esse Fisch.\n24\tvi\tTôi không ăn thịt, nhưng tôi ăn cá.\n"
   }
 ]
