@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day51-vocab-01",
+    "front": "trái cây",
+    "back": "Obst; Früchte",
+    "kind": "vocabulary",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "pronunciation": "tschai steigend, kay eben; â kurz und zentral",
+    "example": "Tôi mua trái cây. = Ich kaufe Obst.",
+    "note": "Aussprache: tschai steigend, kay eben; â kurz und zentral · Tôi mua trái cây. = Ich kaufe Obst.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-2db961d8bd49d30cacd8b1ae.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-e8c24754ce9c1ee87151fefa.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Obst; Früchte",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "trái cây",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  },
+  {
+    "id": "vi-day51-vocab-02",
+    "front": "chuối",
+    "back": "Banane",
+    "kind": "vocabulary",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "pronunciation": "tschuoi, steigend",
+    "example": "Tôi ăn một quả chuối. = Ich esse eine Banane.",
+    "note": "Aussprache: tschuoi, steigend · Tôi ăn một quả chuối. = Ich esse eine Banane.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-43904a7110f4ce64564e6b58.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-a9975c331d0ae371ba05eed6.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Banane",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "chuối",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  },
+  {
+    "id": "vi-day51-vocab-03",
+    "front": "táo",
+    "back": "Apfel",
+    "kind": "vocabulary",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "pronunciation": "tao, steigend",
+    "example": "Tôi thích ăn táo. = Ich esse gern Äpfel.",
+    "note": "Aussprache: tao, steigend · Tôi thích ăn táo. = Ich esse gern Äpfel.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6ec66707bfbbb77dad4ddfe7.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b740d5d9f26ee6679fb87c3b.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Apfel",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "táo",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  },
+  {
+    "id": "vi-day51-vocab-04",
+    "front": "cam",
+    "back": "Orange",
+    "kind": "vocabulary",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "pronunciation": "kam, eben",
+    "example": "Tôi mua cam. = Ich kaufe Orangen.",
+    "note": "Aussprache: kam, eben · Tôi mua cam. = Ich kaufe Orangen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0a547e4af9e65ab020016e1e.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b3afd792a6aadb7a17f68551.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Orange",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "cam",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  },
+  {
+    "id": "vi-day51-vocab-05",
+    "front": "tươi",
+    "back": "frisch",
+    "kind": "vocabulary",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "pronunciation": "tuoi, eben; u ungerundet",
+    "example": "Rau này rất tươi. = Dieses Gemüse ist sehr frisch.",
+    "note": "Aussprache: tuoi, eben; u ungerundet · Rau này rất tươi. = Dieses Gemüse ist sehr frisch.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-84d75faa2e278eb3126bdab9.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-09de5f7157b874ec5edb5f21.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "frisch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "tươi",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  }
+]

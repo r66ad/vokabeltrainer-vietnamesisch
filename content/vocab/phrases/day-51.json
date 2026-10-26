@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day51-sentences-01",
+    "front": "Tôi muốn mua một quả táo và một quả cam.",
+    "back": "Ich möchte einen Apfel und eine Orange kaufen.",
+    "kind": "sentence",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "note": "Beim Zählen von Früchten steht `quả` zwischen Zahl und Nomen: `một quả táo` = ein Apfel.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-bcf710978c9a4eb0bc106fe5.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-9a7577f1b306e3303eab0b28.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte einen Apfel und eine Orange kaufen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn mua một quả táo và một quả cam.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  },
+  {
+    "id": "vi-day51-sentences-02",
+    "front": "Trái cây này rất tươi.",
+    "back": "Dieses Obst ist sehr frisch.",
+    "kind": "sentence",
+    "introduced_day": 51,
+    "introduced_on": "2026-10-26",
+    "note": "`này` folgt dem Nomen; `rất` steht vor dem Adjektiv. Ein zusätzliches `là` ist hier nicht nötig.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ae6f936b6a858e5d77703126.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-a585fc8221df99ef6acc74c8.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Dieses Obst ist sehr frisch.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Trái cây này rất tươi.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3"
+    ]
+  }
+]

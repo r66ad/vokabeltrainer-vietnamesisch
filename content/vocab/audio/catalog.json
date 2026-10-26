@@ -4528,5 +4528,11 @@
     "sha256": "f14c6534d81ebf0777d3331f10fb6c9d7216a1385fec1be7da2f17339988f72a",
     "day": 50,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tGemüse\n2\tvi\trau\n3\tde\tIch kaufe Gemüse.\n4\tvi\tTôi mua rau.\n5\tde\tFleisch\n6\tvi\tthịt\n7\tde\tIch esse kein Fleisch.\n8\tvi\tTôi không ăn thịt.\n9\tde\tFisch\n10\tvi\tcá\n11\tde\tIch esse gern Fisch.\n12\tvi\tTôi thích ăn cá.\n13\tde\tEi; Eier\n14\tvi\ttrứng\n15\tde\tIch kaufe Eier.\n16\tvi\tTôi mua trứng.\n17\tde\tMilch\n18\tvi\tsữa\n19\tde\tIch trinke Milch.\n20\tvi\tTôi uống sữa.\n21\tde\tIch möchte Gemüse und Eier kaufen.\n22\tvi\tTôi muốn mua rau và trứng.\n23\tde\tIch esse kein Fleisch, aber ich esse Fisch.\n24\tvi\tTôi không ăn thịt, nhưng tôi ăn cá.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-51-audio-2026-10-26.mp3",
+    "sha256": "5ec4a1fe7a2e3ca62b24bfda562cecf7892b355ef1bd192291f57e407f046a1a",
+    "day": 51,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tObst; Früchte\n2\tvi\ttrái cây\n3\tde\tIch kaufe Obst.\n4\tvi\tTôi mua trái cây.\n5\tde\tBanane\n6\tvi\tchuối\n7\tde\tIch esse eine Banane.\n8\tvi\tTôi ăn một quả chuối.\n9\tde\tApfel\n10\tvi\ttáo\n11\tde\tIch esse gern Äpfel.\n12\tvi\tTôi thích ăn táo.\n13\tde\tOrange\n14\tvi\tcam\n15\tde\tIch kaufe Orangen.\n16\tvi\tTôi mua cam.\n17\tde\tfrisch\n18\tvi\ttươi\n19\tde\tDieses Gemüse ist sehr frisch.\n20\tvi\tRau này rất tươi.\n21\tde\tIch möchte einen Apfel und eine Orange kaufen.\n22\tvi\tTôi muốn mua một quả táo và một quả cam.\n23\tde\tDieses Obst ist sehr frisch.\n24\tvi\tTrái cây này rất tươi.\n"
   }
 ]
