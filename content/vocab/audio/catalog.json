@@ -4534,5 +4534,11 @@
     "sha256": "5ec4a1fe7a2e3ca62b24bfda562cecf7892b355ef1bd192291f57e407f046a1a",
     "day": 51,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tObst; Früchte\n2\tvi\ttrái cây\n3\tde\tIch kaufe Obst.\n4\tvi\tTôi mua trái cây.\n5\tde\tBanane\n6\tvi\tchuối\n7\tde\tIch esse eine Banane.\n8\tvi\tTôi ăn một quả chuối.\n9\tde\tApfel\n10\tvi\ttáo\n11\tde\tIch esse gern Äpfel.\n12\tvi\tTôi thích ăn táo.\n13\tde\tOrange\n14\tvi\tcam\n15\tde\tIch kaufe Orangen.\n16\tvi\tTôi mua cam.\n17\tde\tfrisch\n18\tvi\ttươi\n19\tde\tDieses Gemüse ist sehr frisch.\n20\tvi\tRau này rất tươi.\n21\tde\tIch möchte einen Apfel und eine Orange kaufen.\n22\tvi\tTôi muốn mua một quả táo và một quả cam.\n23\tde\tDieses Obst ist sehr frisch.\n24\tvi\tTrái cây này rất tươi.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3",
+    "sha256": "c3b7c00801a94a0bbed13acbb4bb55ced39ff5525d616d6fd9aed550ab3a4c0e",
+    "day": 52,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tsüß\n2\tvi\tngọt\n3\tde\tDiese Banane ist sehr süß.\n4\tvi\tChuối này rất ngọt.\n5\tde\tsalzig\n6\tvi\tmặn\n7\tde\tDieses Gericht ist etwas salzig.\n8\tvi\tMón này hơi mặn.\n9\tde\tsauer\n10\tvi\tchua\n11\tde\tDiese Orange ist zu sauer.\n12\tvi\tCam này chua quá.\n13\tde\tscharf (Geschmack)\n14\tvi\tcay\n15\tde\tIch esse nicht scharf.\n16\tvi\tTôi không ăn cay.\n17\tde\tbitter\n18\tvi\tđắng\n19\tde\tDieser Kaffee ist bitter.\n20\tvi\tCà phê này đắng.\n21\tde\tIch esse gern scharf, aber dieses Gericht ist zu scharf.\n22\tvi\tTôi thích ăn cay, nhưng món này cay quá.\n23\tde\tIch möchte Kaffee trinken, der nicht zu bitter ist.\n24\tvi\tTôi muốn uống cà phê không quá đắng.\n"
   }
 ]

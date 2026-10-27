@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day52-vocab-01",
+    "front": "ngọt",
+    "back": "süß",
+    "kind": "vocabulary",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "pronunciation": "ngot, tief und knapp; ng wie in singen, t nicht lösen",
+    "example": "Chuối này rất ngọt. = Diese Banane ist sehr süß.",
+    "note": "Aussprache: ngot, tief und knapp; ng wie in singen, t nicht lösen · Chuối này rất ngọt. = Diese Banane ist sehr süß.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1d2d5eff27bf08896fc34ed3.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-08fcce1497726fc9461b9026.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "süß",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "ngọt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day52-vocab-02",
+    "front": "mặn",
+    "back": "salzig",
+    "kind": "vocabulary",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "pronunciation": "man, kurzes a, tief und knapp",
+    "example": "Món này hơi mặn. = Dieses Gericht ist etwas salzig.",
+    "note": "Aussprache: man, kurzes a, tief und knapp · Món này hơi mặn. = Dieses Gericht ist etwas salzig.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5a82e4889916b23ea87df0b0.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b2979c5667bf0facae899ece.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "salzig",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "mặn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day52-vocab-03",
+    "front": "chua",
+    "back": "sauer",
+    "kind": "vocabulary",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "pronunciation": "tschua, eben",
+    "example": "Cam này chua quá. = Diese Orange ist zu sauer.",
+    "note": "Aussprache: tschua, eben · Cam này chua quá. = Diese Orange ist zu sauer.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1715f7bfa34f44d3573596b0.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-860e25e39bfaf2e34acb4fda.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "sauer",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "chua",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day52-vocab-04",
+    "front": "cay",
+    "back": "scharf (Geschmack)",
+    "kind": "vocabulary",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "pronunciation": "kai, kurzes a, eben",
+    "example": "Tôi không ăn cay. = Ich esse nicht scharf.",
+    "note": "Aussprache: kai, kurzes a, eben · Tôi không ăn cay. = Ich esse nicht scharf.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-9347e2df72acf020a7e96471.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-5c595d5ce386c3f580f5a0af.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "scharf (Geschmack)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "cay",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day52-vocab-05",
+    "front": "đắng",
+    "back": "bitter",
+    "kind": "vocabulary",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "pronunciation": "dang, kurzes a, steigend; ng am Ende",
+    "example": "Cà phê này đắng. = Dieser Kaffee ist bitter.",
+    "note": "Aussprache: dang, kurzes a, steigend; ng am Ende · Cà phê này đắng. = Dieser Kaffee ist bitter.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-f44724bb742af72ebf9c4c37.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-96e5a68f32c74410a9818a3b.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "bitter",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đắng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  }
+]

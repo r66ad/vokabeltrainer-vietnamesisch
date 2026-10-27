@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day52-sentences-01",
+    "front": "Tôi thích ăn cay, nhưng món này cay quá.",
+    "back": "Ich esse gern scharf, aber dieses Gericht ist zu scharf.",
+    "kind": "sentence",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "note": "`thích ăn cay` = gern scharf essen; `quá` nach dem Adjektiv bedeutet hier zu.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-362e74240fccb0b84cfe603e.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-3c6317fbc68150b765992c81.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich esse gern scharf, aber dieses Gericht ist zu scharf.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi thích ăn cay, nhưng món này cay quá.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  },
+  {
+    "id": "vi-day52-sentences-02",
+    "front": "Tôi muốn uống cà phê không quá đắng.",
+    "back": "Ich möchte Kaffee trinken, der nicht zu bitter ist.",
+    "kind": "sentence",
+    "introduced_day": 52,
+    "introduced_on": "2026-10-27",
+    "note": "`không quá` vor dem Adjektiv bedeutet nicht zu; die Beschreibung folgt auf `cà phê`.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-61bc71504740d38583aafa04.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-080d0d96f085d26f38d35725.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich möchte Kaffee trinken, der nicht zu bitter ist.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi muốn uống cà phê không quá đắng.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-52-audio-2026-10-27.mp3"
+    ]
+  }
+]
