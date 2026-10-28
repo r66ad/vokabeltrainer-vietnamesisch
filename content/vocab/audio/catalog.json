@@ -4540,5 +4540,11 @@
     "sha256": "c3b7c00801a94a0bbed13acbb4bb55ced39ff5525d616d6fd9aed550ab3a4c0e",
     "day": 52,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tsüß\n2\tvi\tngọt\n3\tde\tDiese Banane ist sehr süß.\n4\tvi\tChuối này rất ngọt.\n5\tde\tsalzig\n6\tvi\tmặn\n7\tde\tDieses Gericht ist etwas salzig.\n8\tvi\tMón này hơi mặn.\n9\tde\tsauer\n10\tvi\tchua\n11\tde\tDiese Orange ist zu sauer.\n12\tvi\tCam này chua quá.\n13\tde\tscharf (Geschmack)\n14\tvi\tcay\n15\tde\tIch esse nicht scharf.\n16\tvi\tTôi không ăn cay.\n17\tde\tbitter\n18\tvi\tđắng\n19\tde\tDieser Kaffee ist bitter.\n20\tvi\tCà phê này đắng.\n21\tde\tIch esse gern scharf, aber dieses Gericht ist zu scharf.\n22\tvi\tTôi thích ăn cay, nhưng món này cay quá.\n23\tde\tIch möchte Kaffee trinken, der nicht zu bitter ist.\n24\tvi\tTôi muốn uống cà phê không quá đắng.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3",
+    "sha256": "9ded750964cf6db40ad3b543ced678ec006c1a432155f12e3bcd38d06b5964bc",
+    "day": 53,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tkochen\n2\tvi\tnấu\n3\tde\tIch koche gerade Reis.\n4\tvi\tTôi đang nấu cơm.\n5\tde\tKüche; Herd\n6\tvi\tbếp\n7\tde\tDie Küche ist hier.\n8\tvi\tBếp ở đây.\n9\tde\tSchüssel; Schälchen\n10\tvi\tbát\n11\tde\tIch brauche eine Schüssel.\n12\tvi\tTôi cần một cái bát.\n13\tde\tEssstäbchen\n14\tvi\tđũa\n15\tde\tIch esse mit Stäbchen.\n16\tvi\tTôi ăn bằng đũa.\n17\tde\tLöffel\n18\tvi\tthìa\n19\tde\tIch brauche einen Löffel.\n20\tvi\tTôi cần một cái thìa.\n21\tde\tIch koche gerade Reis in der Küche.\n22\tvi\tTôi đang nấu cơm trong bếp.\n23\tde\tBitte geben Sie mir ein Paar Essstäbchen und einen Löffel.\n24\tvi\tCho tôi một đôi đũa và một cái thìa, làm ơn.\n"
   }
 ]

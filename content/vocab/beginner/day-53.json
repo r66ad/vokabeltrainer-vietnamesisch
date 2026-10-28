@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day53-vocab-01",
+    "front": "nấu",
+    "back": "kochen",
+    "kind": "vocabulary",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "pronunciation": "nau, kurzes zentrales a, steigend",
+    "example": "Tôi đang nấu cơm. = Ich koche gerade Reis.",
+    "note": "Aussprache: nau, kurzes zentrales a, steigend · Tôi đang nấu cơm. = Ich koche gerade Reis.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-49cfe5f883ca8bbe2485081a.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-fbd544e16be2b92160efb3ff.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "kochen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "nấu",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day53-vocab-02",
+    "front": "bếp",
+    "back": "Küche; Herd",
+    "kind": "vocabulary",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "pronunciation": "bep, geschlossenes e, steigend; p nicht lösen",
+    "example": "Bếp ở đây. = Die Küche ist hier.",
+    "note": "Aussprache: bep, geschlossenes e, steigend; p nicht lösen · Bếp ở đây. = Die Küche ist hier.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-b4d76713a866a7a2cacd707c.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f6f8375a1efc7565bc108b56.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Küche; Herd",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bếp",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day53-vocab-03",
+    "front": "bát",
+    "back": "Schüssel; Schälchen",
+    "kind": "vocabulary",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "pronunciation": "bat, langes a, steigend; t nicht lösen",
+    "example": "Tôi cần một cái bát. = Ich brauche eine Schüssel.",
+    "note": "Aussprache: bat, langes a, steigend; t nicht lösen · Tôi cần một cái bát. = Ich brauche eine Schüssel.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-9818c91b4e2c7d0faae4e5f5.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6c1730db0da366c95cb360c2.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Schüssel; Schälchen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bát",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day53-vocab-04",
+    "front": "đũa",
+    "back": "Essstäbchen",
+    "kind": "vocabulary",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "pronunciation": "dua, gebrochen steigend; u ungerundet",
+    "example": "Tôi ăn bằng đũa. = Ich esse mit Stäbchen.",
+    "note": "Aussprache: dua, gebrochen steigend; u ungerundet · Tôi ăn bằng đũa. = Ich esse mit Stäbchen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6270c1ffcc4b68e028415bee.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-0d57586349e9165e3dac79f2.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Essstäbchen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đũa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day53-vocab-05",
+    "front": "thìa",
+    "back": "Löffel",
+    "kind": "vocabulary",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "pronunciation": "thia, fallend; th mit Luft",
+    "example": "Tôi cần một cái thìa. = Ich brauche einen Löffel.",
+    "note": "Aussprache: thia, fallend; th mit Luft · Tôi cần một cái thìa. = Ich brauche einen Löffel.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-f704bb54afef451419334d0d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-d56cead008235edba79a02a2.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Löffel",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "thìa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  }
+]

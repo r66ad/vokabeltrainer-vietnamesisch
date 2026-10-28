@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day53-sentences-01",
+    "front": "Tôi đang nấu cơm trong bếp.",
+    "back": "Ich koche gerade Reis in der Küche.",
+    "kind": "sentence",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "note": "`đang` steht vor dem Verb; `trong bếp` = in der Küche.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-6a6b63a9070b45edaa751c4b.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-a56db7696567b1c03d581a76.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich koche gerade Reis in der Küche.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi đang nấu cơm trong bếp.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  },
+  {
+    "id": "vi-day53-sentences-02",
+    "front": "Cho tôi một đôi đũa và một cái thìa, làm ơn.",
+    "back": "Bitte geben Sie mir ein Paar Essstäbchen und einen Löffel.",
+    "kind": "sentence",
+    "introduced_day": 53,
+    "introduced_on": "2026-10-28",
+    "note": "`một đôi` zählt ein Paar; `một cái` zählt hier einen einzelnen Gegenstand. `Cho tôi ..., làm ơn` ist eine Bitte.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-874c52427f55aa027f5bb17c.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-15ef8207074c6f7dcb14f69a.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bitte geben Sie mir ein Paar Essstäbchen und einen Löffel.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Cho tôi một đôi đũa và một cái thìa, làm ơn.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-53-audio-2026-10-28.mp3"
+    ]
+  }
+]
