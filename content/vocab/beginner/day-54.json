@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day54-vocab-01",
+    "front": "đĩa",
+    "back": "Teller",
+    "kind": "vocabulary",
+    "introduced_day": 54,
+    "introduced_on": "2026-10-29",
+    "pronunciation": "dia, gebrochen steigend",
+    "example": "Tôi cần một cái đĩa. = Ich brauche einen Teller.",
+    "note": "Aussprache: dia, gebrochen steigend · Tôi cần một cái đĩa. = Ich brauche einen Teller.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-4910ce9e8851f3afcb8189cf.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-92e73b1e0437ceab6e437196.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Teller",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đĩa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day54-vocab-02",
+    "front": "dao",
+    "back": "Messer",
+    "kind": "vocabulary",
+    "introduced_day": 54,
+    "introduced_on": "2026-10-29",
+    "pronunciation": "sao, eben; s stimmhaft",
+    "example": "Dao này rất nhỏ. = Dieses Messer ist sehr klein.",
+    "note": "Aussprache: sao, eben; s stimmhaft · Dao này rất nhỏ. = Dieses Messer ist sehr klein.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-1cef7e30a0b3cc73ee23ba8d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6185c851d79b56f4754a9c25.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Messer",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "dao",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day54-vocab-03",
+    "front": "cắt",
+    "back": "schneiden",
+    "kind": "vocabulary",
+    "introduced_day": 54,
+    "introduced_on": "2026-10-29",
+    "pronunciation": "kat, kurzes a, steigend; t nicht lösen",
+    "example": "Tôi cắt bánh mì. = Ich schneide Brot.",
+    "note": "Aussprache: kat, kurzes a, steigend; t nicht lösen · Tôi cắt bánh mì. = Ich schneide Brot.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5fef8ca5351cfc8244cc5514.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2549ae6b61040da1de6be8e6.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "schneiden",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "cắt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day54-vocab-04",
+    "front": "sạch",
+    "back": "sauber",
+    "kind": "vocabulary",
+    "introduced_day": 54,
+    "introduced_on": "2026-10-29",
+    "pronunciation": "säch, tief und knapp; Endlaut kurz verschlossen",
+    "example": "Bát này sạch. = Diese Schüssel ist sauber.",
+    "note": "Aussprache: säch, tief und knapp; Endlaut kurz verschlossen · Bát này sạch. = Diese Schüssel ist sauber.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-37d4da206f2959542b36ac07.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6bf073bb236fc46bb74e2c3c.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "sauber",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sạch",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3"
+    ]
+  },
+  {
+    "id": "vi-day54-vocab-05",
+    "front": "bẩn",
+    "back": "schmutzig",
+    "kind": "vocabulary",
+    "introduced_day": 54,
+    "introduced_on": "2026-10-29",
+    "pronunciation": "ban, kurzes zentrales a, fragend",
+    "example": "Đĩa này bẩn. = Dieser Teller ist schmutzig.",
+    "note": "Aussprache: ban, kurzes zentrales a, fragend · Đĩa này bẩn. = Dieser Teller ist schmutzig.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-98676e046b55780d49afe4ed.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f01a3518b65292c9baa2d466.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "schmutzig",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bẩn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3"
+    ]
+  }
+]

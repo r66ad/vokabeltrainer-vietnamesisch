@@ -4546,5 +4546,11 @@
     "sha256": "9ded750964cf6db40ad3b543ced678ec006c1a432155f12e3bcd38d06b5964bc",
     "day": 53,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tkochen\n2\tvi\tnấu\n3\tde\tIch koche gerade Reis.\n4\tvi\tTôi đang nấu cơm.\n5\tde\tKüche; Herd\n6\tvi\tbếp\n7\tde\tDie Küche ist hier.\n8\tvi\tBếp ở đây.\n9\tde\tSchüssel; Schälchen\n10\tvi\tbát\n11\tde\tIch brauche eine Schüssel.\n12\tvi\tTôi cần một cái bát.\n13\tde\tEssstäbchen\n14\tvi\tđũa\n15\tde\tIch esse mit Stäbchen.\n16\tvi\tTôi ăn bằng đũa.\n17\tde\tLöffel\n18\tvi\tthìa\n19\tde\tIch brauche einen Löffel.\n20\tvi\tTôi cần một cái thìa.\n21\tde\tIch koche gerade Reis in der Küche.\n22\tvi\tTôi đang nấu cơm trong bếp.\n23\tde\tBitte geben Sie mir ein Paar Essstäbchen und einen Löffel.\n24\tvi\tCho tôi một đôi đũa và một cái thìa, làm ơn.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-54-audio-2026-10-29.mp3",
+    "sha256": "212365bd64f4abe5b2d1f801b8d03fbe79fb8096cea47eb6e172dc0c4224da7a",
+    "day": 54,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tTeller\n2\tvi\tđĩa\n3\tde\tIch brauche einen Teller.\n4\tvi\tTôi cần một cái đĩa.\n5\tde\tMesser\n6\tvi\tdao\n7\tde\tDieses Messer ist sehr klein.\n8\tvi\tDao này rất nhỏ.\n9\tde\tschneiden\n10\tvi\tcắt\n11\tde\tIch schneide Brot.\n12\tvi\tTôi cắt bánh mì.\n13\tde\tsauber\n14\tvi\tsạch\n15\tde\tDiese Schüssel ist sauber.\n16\tvi\tBát này sạch.\n17\tde\tschmutzig\n18\tvi\tbẩn\n19\tde\tDieser Teller ist schmutzig.\n20\tvi\tĐĩa này bẩn.\n21\tde\tIch schneide Brot mit einem Messer.\n22\tvi\tTôi cắt bánh mì bằng dao.\n23\tde\tIch spüle nach dem Essen Schüsseln und Teller.\n24\tvi\tTôi rửa bát và đĩa sau khi ăn.\n"
   }
 ]
