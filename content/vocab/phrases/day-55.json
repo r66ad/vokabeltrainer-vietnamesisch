@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day55-sentences-01",
+    "front": "Sau khi giặt, tôi phơi quần áo.",
+    "back": "Nach dem Waschen hänge ich die Wäsche zum Trocknen auf.",
+    "kind": "sentence",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "note": "`sau khi` + Verb = nachdem; `quần áo` bedeutet Kleidung oder Wäsche.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d8f4ba6658a5db1036dae0e1.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-8a289f0793c5fae59581af2e.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Nach dem Waschen hänge ich die Wäsche zum Trocknen auf.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Sau khi giặt, tôi phơi quần áo.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day55-sentences-02",
+    "front": "Quần áo vẫn còn ướt.",
+    "back": "Die Wäsche ist immer noch nass.",
+    "kind": "sentence",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "note": "`vẫn còn` vor dem Adjektiv betont, dass ein Zustand weiterhin besteht.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-f306a1821fe406845dd71169.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-fba98b757670bb36551b5a4f.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Die Wäsche ist immer noch nass.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Quần áo vẫn còn ướt.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  }
+]

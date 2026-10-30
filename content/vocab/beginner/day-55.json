@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day55-vocab-01",
+    "front": "giặt",
+    "back": "waschen (Kleidung)",
+    "kind": "vocabulary",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "pronunciation": "sat, s stimmhaft, kurzes a, tief und knapp; t nicht lösen",
+    "example": "Tôi giặt quần áo. = Ich wasche Wäsche.",
+    "note": "Aussprache: sat, s stimmhaft, kurzes a, tief und knapp; t nicht lösen · Tôi giặt quần áo. = Ich wasche Wäsche.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-15bab624542ceb84d096423a.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-453f69b8f024f67125012687.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "waschen (Kleidung)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "giặt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day55-vocab-02",
+    "front": "phơi",
+    "back": "zum Trocknen aufhängen; ausbreiten",
+    "kind": "vocabulary",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "pronunciation": "föi, eben; ơ ohne Lippenrundung",
+    "example": "Tôi phơi quần áo. = Ich hänge Wäsche zum Trocknen auf.",
+    "note": "Aussprache: föi, eben; ơ ohne Lippenrundung · Tôi phơi quần áo. = Ich hänge Wäsche zum Trocknen auf.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-74b054e33ab36c0c27f1cafb.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-c36866eae3f4c90828742728.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "zum Trocknen aufhängen; ausbreiten",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "phơi",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day55-vocab-03",
+    "front": "khô",
+    "back": "trocken",
+    "kind": "vocabulary",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "pronunciation": "kho, eben; kh wie ch in Bach, ô geschlossen",
+    "example": "Áo này khô rồi. = Dieses Hemd ist schon trocken.",
+    "note": "Aussprache: kho, eben; kh wie ch in Bach, ô geschlossen · Áo này khô rồi. = Dieses Hemd ist schon trocken.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-aea7ab58724fb92fc1bdc0ea.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b0d07d246e8fd04a4ffd1308.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "trocken",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "khô",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day55-vocab-04",
+    "front": "ướt",
+    "back": "nass",
+    "kind": "vocabulary",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "pronunciation": "uot, steigend; u ungerundet, t nicht lösen",
+    "example": "Giày của tôi bị ướt. = Meine Schuhe sind nass geworden.",
+    "note": "Aussprache: uot, steigend; u ungerundet, t nicht lösen · Giày của tôi bị ướt. = Meine Schuhe sind nass geworden.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-9735a5df72e806e5c965192d.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-104aac30d9b42ad7324e8087.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "nass",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "ướt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  },
+  {
+    "id": "vi-day55-vocab-05",
+    "front": "xà phòng",
+    "back": "Seife",
+    "kind": "vocabulary",
+    "introduced_day": 55,
+    "introduced_on": "2026-10-30",
+    "pronunciation": "sa fallend, fong fallend; s stimmlos",
+    "example": "Tôi rửa tay bằng xà phòng. = Ich wasche mir die Hände mit Seife.",
+    "note": "Aussprache: sa fallend, fong fallend; s stimmlos · Tôi rửa tay bằng xà phòng. = Ich wasche mir die Hände mit Seife.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-65e46b71bbc0dd52be5110ed.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-94907c0bcd0cd2bb0e13561f.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Seife",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "xà phòng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-55-audio-2026-10-30.mp3"
+    ]
+  }
+]
