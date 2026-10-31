@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day56-sentences-01",
+    "front": "Tôi quét nhà rồi lau sàn.",
+    "back": "Ich fege die Wohnung und wische dann den Boden.",
+    "kind": "sentence",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "note": "`rồi` zwischen zwei Handlungen bedeutet dann oder danach.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-9fc5efdb082a293925ee4b87.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b11a64d66bfa8db1844bb5b1.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich fege die Wohnung und wische dann den Boden.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi quét nhà rồi lau sàn.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  },
+  {
+    "id": "vi-day56-sentences-02",
+    "front": "Sau khi dọn phòng, tôi đổ rác.",
+    "back": "Nach dem Aufräumen des Zimmers bringe ich den Müll raus.",
+    "kind": "sentence",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "note": "`sau khi` + Verb beschreibt die vorherige Handlung; `đổ rác` = den Müll rausbringen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d335ba2000b389d1270a63b8.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2858f02fb229e4fe4c164983.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Nach dem Aufräumen des Zimmers bringe ich den Müll raus.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Sau khi dọn phòng, tôi đổ rác.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  }
+]

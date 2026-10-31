@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day56-vocab-01",
+    "front": "dọn",
+    "back": "aufräumen; wegräumen",
+    "kind": "vocabulary",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "pronunciation": "son, s stimmhaft, tief und knapp",
+    "example": "Tôi dọn phòng. = Ich räume das Zimmer auf.",
+    "note": "Aussprache: son, s stimmhaft, tief und knapp · Tôi dọn phòng. = Ich räume das Zimmer auf.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0e93e713ee750697c25a10bc.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b8275077e0558e4644ce373f.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "aufräumen; wegräumen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "dọn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  },
+  {
+    "id": "vi-day56-vocab-02",
+    "front": "lau",
+    "back": "wischen; abwischen",
+    "kind": "vocabulary",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "pronunciation": "lau, eben",
+    "example": "Tôi lau bàn. = Ich wische den Tisch ab.",
+    "note": "Aussprache: lau, eben · Tôi lau bàn. = Ich wische den Tisch ab.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3737c50961a10cc9ca557237.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-c481c4bab3a56f0e2179a8af.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "wischen; abwischen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "lau",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  },
+  {
+    "id": "vi-day56-vocab-03",
+    "front": "quét",
+    "back": "fegen; kehren",
+    "kind": "vocabulary",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "pronunciation": "kuät, steigend; t nicht lösen",
+    "example": "Tôi quét nhà. = Ich fege die Wohnung.",
+    "note": "Aussprache: kuät, steigend; t nicht lösen · Tôi quét nhà. = Ich fege die Wohnung.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5afe179018a28fd787fa1aa1.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f77643dc6f62b56a6e272445.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "fegen; kehren",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "quét",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  },
+  {
+    "id": "vi-day56-vocab-04",
+    "front": "rác",
+    "back": "Müll; Abfall",
+    "kind": "vocabulary",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "pronunciation": "sak, s stimmhaft, steigend; k nicht lösen",
+    "example": "Tôi đổ rác. = Ich bringe den Müll raus.",
+    "note": "Aussprache: sak, s stimmhaft, steigend; k nicht lösen · Tôi đổ rác. = Ich bringe den Müll raus.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-966fea9e8bbc1f130d8fe1eb.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6c1bfedcfa98af2af42a740f.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Müll; Abfall",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "rác",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  },
+  {
+    "id": "vi-day56-vocab-05",
+    "front": "sàn",
+    "back": "Fußboden",
+    "kind": "vocabulary",
+    "introduced_day": 56,
+    "introduced_on": "2026-10-31",
+    "pronunciation": "san, fallend",
+    "example": "Sàn này sạch. = Dieser Fußboden ist sauber.",
+    "note": "Aussprache: san, fallend · Sàn này sạch. = Dieser Fußboden ist sauber.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-cbfedc72a036faeb680d6538.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-7f3dfb2dca45fd42efa1e0de.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Fußboden",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sàn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-56-audio-2026-10-31.mp3"
+    ]
+  }
+]
