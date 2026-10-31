@@ -9,7 +9,7 @@
     "note": "`rồi` zwischen zwei Handlungen bedeutet dann oder danach.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-9fc5efdb082a293925ee4b87.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b11a64d66bfa8db1844bb5b1.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-cff70a3662484c41e1d28ad5.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -26,6 +26,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "Tôi quét nhà rồi lau sàn.",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
@@ -43,7 +44,7 @@
     "note": "`sau khi` + Verb beschreibt die vorherige Handlung; `đổ rác` = den Müll rausbringen.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d335ba2000b389d1270a63b8.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2858f02fb229e4fe4c164983.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-22d67427ad8899edb332595f.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -60,6 +61,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "Sau khi dọn phòng, tôi đổ rác.",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },

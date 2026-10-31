@@ -6,12 +6,12 @@
     "kind": "vocabulary",
     "introduced_day": 56,
     "introduced_on": "2026-10-31",
-    "pronunciation": "son, s stimmhaft, tief und knapp",
+    "pronunciation": "Anlaut wie deutsches j; nặng-Ton tief, südlich weniger gepresst",
     "example": "Tôi dọn phòng. = Ich räume das Zimmer auf.",
-    "note": "Aussprache: son, s stimmhaft, tief und knapp · Tôi dọn phòng. = Ich räume das Zimmer auf.",
+    "note": "Aussprache: Anlaut wie deutsches j; nặng-Ton tief, südlich weniger gepresst · Tôi dọn phòng. = Ich räume das Zimmer auf.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0e93e713ee750697c25a10bc.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-b8275077e0558e4644ce373f.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-bc34ec5b5a5de4e34cf6e096.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -28,6 +28,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "dọn",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
@@ -47,7 +48,7 @@
     "note": "Aussprache: lau, eben · Tôi lau bàn. = Ich wische den Tisch ab.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3737c50961a10cc9ca557237.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-c481c4bab3a56f0e2179a8af.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-d873e12891d6604e947ebc07.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -64,6 +65,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "lau",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
@@ -83,7 +85,7 @@
     "note": "Aussprache: kuät, steigend; t nicht lösen · Tôi quét nhà. = Ich fege die Wohnung.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-5afe179018a28fd787fa1aa1.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-f77643dc6f62b56a6e272445.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-66f7723df385dcccf2682896.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -100,6 +102,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "quét",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
@@ -114,12 +117,12 @@
     "kind": "vocabulary",
     "introduced_day": 56,
     "introduced_on": "2026-10-31",
-    "pronunciation": "sak, s stimmhaft, steigend; k nicht lösen",
+    "pronunciation": "südliches r, nicht stimmhaftes s; sắc-Ton, k nicht lösen",
     "example": "Tôi đổ rác. = Ich bringe den Müll raus.",
-    "note": "Aussprache: sak, s stimmhaft, steigend; k nicht lösen · Tôi đổ rác. = Ich bringe den Müll raus.",
+    "note": "Aussprache: südliches r, nicht stimmhaftes s; sắc-Ton, k nicht lösen · Tôi đổ rác. = Ich bringe den Müll raus.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-966fea9e8bbc1f130d8fe1eb.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6c1bfedcfa98af2af42a740f.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-1994189a673b7f8cddfed8d4.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -136,6 +139,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "rác",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
@@ -155,7 +159,7 @@
     "note": "Aussprache: san, fallend · Sàn này sạch. = Dieser Fußboden ist sauber.",
     "audio": {
       "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-cbfedc72a036faeb680d6538.mp3",
-      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-7f3dfb2dca45fd42efa1e0de.mp3"
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-ad41d3ebf18e77a21a4d39b6.mp3"
     },
     "audio_provenance": {
       "de": {
@@ -172,6 +176,7 @@
         "voice": "marin",
         "language": "vi",
         "text": "sàn",
+        "dialect": "southern-saigon-v1",
         "label": "KI-generiert"
       }
     },
