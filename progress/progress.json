@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repo_id": "local/vokabeltrainer",
   "device_id": null,
-  "updated_at": "2026-11-01T08:40:45.710Z",
+  "updated_at": "2026-11-01T08:40:58.183Z",
   "items": {
     "vocab-hello": {
       "state": "learned",
@@ -867,6 +867,15 @@
       "wrong_count": 1,
       "last_reviewed_at": "2026-11-01T08:40:45.710Z",
       "next_review_at": "2026-11-01T08:50:45.710Z"
+    },
+    "vi-day57-vocab-02": {
+      "state": "learning",
+      "step": 0,
+      "review_count": 1,
+      "correct_count": 0,
+      "wrong_count": 1,
+      "last_reviewed_at": "2026-11-01T08:40:58.183Z",
+      "next_review_at": "2026-11-01T08:50:58.183Z"
     }
   }
 }
