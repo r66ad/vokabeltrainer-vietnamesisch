@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day57-sentences-01",
+    "front": "Tôi tắt đèn trước khi ngủ.",
+    "back": "Ich mache vor dem Schlafen das Licht aus.",
+    "kind": "sentence",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "note": "`trước khi` + Verb = bevor; `trước khi ngủ` = vor dem Schlafen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0d52519407ec3ebbe391f937.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-31924ecef73fd90947748a70.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich mache vor dem Schlafen das Licht aus.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi tắt đèn trước khi ngủ.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day57-sentences-02",
+    "front": "Tôi mở máy lạnh vì phòng nóng quá.",
+    "back": "Ich schalte die Klimaanlage ein, weil das Zimmer zu heiß ist.",
+    "kind": "sentence",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "note": "`vì` leitet einen Grund ein: weil. `mở` bedeutet bei Geräten im südlichen Alltag auch einschalten.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-93bf82bc86e375adc7029d88.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-558e5856528ef031f36f009d.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich schalte die Klimaanlage ein, weil das Zimmer zu heiß ist.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi mở máy lạnh vì phòng nóng quá.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  }
+]

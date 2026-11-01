@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day57-vocab-01",
+    "front": "đèn",
+    "back": "Lampe; Licht",
+    "kind": "vocabulary",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "pronunciation": "dèn, fallend; đ wie deutsches d",
+    "example": "Tôi mở đèn. = Ich mache das Licht an.",
+    "note": "Aussprache: dèn, fallend; đ wie deutsches d · Tôi mở đèn. = Ich mache das Licht an.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-c87697e0fe23a2f6e5f3cfd5.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-bfb0c92f96fd7a6fb3cd0c0d.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Lampe; Licht",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "đèn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day57-vocab-02",
+    "front": "quạt",
+    "back": "Ventilator",
+    "kind": "vocabulary",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "pronunciation": "etwa kuat, tief; Endverschluss nicht lösen",
+    "example": "Tôi mở quạt. = Ich schalte den Ventilator ein.",
+    "note": "Aussprache: etwa kuat, tief; Endverschluss nicht lösen · Tôi mở quạt. = Ich schalte den Ventilator ein.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-d57108c4d05f4a8cfc5e5a6b.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-9e6f13a5908eba2d4d825d9b.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ventilator",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "quạt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day57-vocab-03",
+    "front": "máy lạnh",
+    "back": "Klimaanlage (im Süden üblich)",
+    "kind": "vocabulary",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "pronunciation": "mai steigend, lanh tief; Endlaut kurz verschlossen",
+    "example": "Phòng này có máy lạnh. = Dieses Zimmer hat eine Klimaanlage.",
+    "note": "Aussprache: mai steigend, lanh tief; Endlaut kurz verschlossen · Phòng này có máy lạnh. = Dieses Zimmer hat eine Klimaanlage.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-04915342ee7fd25fcec7680a.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-fc5026ece9fc8388d74c8cbd.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Klimaanlage (im Süden üblich)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "máy lạnh",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day57-vocab-04",
+    "front": "tủ lạnh",
+    "back": "Kühlschrank",
+    "kind": "vocabulary",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "pronunciation": "tu mit Senk-Steigton, lanh tief",
+    "example": "Sữa ở trong tủ lạnh. = Die Milch ist im Kühlschrank.",
+    "note": "Aussprache: tu mit Senk-Steigton, lanh tief · Sữa ở trong tủ lạnh. = Die Milch ist im Kühlschrank.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-04f1076b84db07871a059d36.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-36438ac5229b71166aada680.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Kühlschrank",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "tủ lạnh",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  },
+  {
+    "id": "vi-day57-vocab-05",
+    "front": "tắt",
+    "back": "ausschalten; ausmachen",
+    "kind": "vocabulary",
+    "introduced_day": 57,
+    "introduced_on": "2026-11-01",
+    "pronunciation": "tak, kurzes a, steigend; südlicher Endverschluss nicht lösen",
+    "example": "Tôi tắt đèn. = Ich mache das Licht aus.",
+    "note": "Aussprache: tak, kurzes a, steigend; südlicher Endverschluss nicht lösen · Tôi tắt đèn. = Ich mache das Licht aus.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-dda239b9e54701078d2f6f2f.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2817631aa2f39db6248a18f5.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "ausschalten; ausmachen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "tắt",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-57-audio-2026-11-01.mp3"
+    ]
+  }
+]
