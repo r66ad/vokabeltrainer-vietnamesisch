@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day58-sentences-01",
+    "front": "Điện thoại hết pin rồi, tôi cần sạc điện thoại.",
+    "back": "Der Handyakku ist leer, ich muss mein Handy aufladen.",
+    "kind": "sentence",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "note": "`hết` + Nomen = kein ... mehr haben; `hết pin` = der Akku ist leer. `cần` + Verb = müssen / etwas tun müssen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-a7b5bc59ee601939b74af977.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-37d826d42f2dc62f1ceca842.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Der Handyakku ist leer, ich muss mein Handy aufladen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Điện thoại hết pin rồi, tôi cần sạc điện thoại.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day58-sentences-02",
+    "front": "Máy lạnh hư rồi, tôi gọi người tới sửa.",
+    "back": "Die Klimaanlage ist kaputt, ich rufe jemanden, der zum Reparieren kommt.",
+    "kind": "sentence",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "note": "`gọi người tới sửa` = jemanden rufen, der zum Reparieren kommt; `tới` heißt kommen und ist im Süden sehr gebräuchlich.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-22d1c1a76f7b3f69210af093.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-e6ee3eab5dd5a43eeb8b9a9a.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Die Klimaanlage ist kaputt, ich rufe jemanden, der zum Reparieren kommt.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Máy lạnh hư rồi, tôi gọi người tới sửa.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  }
+]

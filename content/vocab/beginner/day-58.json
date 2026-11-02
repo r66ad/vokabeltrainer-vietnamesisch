@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day58-vocab-01",
+    "front": "điện",
+    "back": "Strom; Elektrizität",
+    "kind": "vocabulary",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "pronunciation": "dien, tief; đ wie deutsches d",
+    "example": "Nhà tôi có điện rồi. = Bei mir zu Hause gibt es wieder Strom.",
+    "note": "Aussprache: dien, tief; đ wie deutsches d · Nhà tôi có điện rồi. = Bei mir zu Hause gibt es wieder Strom.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-462dac734d61004779465455.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-91e5aff8d18e65d5509cf78c.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Strom; Elektrizität",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "điện",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day58-vocab-02",
+    "front": "pin",
+    "back": "Batterie; Akku",
+    "kind": "vocabulary",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "pronunciation": "pin, eben; p ohne starken Lufthauch",
+    "example": "Điện thoại hết pin rồi. = Der Handyakku ist leer.",
+    "note": "Aussprache: pin, eben; p ohne starken Lufthauch · Điện thoại hết pin rồi. = Der Handyakku ist leer.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-e338a06c6595a5e288420954.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-a4354b23ba888a82a9fd35ac.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Batterie; Akku",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "pin",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day58-vocab-03",
+    "front": "sạc",
+    "back": "aufladen",
+    "kind": "vocabulary",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "pronunciation": "sak, tief; End-k nicht lösen",
+    "example": "Tôi sạc điện thoại. = Ich lade mein Handy auf.",
+    "note": "Aussprache: sak, tief; End-k nicht lösen · Tôi sạc điện thoại. = Ich lade mein Handy auf.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ed411fed3915a35a6464bd8e.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-5d698c24a1f12f591cc4b93e.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "aufladen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sạc",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day58-vocab-04",
+    "front": "hư",
+    "back": "kaputt; defekt (im Süden üblich)",
+    "kind": "vocabulary",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "pronunciation": "hư, eben; ư wie u ohne Lippenrundung",
+    "example": "Quạt này hư rồi. = Dieser Ventilator ist kaputt.",
+    "note": "Aussprache: hư, eben; ư wie u ohne Lippenrundung · Quạt này hư rồi. = Dieser Ventilator ist kaputt.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-893234d165a4157198499aad.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-556d619d6f67d75173d44dfa.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "kaputt; defekt (im Süden üblich)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "hư",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  },
+  {
+    "id": "vi-day58-vocab-05",
+    "front": "sửa",
+    "back": "reparieren; korrigieren",
+    "kind": "vocabulary",
+    "introduced_day": 58,
+    "introduced_on": "2026-11-02",
+    "pronunciation": "sưa, Senk-Steigton; ư ohne Lippenrundung",
+    "example": "Tôi sửa cái quạt. = Ich repariere den Ventilator.",
+    "note": "Aussprache: sưa, Senk-Steigton; ư ohne Lippenrundung · Tôi sửa cái quạt. = Ich repariere den Ventilator.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-8a8174f0642e90b7c7968be8.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-2d387265bd7f659951c146f4.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "reparieren; korrigieren",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "sửa",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3"
+    ]
+  }
+]

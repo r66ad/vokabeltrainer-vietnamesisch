@@ -4570,5 +4570,11 @@
     "sha256": "469b371d52a6705a6a829c8a24f6ac17b3b2b8df2ba9dff7d1de84873079d58a",
     "day": 57,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tLampe; Licht\n2\tvi\tđèn\n3\tde\tIch mache das Licht an.\n4\tvi\tTôi mở đèn.\n5\tde\tVentilator\n6\tvi\tquạt\n7\tde\tIch schalte den Ventilator ein.\n8\tvi\tTôi mở quạt.\n9\tde\tKlimaanlage (im Süden üblich)\n10\tvi\tmáy lạnh\n11\tde\tDieses Zimmer hat eine Klimaanlage.\n12\tvi\tPhòng này có máy lạnh.\n13\tde\tKühlschrank\n14\tvi\ttủ lạnh\n15\tde\tDie Milch ist im Kühlschrank.\n16\tvi\tSữa ở trong tủ lạnh.\n17\tde\tausschalten; ausmachen\n18\tvi\ttắt\n19\tde\tIch mache das Licht aus.\n20\tvi\tTôi tắt đèn.\n21\tde\tIch mache vor dem Schlafen das Licht aus.\n22\tvi\tTôi tắt đèn trước khi ngủ.\n23\tde\tIch schalte die Klimaanlage ein, weil das Zimmer zu heiß ist.\n24\tvi\tTôi mở máy lạnh vì phòng nóng quá.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-58-audio-2026-11-02.mp3",
+    "sha256": "f69f46f0734ad9f9ceda3d93f1479ea9b4b2168b80db0c279722acbf85453dac",
+    "day": 58,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tStrom; Elektrizität\n2\tvi\tđiện\n3\tde\tBei mir zu Hause gibt es wieder Strom.\n4\tvi\tNhà tôi có điện rồi.\n5\tde\tBatterie; Akku\n6\tvi\tpin\n7\tde\tDer Handyakku ist leer.\n8\tvi\tĐiện thoại hết pin rồi.\n9\tde\taufladen\n10\tvi\tsạc\n11\tde\tIch lade mein Handy auf.\n12\tvi\tTôi sạc điện thoại.\n13\tde\tkaputt; defekt (im Süden üblich)\n14\tvi\thư\n15\tde\tDieser Ventilator ist kaputt.\n16\tvi\tQuạt này hư rồi.\n17\tde\treparieren; korrigieren\n18\tvi\tsửa\n19\tde\tIch repariere den Ventilator.\n20\tvi\tTôi sửa cái quạt.\n21\tde\tDer Handyakku ist leer, ich muss mein Handy aufladen.\n22\tvi\tĐiện thoại hết pin rồi, tôi cần sạc điện thoại.\n23\tde\tDie Klimaanlage ist kaputt, ich rufe jemanden, der zum Reparieren kommt.\n24\tvi\tMáy lạnh hư rồi, tôi gọi người tới sửa.\n"
   }
 ]
