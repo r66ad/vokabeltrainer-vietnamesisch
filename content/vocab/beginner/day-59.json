@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day59-vocab-01",
+    "front": "bàn",
+    "back": "Tisch",
+    "kind": "vocabulary",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "pronunciation": "ban, fallend",
+    "example": "Tôi lau bàn. = Ich wische den Tisch ab.",
+    "note": "Aussprache: ban, fallend · Tôi lau bàn. = Ich wische den Tisch ab.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-0bb52d6693d6f7ae03673d61.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-e79193d5615322f8024a5635.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Tisch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bàn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day59-vocab-02",
+    "front": "ghế",
+    "back": "Stuhl",
+    "kind": "vocabulary",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "pronunciation": "ge, steigend; g wie in gut",
+    "example": "Ghế này nhỏ. = Dieser Stuhl ist klein.",
+    "note": "Aussprache: ge, steigend; g wie in gut · Ghế này nhỏ. = Dieser Stuhl ist klein.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-451d082f523ad9c571e7af78.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-7ceb97760c38ac74a4632639.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Stuhl",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "ghế",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day59-vocab-03",
+    "front": "giường",
+    "back": "Bett",
+    "kind": "vocabulary",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "pronunciation": "etwa jương, fallend; gi wie deutsches j, ư ohne Lippenrundung",
+    "example": "Tôi nằm trên giường. = Ich liege auf dem Bett.",
+    "note": "Aussprache: etwa jương, fallend; gi wie deutsches j, ư ohne Lippenrundung · Tôi nằm trên giường. = Ich liege auf dem Bett.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ef2f419f38f4f0738946a6a0.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-6cf488695cdafe60bc14f92e.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bett",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "giường",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day59-vocab-04",
+    "front": "gối",
+    "back": "Kopfkissen",
+    "kind": "vocabulary",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "pronunciation": "goi, steigend; ô geschlossen",
+    "example": "Gối này nhỏ. = Dieses Kopfkissen ist klein.",
+    "note": "Aussprache: goi, steigend; ô geschlossen · Gối này nhỏ. = Dieses Kopfkissen ist klein.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-67c752df9b7d0b06a0c7f819.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-198d0ddf99b46e8480395e7f.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Kopfkissen",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "gối",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day59-vocab-05",
+    "front": "mền",
+    "back": "Decke; Bettdecke (im Süden üblich)",
+    "kind": "vocabulary",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "pronunciation": "men, fallend; ê geschlossen",
+    "example": "Tôi cần một cái mền. = Ich brauche eine Decke.",
+    "note": "Aussprache: men, fallend; ê geschlossen · Tôi cần một cái mền. = Ich brauche eine Decke.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3c8221d8410e6bf59b2dd746.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-4a4edd0d5a45c4574d69d8bc.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Decke; Bettdecke (im Süden üblich)",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "mền",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day59-sentences-01",
+    "front": "Tôi để gối và mền trên giường.",
+    "back": "Ich lege das Kopfkissen und die Decke aufs Bett.",
+    "kind": "sentence",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "note": "`để` + Gegenstand + Ort = etwas irgendwo hinlegen; `trên giường` = auf dem Bett.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-07675d7a0be7752851ab5454.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-85bbf0d6de05ae2e365440fb.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich lege das Kopfkissen und die Decke aufs Bett.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi để gối và mền trên giường.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  },
+  {
+    "id": "vi-day59-sentences-02",
+    "front": "Tôi ngồi trên ghế để đọc sách.",
+    "back": "Ich sitze auf dem Stuhl, um ein Buch zu lesen.",
+    "kind": "sentence",
+    "introduced_day": 59,
+    "introduced_on": "2026-11-03",
+    "note": "`để` + Verb nennt hier einen Zweck: um zu; `đọc sách` = ein Buch lesen / Bücher lesen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-46c4cf36e65f65391a0ff75a.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-dcbf4b8b527efe8541449583.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich sitze auf dem Stuhl, um ein Buch zu lesen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi ngồi trên ghế để đọc sách.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3"
+    ]
+  }
+]

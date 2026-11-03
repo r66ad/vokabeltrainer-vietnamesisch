@@ -4576,5 +4576,11 @@
     "sha256": "f69f46f0734ad9f9ceda3d93f1479ea9b4b2168b80db0c279722acbf85453dac",
     "day": 58,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tStrom; Elektrizität\n2\tvi\tđiện\n3\tde\tBei mir zu Hause gibt es wieder Strom.\n4\tvi\tNhà tôi có điện rồi.\n5\tde\tBatterie; Akku\n6\tvi\tpin\n7\tde\tDer Handyakku ist leer.\n8\tvi\tĐiện thoại hết pin rồi.\n9\tde\taufladen\n10\tvi\tsạc\n11\tde\tIch lade mein Handy auf.\n12\tvi\tTôi sạc điện thoại.\n13\tde\tkaputt; defekt (im Süden üblich)\n14\tvi\thư\n15\tde\tDieser Ventilator ist kaputt.\n16\tvi\tQuạt này hư rồi.\n17\tde\treparieren; korrigieren\n18\tvi\tsửa\n19\tde\tIch repariere den Ventilator.\n20\tvi\tTôi sửa cái quạt.\n21\tde\tDer Handyakku ist leer, ich muss mein Handy aufladen.\n22\tvi\tĐiện thoại hết pin rồi, tôi cần sạc điện thoại.\n23\tde\tDie Klimaanlage ist kaputt, ich rufe jemanden, der zum Reparieren kommt.\n24\tvi\tMáy lạnh hư rồi, tôi gọi người tới sửa.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-59-audio-2026-11-03.mp3",
+    "sha256": "942d697808a2fd2f319039e7cc5cafa8db7a5a601cf9e85c742a2c64943293b9",
+    "day": 59,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tTisch\n2\tvi\tbàn\n3\tde\tIch wische den Tisch ab.\n4\tvi\tTôi lau bàn.\n5\tde\tStuhl\n6\tvi\tghế\n7\tde\tDieser Stuhl ist klein.\n8\tvi\tGhế này nhỏ.\n9\tde\tBett\n10\tvi\tgiường\n11\tde\tIch liege auf dem Bett.\n12\tvi\tTôi nằm trên giường.\n13\tde\tKopfkissen\n14\tvi\tgối\n15\tde\tDieses Kopfkissen ist klein.\n16\tvi\tGối này nhỏ.\n17\tde\tDecke; Bettdecke (im Süden üblich)\n18\tvi\tmền\n19\tde\tIch brauche eine Decke.\n20\tvi\tTôi cần một cái mền.\n21\tde\tIch lege das Kopfkissen und die Decke aufs Bett.\n22\tvi\tTôi để gối và mền trên giường.\n23\tde\tIch sitze auf dem Stuhl, um ein Buch zu lesen.\n24\tvi\tTôi ngồi trên ghế để đọc sách.\n"
   }
 ]
