@@ -1,0 +1,182 @@
+[
+  {
+    "id": "vi-day60-vocab-01",
+    "front": "khăn",
+    "back": "Handtuch; Tuch",
+    "kind": "vocabulary",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "pronunciation": "etwa khan, kurzes a, eben; kh wie ch in Bach",
+    "example": "Khăn này sạch. = Dieses Handtuch ist sauber.",
+    "note": "Aussprache: etwa khan, kurzes a, eben; kh wie ch in Bach · Khăn này sạch. = Dieses Handtuch ist sauber.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-bcc626e66dfd60d4237de90e.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-a34e07a75bfbdc47ef9c33ce.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Handtuch; Tuch",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "khăn",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day60-vocab-02",
+    "front": "bàn chải",
+    "back": "Bürste",
+    "kind": "vocabulary",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "pronunciation": "ban fallend, tschai mit Senk-Steigton",
+    "example": "Tôi mua bàn chải đánh răng. = Ich kaufe eine Zahnbürste.",
+    "note": "Aussprache: ban fallend, tschai mit Senk-Steigton · Tôi mua bàn chải đánh răng. = Ich kaufe eine Zahnbürste.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-763a303c8c807ff359cd3bbb.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-07a465a1fe536dd3831ab145.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Bürste",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "bàn chải",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day60-vocab-03",
+    "front": "kem đánh răng",
+    "back": "Zahnpasta",
+    "kind": "vocabulary",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "pronunciation": "kem eben, danh steigend, rang eben; r südlich als r-Laut",
+    "example": "Tôi cần kem đánh răng. = Ich brauche Zahnpasta.",
+    "note": "Aussprache: kem eben, danh steigend, rang eben; r südlich als r-Laut · Tôi cần kem đánh răng. = Ich brauche Zahnpasta.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3fc7d2169979e28c8eeac6f3.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-25f79dc21afe61135f528da2.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Zahnpasta",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "kem đánh răng",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day60-vocab-04",
+    "front": "gương",
+    "back": "Spiegel",
+    "kind": "vocabulary",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "pronunciation": "etwa gương, eben; g wie in gut, ư ohne Lippenrundung",
+    "example": "Tôi nhìn vào gương. = Ich schaue in den Spiegel.",
+    "note": "Aussprache: etwa gương, eben; g wie in gut, ư ohne Lippenrundung · Tôi nhìn vào gương. = Ich schaue in den Spiegel.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-3391fac8e6a1e8cd0b021d81.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-96f0f4a5a912e54af95b2ff3.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Spiegel",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "gương",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day60-vocab-05",
+    "front": "lược",
+    "back": "Kamm",
+    "kind": "vocabulary",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "pronunciation": "etwa lươk, tief; ư ohne Lippenrundung, End-k nicht lösen",
+    "example": "Tôi cần một cái lược. = Ich brauche einen Kamm.",
+    "note": "Aussprache: etwa lươk, tief; ư ohne Lippenrundung, End-k nicht lösen · Tôi cần một cái lược. = Ich brauche einen Kamm.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-82c3abb2c2f5610e4ced5158.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-647884dab25a537be15883cc.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Kamm",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "lược",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  }
+]

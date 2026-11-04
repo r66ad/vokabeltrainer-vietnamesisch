@@ -1,0 +1,70 @@
+[
+  {
+    "id": "vi-day60-sentences-01",
+    "front": "Tôi đánh răng trước khi đi ngủ.",
+    "back": "Ich putze mir vor dem Schlafengehen die Zähne.",
+    "kind": "sentence",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "note": "`đánh răng` = Zähne putzen; `trước khi` + Verb = bevor / vor dem.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-7cdf6ef813e847754a33f6a1.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-4c86e16ac7315f70eb64eb21.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich putze mir vor dem Schlafengehen die Zähne.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi đánh răng trước khi đi ngủ.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  },
+  {
+    "id": "vi-day60-sentences-02",
+    "front": "Tôi lấy khăn để lau mặt.",
+    "back": "Ich nehme ein Handtuch, um mir das Gesicht abzutrocknen.",
+    "kind": "sentence",
+    "introduced_day": 60,
+    "introduced_on": "2026-11-04",
+    "note": "`để` + Verb nennt einen Zweck; `lau mặt` = das Gesicht abwischen / abtrocknen.",
+    "audio": {
+      "de": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-de-ba4228207e7f52b7e9e85421.mp3",
+      "vi": "content/vocab/audio/clips/openai-gpt-4o-mini-tts-marin-vi-10b1f9b072a129af1c32c31e.mp3"
+    },
+    "audio_provenance": {
+      "de": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "de",
+        "text": "Ich nehme ein Handtuch, um mir das Gesicht abzutrocknen.",
+        "label": "KI-generiert"
+      },
+      "vi": {
+        "provider": "openai",
+        "model": "gpt-4o-mini-tts",
+        "voice": "marin",
+        "language": "vi",
+        "text": "Tôi lấy khăn để lau mặt.",
+        "label": "KI-generiert"
+      }
+    },
+    "lesson_audio": [
+      "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3"
+    ]
+  }
+]

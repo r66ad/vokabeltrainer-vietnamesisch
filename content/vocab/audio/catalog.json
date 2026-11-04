@@ -4582,5 +4582,11 @@
     "sha256": "942d697808a2fd2f319039e7cc5cafa8db7a5a601cf9e85c742a2c64943293b9",
     "day": 59,
     "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tTisch\n2\tvi\tbàn\n3\tde\tIch wische den Tisch ab.\n4\tvi\tTôi lau bàn.\n5\tde\tStuhl\n6\tvi\tghế\n7\tde\tDieser Stuhl ist klein.\n8\tvi\tGhế này nhỏ.\n9\tde\tBett\n10\tvi\tgiường\n11\tde\tIch liege auf dem Bett.\n12\tvi\tTôi nằm trên giường.\n13\tde\tKopfkissen\n14\tvi\tgối\n15\tde\tDieses Kopfkissen ist klein.\n16\tvi\tGối này nhỏ.\n17\tde\tDecke; Bettdecke (im Süden üblich)\n18\tvi\tmền\n19\tde\tIch brauche eine Decke.\n20\tvi\tTôi cần một cái mền.\n21\tde\tIch lege das Kopfkissen und die Decke aufs Bett.\n22\tvi\tTôi để gối và mền trên giường.\n23\tde\tIch sitze auf dem Stuhl, um ein Buch zu lesen.\n24\tvi\tTôi ngồi trên ghế để đọc sách.\n"
+  },
+  {
+    "file": "content/vocab/audio/lessons/tag-60-audio-2026-11-04.mp3",
+    "sha256": "7e37cfe5ab9bf514737aa283a917484da5d94fa44893dabca843f53126ec47b3",
+    "day": 60,
+    "transcript": "KI-generiert: OpenAI / gpt-4o-mini-tts / marin. Deutsch zuerst; 0,5 Sekunden Pause.\n\n1\tde\tHandtuch; Tuch\n2\tvi\tkhăn\n3\tde\tDieses Handtuch ist sauber.\n4\tvi\tKhăn này sạch.\n5\tde\tBürste\n6\tvi\tbàn chải\n7\tde\tIch kaufe eine Zahnbürste.\n8\tvi\tTôi mua bàn chải đánh răng.\n9\tde\tZahnpasta\n10\tvi\tkem đánh răng\n11\tde\tIch brauche Zahnpasta.\n12\tvi\tTôi cần kem đánh răng.\n13\tde\tSpiegel\n14\tvi\tgương\n15\tde\tIch schaue in den Spiegel.\n16\tvi\tTôi nhìn vào gương.\n17\tde\tKamm\n18\tvi\tlược\n19\tde\tIch brauche einen Kamm.\n20\tvi\tTôi cần một cái lược.\n21\tde\tIch putze mir vor dem Schlafengehen die Zähne.\n22\tvi\tTôi đánh răng trước khi đi ngủ.\n23\tde\tIch nehme ein Handtuch, um mir das Gesicht abzutrocknen.\n24\tvi\tTôi lấy khăn để lau mặt.\n"
   }
 ]
